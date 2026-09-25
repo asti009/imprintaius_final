@@ -1,0 +1,68 @@
+
+---Upload files---
+Customizer file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30000
+Files info:
+Site URL = https://www.astiinfotech.com/landing
+Data file = /home/astiinfotech.com/public_html/landing/wp-content/uploads/2024/04/content.xml
+Widget file = /home/astiinfotech.com/public_html/landing/wp-content/uploads/2024/04/widgets.wie
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Default Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+
+Default Left Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Topapp Blog Sidebar : 
+
+Search - No Title - Imported
+Categories - Category - Imported
+Tag Cloud - Tags - Imported
+Text - No Title - Imported
+Gallery - Gallery - Imported
+Search - No Title - Imported
+Text - Subscribe - Imported
+Gallery - Gallery - Imported
+
+saas_classic_footer_widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+saasclassicabout_widget - No Title - Site does not support widget
+Navigation Menu - Links - Imported to Inactive
+saasclassicnewslette_widget - Newsletter - Site does not support widget
+
+
+
+---ocdi/after_import---
+

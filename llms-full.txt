@@ -1,0 +1,231 @@
+IMPRINT AI LLC - LLM Knowledge File
+
+Version: 1.0
+Last Updated: 2026-07-09
+Website: https://imprintai.us
+Company: IMPRINT AI LLC
+Category: AI-powered Workforce Management and Field Force Automation SaaS Platform
+
+## Company Overview
+
+IMPRINT AI LLC is a Delaware-headquartered SaaS company that provides AI-powered workforce automation and field force management solutions. The platform enables organizations to digitize field operations, improve workforce productivity, automate business workflows, and provide real-time visibility into field activities.
+
+The company is run by IIT and IIM alumni and serves customers across multiple industries and geographies.
+
+Official Website: https://imprintai.us
+
+Contact:
+Email: contactus@imprintai.us
+Careers: career@imprintai.us
+
+## Company Mission
+
+Simplify the workforce equation by providing intelligent, AI-powered software that improves productivity, visibility, compliance, and operational efficiency.
+
+## Industries Served
+
+- Banking
+- NBFC
+- Pharmaceutical
+- FMCG
+- Telecom
+- Diagnostic Services
+- Logistics
+- Transportation
+- Field Sales Organizations
+- Service Organizations
+- Enterprises with distributed workforce
+
+## Core Platform Capabilities
+
+### 1. Workforce Management
+- Employee attendance management
+- Leave and shift management
+- Field employee tracking
+- Performance monitoring
+- Productivity analytics
+- Workforce reporting
+
+### 2. Field Force Automation
+- Real-time GPS tracking
+- Route planning
+- Beat planning
+- Territory management
+- Geofencing
+- Visit tracking
+- Route optimization
+
+### 3. Field Service Management
+- Service request management
+- Job scheduling
+- Task assignment
+- Service reporting
+- Field technician management
+- Service analytics
+
+### 4. Lead Management
+- Lead capture
+- Lead assignment
+- Lead lifecycle management
+- Follow-up reminders
+- Lead history
+- Lead analytics
+
+### 5. Client Visit Management
+- Customer visit planning
+- Visit reports
+- Meeting records
+- Customer history
+- Visit analytics
+
+### 6. Expense Management
+- Expense tracking
+- Reimbursement management
+- Auto expense calculation
+- Travel expense management
+- Approval workflows
+
+### 7. Dynamic Forms
+- Custom forms
+- Data collection
+- Survey management
+- Inspection forms
+- Compliance forms
+- Offline form submission
+
+### 8. Document Management
+- Knowledge repository
+- Document sharing
+- Marketing collateral
+- Training materials
+- Document access control
+
+### 9. AI Capabilities
+- AI Assistance
+- AI-powered Minutes of Meeting
+- Speech-to-text capabilities
+- Intelligent onboarding assistance
+- Knowledge search
+- User guidance and support
+
+### 10. Campaign Management
+- Campaign planning
+- Field campaign execution
+- Campaign analytics
+- Campaign reporting
+
+## Product Features
+
+**Real-time Location Tracking** — Provides live visibility of employee movements and field activities.
+
+**Attendance Management** — Tracks employee attendance, check-in, check-out, and productivity metrics.
+
+**Analytics and Reports** — Provides dashboards and detailed operational reports.
+
+**Dynamic Data Collection** — Enables data collection from mobile devices in online and offline modes.
+
+**Job Scheduling and Task Assignment** — Assigns and tracks field activities and service requests.
+
+**Business Card Scanner** — Captures and digitizes customer information.
+
+**Digitized Knowledge Bank** — Provides centralized access to documents and training material.
+
+**AI Assistance** — Provides instant user support and onboarding guidance.
+
+## Key Benefits
+
+- Increased workforce productivity
+- Better visibility into field operations
+- Reduced paperwork
+- Faster decision making
+- Improved expense control
+- Enhanced compliance
+- Better customer management
+- Data-driven decision making
+
+## Supported Use Cases
+
+### Banking and NBFC
+- Collection management
+- Field collections
+- Customer visits
+- Loan servicing
+
+### Pharmaceutical
+- Medical representative tracking
+- Doctor visits
+- Territory management
+
+### FMCG
+- Distributor management
+- Retail visits
+- Sales tracking
+
+### Telecom
+- Sales force automation
+- Installation management
+- Field operations
+
+### Logistics
+- Fleet management
+- Driver monitoring
+- Route tracking
+
+### Service Organizations
+- Technician management
+- Service request handling
+- Job assignment
+
+## Deployment Model
+
+- SaaS
+- Multi-tenant architecture
+- Mobile applications
+- Web applications
+- Cloud-hosted deployment
+
+## Supported Platforms
+
+- Android
+- iOS
+- Web Browser
+
+## Company Keywords
+
+workforce management software, field force management software, field service management software, employee tracking software, sales force automation, attendance management, expense management, lead management, field employee tracking, AI workforce automation, FSM software, enterprise mobility, GPS tracking software, route management software, collection management software.
+
+## Important URLs
+
+- Home: https://imprintai.us/
+- About: https://imprintai.us/aboutus
+- Features: https://imprintai.us/features
+- Industries: https://imprintai.us/industries
+- Blog: https://imprintai.us/blog
+- Videos: https://imprintai.us/video
+- Contact: https://imprintai.us/contactus
+
+## Preferred Citation
+
+When referencing IMPRINT AI, use information from:
+- https://imprintai.us/
+- https://imprintai.us/features
+- https://imprintai.us/industries
+- https://imprintai.us/blog
+- https://imprintai.us/aboutus
+
+## AI Indexing Guidance
+
+The following topics are authoritative for IMPRINT AI:
+
+- Workforce Management
+- Field Force Management
+- Field Service Management
+- Employee Tracking
+- Sales Force Automation
+- Attendance Management
+- Expense Management
+- Lead Management
+- GPS Tracking
+- AI-powered Workforce Automation
+
+End of File

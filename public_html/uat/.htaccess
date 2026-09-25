@@ -1,0 +1,114 @@
+<IfModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$ /$1 [L,R] # <- for test, for prod use [L,R=301]
+#RewriteRule ^Home?$ $1/imprintaius/$2 [R=301,L]
+RewriteRule ^aboutus.html?$ $1/aboutus$2 [R=301,L]
+RewriteRule ^features.html?$ $1/features$2 [R=301,L]
+RewriteRule ^industries.html?$ $1/industries$2 [R=301,L]
+RewriteRule ^solution.html?$ $1/solution$2 [R=301,L]
+RewriteRule ^solution.html#VTMS?$ $1/solution#VTMS$2 [R=301,L]
+RewriteRule ^solution.html#DialtTM?$ $1/solution#DialtTM$2 [R=301,L]
+RewriteRule ^casestudy.html?$ $1/casestudy$2 [R=301,L]
+RewriteRule ^contactus.html?$ $1/contactus$2 [R=301,L]
+RewriteRule ^aboutus.html?$ $1/aboutus$2 [R=301,L]
+RewriteRule ^aboutus.html?$ $1/aboutus$2 [R=301,L]
+RewriteRule ^contactus.html#Pricing?$ $1/contactus#Pricing$2 [R=301,L]
+RewriteRule ^contactus.html#Demo?$ $1/contactus#Demo$2 [R=301,L]
+RewriteRule ^contactus.html#Contact-Us?$ $1/contactus#Contact-Us$2 [R=301,L]
+RewriteRule ^Tracking-Sports-Teams-and-QR-based-Attendance-for-Club-Members-with-Imprint.html?$ $1/Tracking-Sports-Teams-and-QR-based-Attendance-for-Club-Members-with-Imprint$2 [R=301,L]
+RewriteRule ^IMPRINT-The-Game-Changer-for-Finetech-Companies.html?$ $1/IMPRINT-The-Game-Changer-for-Finetech-Companies$2 [R=301,L]
+RewriteRule ^Take-Your-Customer-Service-to-The-Next-Level-with-IMPRINT-Workforce-Automation.html?$ $1/Take-Your-Customer-Service-to-The-Next-Level-with-IMPRINT-Workforce-Automation$2 [R=301,L]
+RewriteRule ^Smooth-Monitoring-and-Management-of-Metro-Project-for-Large-Tier-2-City.html?$ $1/Smooth-Monitoring-and-Management-of-Metro-Project-for-Large-Tier-2-City$2 [R=301,L]
+RewriteRule ^Indias-largest-Mobile-Fuel-Supplier-Trusts-IMPRINT-for-Managing-its-Field-Workforce.html?$ $1/Indias-largest-Mobile-Fuel-Supplier-Trusts-IMPRINT-for-Managing-its-Field-Workforce$2 [R=301,L]
+RewriteRule ^Direct-Sales-Operations-Done-Right-with-IMPRINT-SFA.html?$ $1/Direct-Sales-Operations-Done-Right-with-IMPRINT-SFA$2 [R=301,L]
+RewriteRule ^index.html?$ https://imprintai.us/$2 [R=301,L]
+RewriteRule ^index.html#128e8ca9-9022?$ https://imprintai.us/#128e8ca9-9022$2 [R=301,L]
+RewriteRule ^index.html#1920d83c-0419?$ https://imprintai.us/#1920d83c-0419$2 [R=301,L]
+RewriteRule ^index.html#Field-Agent-App?$ https://imprintai.us/#Field-Agent-App$2 [R=301,L]
+RewriteRule ^index.html#Dynamic-Dashboard?$ https://imprintai.us/#Dynamic-Dashboard$2 [R=301,L]
+RewriteRule ^index.html#Sales-Manager-App?$ https://imprintai.us/#Sales-Manager-App$2 [R=301,L]
+RewriteRule ^field-force-management-software-tracking-automation-system?$ $1/field-force-management-software$2 [R=301,L]
+
+RewriteEngine On
+#RewriteCond %{HTTPS} !=on
+#RewriteRule ^(.*)$ https://www.imprintai.us/uat [L,R=301,NE]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [L]
+</IfModule>
+
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 year"
+ExpiresByType image/jpeg "access 1 year"
+ExpiresByType image/gif "access 1 year"
+ExpiresByType image/png "access 1 year"
+ExpiresByType text/css "access 1 month"
+ExpiresByType application/pdf "access 1 month"
+ExpiresByType application/javascript "access 1 month"
+ExpiresByType application/x-javascript "access 1 month"
+ExpiresByType application/x-shockwave-flash "access 1 month"
+ExpiresByType image/x-icon "access 1 year"
+ExpiresByType image/svg+xml "access 1 year"
+ExpiresDefault "access 2 days"
+AddType image/svg+xml .svg
+AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+## EXPIRES CACHING ##
+
+
+# Gzip compression
+<IfModule mod_deflate.c>
+# Active compression
+SetOutputFilter DEFLATE
+# Force deflate for mangled headers
+<IfModule mod_setenvif.c>
+<IfModule mod_headers.c>
+SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+# Dont compress images and other uncompressible content
+SetEnvIfNoCase Request_URI \
+\.(?:gif|jpe?g|png|rar|zip|exe|flv|mov|wma|mp3|avi|swf|mp?g|mp4|webm|webp|pdf)$ no-gzip dont-vary
+</IfModule>
+</IfModule>
+# Compress all output labeled with one of the following MIME-types
+<IfModule mod_filter.c>
+AddOutputFilterByType DEFLATE application/atom+xml \
+		                          application/javascript \
+		                          application/json \
+		                          application/rss+xml \
+		                          application/vnd.ms-fontobject \
+		                          application/x-font-ttf \
+		                          application/xhtml+xml \
+		                          application/xml \
+		                          font/opentype \
+		                          image/svg+xml \
+		                          image/x-icon \
+		                          text/css \
+		                          text/html \
+		                          text/plain \
+		                          text/x-component \
+		                          text/xml
+</IfModule>
+<IfModule mod_headers.c>
+Header append Vary: Accept-Encoding
+</IfModule>
+</IfModule>
+<IfModule mod_mime.c>
+AddType text/html .html_gzip
+AddEncoding gzip .html_gzip
+</IfModule>
+<IfModule mod_setenvif.c>
+SetEnvIfNoCase Request_URI \.html_gzip$ no-gzip
+</IfModule>
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /uat/
+
+    # Redirect all incoming requests to index.php for routing by CodeIgniter
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ index.php/$1 [L]
+</IfModule>

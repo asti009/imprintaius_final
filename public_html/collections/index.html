@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Stop NBFC Collection Fraud | Live Agent Tracking | Imprint AI</title>
+    <meta name="description" content="Stop fake collection visits & revenue leakage. Track agents live with geo-tagged proof. Improve recovery by 20%. Book free demo.">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background: #ffffff;
+            color: #111827;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 1.5rem;
+        }
+
+        /* Header */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+        .logo {
+            font-size: 1.8rem;
+            font-weight: 700;
+            background: linear-gradient(135deg, #2563eb, #7c3aed);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .nav a {
+            color: #4b5563;
+            text-decoration: none;
+            margin-left: 2rem;
+            font-weight: 500;
+        }
+        .nav a:hover { color: #2563eb; }
+
+        /* Hero Section - Above Fold with Form & Dashboard Image */
+        .hero {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            align-items: start;
+            margin: 1rem 0 3rem;
+        }
+
+        .hero-left h1 {
+            font-size: 2.8rem;
+            font-weight: 800;
+            line-height: 1.2;
+            margin-bottom: 1rem;
+            letter-spacing: -0.02em;
+        }
+        .highlight {
+            background: linear-gradient(135deg, #2563eb, #7c3aed);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+        .roi-badge {
+            display: inline-block;
+            background: #ecfdf5;
+            border-left: 4px solid #10b981;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            margin: 1rem 0;
+            font-weight: 600;
+            font-size: 1rem;
+        }
+        .trust-line {
+            display: flex;
+            gap: 1rem;
+            margin-top: 1.5rem;
+            font-size: 0.85rem;
+            color: #4b5563;
+            flex-wrap: wrap;
+        }
+        .trust-line span {
+            background: #f3f4f6;
+            padding: 0.25rem 0.75rem;
+            border-radius: 40px;
+        }
+
+        /* Form Card */
+        .form-card {
+            background: #f9fafb;
+            border-radius: 24px;
+            padding: 1.5rem;
+            border: 1px solid #e5e7eb;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.1);
+        }
+        .form-card h3 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.25rem;
+        }
+        .form-card .sub {
+            color: #6b7280;
+            margin-bottom: 1rem;
+            font-size: 0.85rem;
+        }
+        .form-group {
+            margin-bottom: 0.8rem;
+        }
+        label {
+            font-size: 0.8rem;
+            font-weight: 600;
+            display: block;
+            margin-bottom: 0.2rem;
+        }
+        .required:after {
+            content: " *";
+            color: #ef4444;
+        }
+        input, select {
+            width: 100%;
+            padding: 0.7rem 0.9rem;
+            border: 1px solid #d1d5db;
+            border-radius: 12px;
+            font-size: 0.9rem;
+            background: white;
+        }
+        .btn-primary {
+            background: #2563eb;
+            color: white;
+            border: none;
+            width: 100%;
+            padding: 0.85rem;
+            font-size: 1rem;
+            font-weight: 700;
+            border-radius: 40px;
+            cursor: pointer;
+            margin-top: 0.5rem;
+        }
+        .soft-note {
+            text-align: center;
+            font-size: 0.7rem;
+            margin-top: 0.75rem;
+            color: #6b7280;
+        }
+
+        /* Dashboard Preview Image - CRITICAL FIX */
+        .dashboard-preview {
+            margin-top: 1.5rem;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 20px 35px -12px rgba(0,0,0,0.15);
+            border: 1px solid #e5e7eb;
+        }
+        .dashboard-preview img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .img-placeholder {
+            background: linear-gradient(135deg, #e0e7ff, #c7d2fe);
+            text-align: center;
+            padding: 3rem 1rem;
+            color: #4338ca;
+            font-weight: 500;
+        }
+
+        /* Pain Section */
+        .pain-section {
+            background: #fef2f2;
+            border-radius: 24px;
+            padding: 2rem;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        .pain-grid {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin-top: 1.5rem;
+        }
+        .pain-item {
+            background: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 60px;
+            font-weight: 600;
+            color: #dc2626;
+        }
+
+        /* Features */
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+            gap: 2rem;
+            margin: 3rem 0;
+        }
+        .feature {
+            text-align: center;
+            padding: 1.5rem;
+            background: #f9fafb;
+            border-radius: 20px;
+        }
+        .feature .icon { font-size: 2rem; margin-bottom: 0.75rem; }
+        .feature h4 { font-size: 1.2rem; margin-bottom: 0.5rem; }
+        .feature p { color: #4b5563; font-size: 0.9rem; }
+
+        /* Stats */
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            flex-wrap: wrap;
+            background: #111827;
+            color: white;
+            padding: 2rem;
+            border-radius: 24px;
+            margin: 2rem 0;
+            text-align: center;
+        }
+        .stat h3 { font-size: 2rem; font-weight: 800; }
+        .stat p { font-size: 0.85rem; opacity: 0.8; }
+
+        /* After Demo */
+        .after-demo {
+            background: linear-gradient(135deg, #2563eb, #7c3aed);
+            color: white;
+            padding: 2rem;
+            border-radius: 24px;
+            text-align: center;
+            margin: 2rem 0;
+        }
+        .steps {
+            display: flex;
+            justify-content: center;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+        }
+        .step {
+            background: rgba(255,255,255,0.15);
+            padding: 0.5rem 1.2rem;
+            border-radius: 40px;
+        }
+
+        /* Sticky CTA for mobile */
+        .sticky-cta {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            padding: 0.8rem;
+            box-shadow: 0 -4px 10px rgba(0,0,0,0.1);
+            display: none;
+            z-index: 1000;
+        }
+        .sticky-cta .btn-primary {
+            margin: 0;
+            padding: 0.7rem;
+        }
+        @media (max-width: 768px) {
+            .hero { grid-template-columns: 1fr; }
+            .hero-left h1 { font-size: 2rem; }
+            .sticky-cta { display: block; }
+            body { padding-bottom: 70px; }
+        }
+
+        .footer {
+            text-align: center;
+            padding: 2rem;
+            font-size: 0.75rem;
+            color: #6b7280;
+            border-top: 1px solid #e5e7eb;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <div class="logo">Imprint AI</div>
+        <div class="nav">
+            <a href="#">Platform</a>
+            <a href="#">Solutions</a>
+            <a href="#">Contact</a>
+        </div>
+    </div>
+
+    <!-- Hero Section with Dashboard Preview -->
+    <div class="hero">
+        <div class="hero-left">
+            <h1>Stop <span class="highlight">Fake Collection Visits</span><br>& Revenue Leakage Instantly</h1>
+            <div class="roi-badge">
+                📈 Improve recovery by 20% · Save 16% admin time
+            </div>
+            <p style="font-size: 1.1rem; color: #374151;">Track every collection agent live. Geo-tagged proof of visit. Auto alerts for missed check-ins. Built for Indian NBFCs.</p>
+            <div class="trust-line">
+                <span>✅ Trusted by NBFCs across India</span>
+                <span>🏆 IIT/IIM founded</span>
+                <span>⚡ Deploy in 24 hours</span>
+            </div>
+            <!-- Dashboard Image - Replace src with your actual UI screenshot -->
+            <div class="dashboard-preview">
+                <div class="img-placeholder">
+                    📸 YOUR DASHBOARD PREVIEW HERE<br>
+                    (Replace this div with <img src="your-dashboard-screenshot.png">)
+                </div>
+            </div>
+        </div>
+        <div class="form-card">
+            <h3>Book Free Demo</h3>
+            <div class="sub">Live walkthrough · No commitment</div>
+            <form id="demoForm">
+                <div class="form-group">
+                    <label class="required">Full name</label>
+                    <input type="text" required placeholder="Rajesh Sharma">
+                </div>
+                <div class="form-group">
+                    <label class="required">Company name</label>
+                    <input type="text" required placeholder="ABC Finance Ltd">
+                </div>
+                <div class="form-group">
+                    <label class="required">Phone number</label>
+                    <input type="tel" required placeholder="9876543210">
+                </div>
+                <div class="form-group">
+                    <label>Email <span style="font-weight:normal;">(optional)</span></label>
+                    <input type="email" placeholder="rajesh@abcfi.com">
+                </div>
+                <div class="form-group">
+                    <label class="required">Monthly collection cases</label>
+                    <select required>
+                        <option value="">Select</option>
+                        <option>Less than 500</option>
+                        <option>500 – 2,000</option>
+                        <option>2,000+</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label class="required">Current tracking method</label>
+                    <select required>
+                        <option value="">Select</option>
+                        <option>Excel / Sheets</option>
+                        <option>No formal tracking</option>
+                        <option>Another software</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn-primary">Book Free Demo →</button>
+                <div class="soft-note">🔒 15-min live session · No credit card</div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Pain Section -->
+    <div class="pain-section">
+        <h2>⚠️ The Real Cost of Manual Tracking</h2>
+        <div class="pain-grid">
+            <span class="pain-item">📉 20% revenue leakage</span>
+            <span class="pain-item">🕵️ Fake visits daily</span>
+            <span class="pain-item">⏱️ 16% admin time wasted</span>
+            <span class="pain-item">📍 No proof of visit</span>
+        </div>
+    </div>
+
+    <!-- Features -->
+    <div class="features">
+        <div class="feature"><div class="icon">📍</div><h4>Live GPS Tracking</h4><p>Real-time location, timestamp, geo-tagged photo proof.</p></div>
+        <div class="feature"><div class="icon">🚫</div><h4>Fake Visit Detection</h4><p>Auto alerts for early check-outs and fraudulent entries.</p></div>
+        <div class="feature"><div class="icon">📊</div><h4>Recovery Analytics</h4><p>Agent-wise collection efficiency and leakage insights.</p></div>
+        <div class="feature"><div class="icon">⚡</div><h4>Works Offline</h4><p>Low-network areas? Data syncs automatically.</p></div>
+    </div>
+
+    <!-- Stats Proof -->
+    <div class="stats">
+        <div class="stat"><h3>20%</h3><p>Average recovery improvement</p></div>
+        <div class="stat"><h3>16%</h3><p>Admin time saved</p></div>
+        <div class="stat"><h3>100+</h3><p>Teams trust Imprint AI</p></div>
+    </div>
+
+    <!-- After Demo -->
+    <div class="after-demo">
+        <h3>📞 What happens after you book a demo?</h3>
+        <div class="steps">
+            <div class="step">1️⃣ 15-min live walkthrough</div>
+            <div class="step">2️⃣ See your agent data simulated</div>
+            <div class="step">3️⃣ Get ROI estimate for your NBFC</div>
+        </div>
+    </div>
+
+    <!-- Final CTA -->
+    <div style="text-align: center; margin: 2rem 0;">
+        <a href="#" style="background: #2563eb; color: white; padding: 0.8rem 2rem; border-radius: 40px; text-decoration: none; font-weight: 700;">Book Free Demo →</a>
+    </div>
+
+    <div class="footer">
+        © 2025 Imprint AI — Built for Indian NBFCs. All rights reserved.
+    </div>
+</div>
+
+<!-- Sticky CTA for mobile -->
+<div class="sticky-cta">
+    <button class="btn-primary" onclick="document.getElementById('demoForm').scrollIntoView({behavior:'smooth'})">Book Free Demo →</button>
+</div>
+
+<script>
+    const form = document.getElementById('demoForm');
+    if (form) {
+        form.addEventListener('submit', function(e) {
+            // Replace with your actual Google Ads conversion tracking
+            console.log('Demo submitted - primary conversion');
+            // Uncomment if you want to handle via AJAX
+            // e.preventDefault();
+            // alert('Demo request received! We’ll call you within 2 hours.');
+        });
+    }
+</script>
+</body>
+</html>

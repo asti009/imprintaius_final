@@ -1,0 +1,26 @@
+
+---Upload files---
+Content file was not uploaded. Error: No file provided.
+
+---Upload files---
+Widget file was not uploaded. Error: No file provided.
+
+---Upload files---
+Redux file was not uploaded. Error: No file provided.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30000
+Files info:
+Site URL = https://www.astiinfotech.com/landing
+Data file = not defined!
+Widget file = not defined!
+Customizer file = /home/astiinfotech.com/public_html/landing/wp-content/uploads/2024/04/theme-options.dat
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
