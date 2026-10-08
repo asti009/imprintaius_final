@@ -285,7 +285,7 @@ $this->load->helper('url');
     font-weight: 600;
     font-size: 18px;
     color: rgba(102,75,196,1);
-    text-decoration: underline;" target="_blank">DialTM</a></h3>
+    text-decoration: underline;" target="_blank" rel="noopener">DialTM</a></h3>
                                                   <!--  <div class="infobox_content" >Look for products you love &amp; shop directly within the app.</div> -->
                                                 </div>
                                              </div>

@@ -310,7 +310,7 @@ $this->load->view('header/header');
                      seamless workforce coordination, and improved operational performance.
                   </p>
                   <p>
-                     Don’t let inefficiencies slow you down.<a href='/contactus' target="_blank"> Get started with <strong>Imprint</strong> today!</a>
+                     Don’t let inefficiencies slow you down.<a href='/contactus' target="_blank" rel="noopener"> Get started with <strong>Imprint</strong> today!</a>
                   </p>
                </div>
             </div>

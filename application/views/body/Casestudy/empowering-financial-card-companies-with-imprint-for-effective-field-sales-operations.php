@@ -83,7 +83,7 @@ $this->load->view('header/header'); ?>
                     <div class="wpb_wrapper">
                         <div class="wpb_text_column wpb_content_element ">
                             <div class="wpb_wrapper">
-                                <h4>Industry Challenge:</h4>
+                                <h4>Industry Challenge: </h4>
                                 <p>
                                     These companies depend on extensive field sales teams to visit merchants, ensure card acceptance, and collect feedback on issues faced during card transactions. Managing such vast operations effectively requires:
                                 </p>

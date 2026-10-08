@@ -70,7 +70,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
    
 
    </head>
-<body class="home page-template-default page page-id-284 woocommerce-no-js wpb-js-composer js-comp-ver-5.7 vc_responsive theme-gradient">
+<body class="home page-template-default page page-id-284 wpb-js-composer js-comp-ver-5.7 vc_responsive theme-gradient">
 <header class='wgl-theme-header header_overlap'>
          <div class='wgl-site-header mobile_header_custom'>
             <div class='container-wrapper'>

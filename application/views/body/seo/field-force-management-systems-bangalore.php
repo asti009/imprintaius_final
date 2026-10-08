@@ -357,7 +357,7 @@ As the demand for efficiency grows, adopting a field force management system is 
             </p>
             <p>
 			By choosing Imprint, organizations can unlock their workforce's full potential, setting the stage for sustained success in India’s competitive market. <a
-                    href="<?php echo base_url('contactus') ?>" target="_blank">Book a call now or schedule a demo
+                    href="<?php echo base_url('contactus') ?>" target="_blank" rel="noopener">Book a call now or schedule a demo
                     at your convenience!
                 </a>
             </p>

@@ -536,7 +536,7 @@ summary::-webkit-details-marker{display:none}
     <p class="ffm-hero-sub">One platform that brings together live GPS tracking, geo-tagged attendance, task management, and expense control, cutting travel costs by 40% and admin overhead by 60%.</p>
     <div class="ffm-hero-btns">
       <a href="<?php echo base_url('contactus'); ?>" class="ffm-btn-primary">Book a Demo</a>
-      <a href="https://imprint.astiinfotech.com/#/login" target="_blank" class="ffm-btn-secondary">
+      <a href="https://imprint.astiinfotech.com/#/login" target="_blank" rel="noopener" class="ffm-btn-secondary">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#2c409f" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21c1-4 4-6 8-6s7 2 8 6"/></svg>
         Start Free Today
       </a>
@@ -1061,10 +1061,10 @@ summary::-webkit-details-marker{display:none}
       
       <p class="ffm-contact-desc" style="margin-bottom:16px;">Available on:</p>
       <div class="ffm-app-badges">
-        <a href="https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN" target="_blank">
+        <a href="https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN" target="_blank" rel="noopener">
           <img src="<?php echo base_url('assets/images/mobile-screen/playstore.png'); ?>" alt="Get it on Google Play">
         </a>
-        <a href="https://apps.apple.com/in/app/imprint-asti/id1204732517" target="_blank">
+        <a href="https://apps.apple.com/in/app/imprint-asti/id1204732517" target="_blank" rel="noopener">
           <img src="<?php echo base_url('assets/images/mobile-screen/appstore.png'); ?>" alt="Download on App Store">
         </a>
       </div>
@@ -1441,7 +1441,7 @@ setTimeout(ffmGenerateCaptcha, 500);
       <p>Join thousands of businesses using Imprint to manage their field teams smarter.</p>
       <div class="ffm-cta-btns">
         <a href="<?php echo base_url('contactus'); ?>" class="ffm-btn-white">Book a Demo</a>
-        <a href="https://imprint.astiinfotech.com/#/login" target="_blank" class="ffm-btn-outline-white">Start Free Today</a>
+        <a href="https://imprint.astiinfotech.com/#/login" target="_blank" rel="noopener" class="ffm-btn-outline-white">Start Free Today</a>
       </div>
     </div>
   </div>

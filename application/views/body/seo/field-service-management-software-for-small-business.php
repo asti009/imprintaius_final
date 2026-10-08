@@ -217,7 +217,7 @@ $this->load->view('header/header');
                 Today’s customers expect fast, reliable, and transparent service. For small businesses, delivering this consistently can be a challenge without the right tools. A field service management software for small business like Imprint helps you stay organized, improve team productivity, and offer exceptional customer service — all while saving time and costs.
             </p>
             <p>
-                👉 Don’t let manual processes hold back your growth. Power up your field teams with Imprint. <a href="/contactus" target="_blank"> Contact us for a free demo!</a>
+                👉 Don’t let manual processes hold back your growth. Power up your field teams with Imprint. <a href="/contactus" target="_blank" rel="noopener"> Contact us for a free demo!</a>
             </p>
             <!-- End of SEO content -->
 

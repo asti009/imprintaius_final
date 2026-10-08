@@ -310,7 +310,7 @@ $this->load->view('header/header');
                   </ul>
                   <p>
                      Empower your medical sales team with the best tracking and task management solution—
-                     <a href="<?php echo base_url('contactus'); ?>" target="_blank">Try Imprint today!</a>
+                     <a href="<?php echo base_url('contactus'); ?>" target="_blank" rel="noopener">Try Imprint today!</a>
                   </p>
                </div>
             </div>

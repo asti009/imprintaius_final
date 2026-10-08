@@ -134,10 +134,10 @@
 </div>
 <div class="wpb_text_column wpb_content_element ">
     <div class="wpb_wrapper app-links-container">
-        <a target="_blank" href="https://apps.apple.com/us/app/imprint-asti/id1204732517">
+        <a target="_blank" rel="noopener" href="https://apps.apple.com/us/app/imprint-asti/id1204732517">
             <img class="alignnone wp-image-318" src="<?php echo base_url('/assets/images/appstore.png'); ?>" alt="Appstore" width="120" />
         </a>
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN&gl=US">
+        <a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN&gl=US">
             <img class="alignnone wp-image-318" src="<?php echo base_url('/assets/images/playstore.png'); ?>" alt="Playstore" width="120" />
         </a>
     </div>
@@ -228,23 +228,23 @@
    <div class="share_social-wpapper">
       <ul>
          <li>
-            <a class="share_page share_twitter" target="_blank" href="https://twitter.com/imprint_ai"><span
+            <a class="share_page share_twitter" target="_blank" rel="noopener" href="https://twitter.com/imprint_ai"><span
                   class="fa fa-twitter"></span></a>
          </li>
          <li>
-            <a class="share_page share_facebook" target="_blank" href="https://www.facebook.com/IMPRINTAILLC/"><span
+            <a class="share_page share_facebook" target="_blank" rel="noopener" href="https://www.facebook.com/IMPRINTAILLC/"><span
                   class="fa fa-facebook"></span></a>
          </li>
          <li>
-            <a class="share_page share_google share_gplus" target="_blank"
+            <a class="share_page share_google share_gplus" target="_blank" rel="noopener"
                href="https://www.instagram.com/imprint.ai/"><span class="fa fa-instagram"></span></a>
          </li>
          <li>
-            <a class="share_page share_linkedin" target="_blank"
+            <a class="share_page share_linkedin" target="_blank" rel="noopener"
                href="https://www.linkedin.com/company/imprint-ai-llc"><span class="fa fa-linkedin"></span></a>
          </li>
          <li>
-            <a class="share_page share_linkedin" target="_blank" href="https://www.pinterest.com/imprintllc2021"><span
+            <a class="share_page share_linkedin" target="_blank" rel="noopener" href="https://www.pinterest.com/imprintllc2021"><span
                   class="fa fa-pinterest"></span></a>
          </li>
       </ul>
@@ -750,11 +750,7 @@
 </section>
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400%7CPoppins:700%2C600" rel="stylesheet"
    property="stylesheet" type="text/css" media="all">
-<script type="text/javascript">
-   var c = document.body.className;
-   c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-   document.body.className = c;
-</script>
+
 <script type="text/javascript">
    if (typeof revslider_showDoubleJqueryError === "undefined") {
       function revslider_showDoubleJqueryError(sliderID) {
@@ -790,18 +786,7 @@
 
 <script type='text/javascript' src="<?php echo base_url('/assets/js/contact-form-scripts.js'); ?>"></script>
 <script type='text/javascript' src="<?php echo base_url('/assets/js/js.cookie.min.js'); ?>"></script>
-<script type='text/javascript'>
-   /* <![CDATA[ */
-   var woocommerce_params = { "ajax_url": "index.html", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%" };
-   /* ]]> */
-</script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/woocommerce.min.js'); ?>"></script>
-<script type='text/javascript'>
-   /* <![CDATA[ */
-   var wc_cart_fragments_params = { "ajax_url": "index.html", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%", "cart_hash_key": "wc_cart_hash_c6fbb66f492757ccca2f17637d59a53d", "fragment_name": "wc_fragments_c6fbb66f492757ccca2f17637d59a53d" };
-   /* ]]> */
-</script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/cart-fragments.min.js'); ?>"></script>
+
 <script type='text/javascript' src="<?php echo base_url('/assets/js/theme-addons.js'); ?>"></script>
 <script type='text/javascript'>
    /* <![CDATA[ */

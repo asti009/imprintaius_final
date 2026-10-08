@@ -675,7 +675,7 @@
                                                 data-frame_999="o:0;tp:600;st:w;sR:3670;"
                                                 data-frame_hover="c:#fff;bgc:#664bc4;boc:#664bc4;bor:30px,30px,30px,30px;bos:solid;bow:1,1,1,1;oX:50;oY:50;sp:400;e:Power0.easeIn;"
                                                 style="z-index:16;background-color:rgba(0,0,0,0);font-family:Poppins;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;padding:0"
-                                                ><a href="https://imprint.astiinfotech.com/#/login" target="_blank">Free Sign-Up</a></rs-layer>
+                                                ><a href="https://imprint.astiinfotech.com/#/login" target="_blank" rel="noopener">Free Sign-Up</a></rs-layer>
                                             
                                              <!--
                                                 -->

@@ -119,7 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </script>
 
    </head>
-<body class="home page-template-default page page-id-284 woocommerce-no-js wpb-js-composer js-comp-ver-5.7 vc_responsive theme-gradient">
+<body class="home page-template-default page page-id-284 wpb-js-composer js-comp-ver-5.7 vc_responsive theme-gradient">
 <header class='wgl-theme-header header_overlap'>
          <div class='wgl-site-header mobile_header_custom'>
             <div class='container-wrapper'>
@@ -141,7 +141,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                  <ul id="menu-main" class="menu">
                                  	<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="<?php echo base_url('features')?>"><span>Features<span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page page-item-284">
-                                       <a><span style="cursor:pointer;">Solutions +</span></span></a>
+                                       <a><span style="cursor:pointer;">Solutions +</span></a>
                                        <ul class="sub-menu menu-sub-content">
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('elderly-care')?>"><span>Elderly Care</span></a></li>
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('collections')?>"><span>Collections</span></a></li>
@@ -153,7 +153,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     </li>
                                  	<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="<?php echo base_url('industries')?>"><span>Industries<span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page page-item-284">
-                                       <a><span style="cursor:pointer;">Resources +</span></span></a>
+                                       <a><span style="cursor:pointer;">Resources +</span></a>
                                        <ul class="sub-menu menu-sub-content">
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('casestudy')?>"><span>Case Studies</span></a></li>
                                           <li id="menu-item-1163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1163"><a href="<?php echo base_url('blog')?>"><span>Blogs</span></a></li>
@@ -196,7 +196,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               <div class="header_button">
                                  <div class="wrapper">
                                     <div id=softlab_button_6054cf77c1ab5 class="softlab_module_button wgl_button wgl_button-s aleft"><a
-                                    target="_blank" class="wgl_button_link" href="https://imprint.astiinfotech.com/#/login">Login / SignUp<span class="btn_border_gradient"></span></a></div>
+                                    target="_blank" rel="noopener" class="wgl_button_link" href="https://imprint.astiinfotech.com/#/login">Login / SignUp<span class="btn_border_gradient"></span></a></div>
                                  </div>
                               </div>
                            </div>
@@ -226,7 +226,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                  <ul id="menu-main-1" class="menu">
                                  	<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="<?php echo base_url('features')?>"><span>Features<span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page page-item-284">
-                                       <a><span style="cursor:pointer;">Solutions +</span></span></a>
+                                       <a><span style="cursor:pointer;">Solutions +</span></a>
                                        <ul class="sub-menu menu-sub-content">
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('elderly-care')?>"><span>Elderly Care</span></a></li>
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('collections')?>"><span>Collections</span></a></li>
@@ -237,7 +237,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     </li>
                                  	<li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="<?php echo base_url('industries')?>"><span>Industries<span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page page-item-284">
-                                       <a><span style="cursor:pointer;">Resources +</span></span></a>
+                                       <a><span style="cursor:pointer;">Resources +</span></a>
                                        <ul class="sub-menu menu-sub-content">
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('casestudy')?>"><span>Case Studies</span></a></li>
                                           <li id="menu-item-1163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1163"><a href="<?php echo base_url('blog')?>"><span>Blogs</span></a></li>
@@ -279,7 +279,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               <div class='header_spacing spacer_6' style='width:40px;'></div> -->
                               <div class="header_button">
                                  <div class="wrapper">
-                                    <div id=softlab_button_6054cf77ce065 class="softlab_module_button wgl_button wgl_button-s aleft"><a target="_blank" class="wgl_button_link" href="https://imprint.astiinfotech.com/#/login">Login / SignUp<span class="btn_border_gradient"></span></a></div>
+                                    <div id=softlab_button_6054cf77ce065 class="softlab_module_button wgl_button wgl_button-s aleft"><a target="_blank" rel="noopener" class="wgl_button_link" href="https://imprint.astiinfotech.com/#/login">Login / SignUp<span class="btn_border_gradient"></span></a></div>
                                  </div>
                               </div>
                            </div>
@@ -300,7 +300,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                  <ul id="menu-main-2" class="menu">
                                     <li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="<?php echo base_url('features')?>"><span>Features<span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page page-item-284">
-                                       <a href="<?php echo base_url('')?>"><span style="cursor:pointer;">Solutions +</span></span><span class="button_switcher"></span></a>
+                                       <a href="<?php echo base_url('')?>"><span style="cursor:pointer;">Solutions +</span><span class="button_switcher"></span></a>
                                        <ul class="sub-menu menu-sub-content">
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('elderly-care')?>"><span>Elderly Care</span></a></li>
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('collections')?>"><span>Collections</span></a></li>
@@ -311,7 +311,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     </li>
                                     <li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="<?php echo base_url('industries')?>"><span>Industries<span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page page-item-284">
-                                       <a href="<?php echo base_url('')?>"><span style="cursor:pointer;">Resources +</span></span><span class="button_switcher"></span></a>
+                                       <a href="<?php echo base_url('')?>"><span style="cursor:pointer;">Resources +</span><span class="button_switcher"></span></a>
                                        <ul class="sub-menu menu-sub-content">
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('casestudy')?>"><span>Case Studies</span></a></li>
                                           <li id="menu-item-1163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1163"><a href="<?php echo base_url('blog')?>"><span>Blogs</span></a></li>
@@ -371,7 +371,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            <ul id="menu-main-3" class="menu">
                                     <li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="<?php echo base_url('features')?>"><span>Features<span class="menu-item_plus"></span></span></a></li>
                                     <li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page page-item-284">
-                                       <a href="<?php echo base_url('')?>"><span style="cursor:pointer;">Solutions +</span></span><span class="button_switcher"></span></a>
+                                       <a href="<?php echo base_url('')?>"><span style="cursor:pointer;">Solutions +</span><span class="button_switcher"></span></a>
                                        <ul class="sub-menu menu-sub-content">
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('elderly-care')?>"><span>Elderly Care</span></a></li>
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('collections')?>"><span>Collections</span></a></li>
@@ -381,7 +381,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <li id="menu-item-632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-632"><a href="<?php echo base_url('industries')?>"><span>Industries<span class="menu-item_plus"></span></span></a></li>
                                    
                                     <li id="menu-item-286" class="menu-item menu-item-type-post_type menu-item-object-page page-item-284">
-                                       <a href="<?php echo base_url('')?>"><span style="cursor:pointer;">Resources +</span></span><span class="button_switcher"></span></a>
+                                       <a href="<?php echo base_url('')?>"><span style="cursor:pointer;">Resources +</span><span class="button_switcher"></span></a>
                                        <ul class="sub-menu menu-sub-content">
                                           <li id="menu-item-1165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-284  menu-item-1165"><a href="<?php echo base_url('casestudy')?>"><span>Case Studies</span></a></li>
                                           <li id="menu-item-1163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1163"><a href="<?php echo base_url('blog')?>"><span>Blogs</span></a></li>
@@ -475,7 +475,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </style>
 <div class="Ad" id="adPopup">
     <div class="Ad-content">
-        <a target="_blank" href="https://imprint.astiinfotech.com/#/login">
+        <a target="_blank" rel="noopener" href="https://imprint.astiinfotech.com/#/login">
             <img src="<?php echo base_url('/assets/images/Offer.png');?>" alt="Offer">
         </a>
         <div class="Ad-close" onclick="closeAd()">×</div>
