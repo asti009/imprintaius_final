@@ -787,18 +787,7 @@
 </script>
 <script type='text/javascript' src="<?php echo base_url('/assets/js/underscore.min.js'); ?>"></script>
 <script type='text/javascript' src="<?php echo base_url('/assets/js/backbone.min.js'); ?>"></script>
-<script type='text/javascript'>
-   /* <![CDATA[ */
-   var wpApiSettings = { "root": "http:\/\/softlab.wgl-demo.net\/wp-json\/", "nonce": "f3d09f5949", "versionString": "wp\/v2\/" };
-   /* ]]> */
-</script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/api-request.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/wp-api.min.js'); ?>"></script>
-<script type='text/javascript'>
-   /* <![CDATA[ */
-   var wpcf7 = { "apiSettings": { "root": "http:\/\/softlab.wgl-demo.net\/wp-json\/contact-form-7\/v1", "namespace": "contact-form-7\/v1" } };
-   /* ]]> */
-</script>
+
 <script type='text/javascript' src="<?php echo base_url('/assets/js/contact-form-scripts.js'); ?>"></script>
 <script type='text/javascript' src="<?php echo base_url('/assets/js/js.cookie.min.js'); ?>"></script>
 <script type='text/javascript'>
@@ -834,14 +823,13 @@
 </body>
 <script>
         $(document).ready(function () {
-            $('[data-fancybox]').fancybox({
-                buttons: [
-                    "zoom",
-                    "close"
-                ],
-                loop: true,
-                animationEffect: "fade"
-            });
+            if (typeof $.fn.fancybox === 'function') {
+                $('[data-fancybox]').fancybox({
+                    buttons: ["zoom", "close"],
+                    loop: true,
+                    animationEffect: "fade"
+                });
+            }
         });
     </script>
 <style>

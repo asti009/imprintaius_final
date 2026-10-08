@@ -105,7 +105,7 @@ SetEnvIfNoCase Request_URI \.html_gzip$ no-gzip
 </IfModule>
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /
+    RewriteBase /public_html_test1/public_html_test/
 
     # Redirect all incoming requests to index.php for routing by CodeIgniter
     RewriteCond %{REQUEST_FILENAME} !-f

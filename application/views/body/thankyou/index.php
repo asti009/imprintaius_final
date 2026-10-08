@@ -51,7 +51,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/style.css');?>" media="all"/>
       <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/3xzri1.css');?>" media="all"/>
       <!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/flaticon.css');?>" media="all"/> -->
-      <link rel='stylesheet' property='stylesheet' id='rs-icon-set-fa-icon-css' href='http://softlab.wgl-demo.net/wp-content/plugins/revslider/public/assets/fonts/font-awesome/css/font-awesome.css' type='text/css' media='all' />
       
          <style id='softlab-main-inline-css' type='text/css'>@media only screen and (max-width: 755px) {
    .home .row.sidebar_left,

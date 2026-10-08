@@ -110,9 +110,9 @@
 
 <!-- ----------Seo pages-------------- -->
 <?php if($this->uri->segment(1)=='field-force-management-software'){ ?>
-<title>Field Force Management Software | Boost Efficiency & Productivity | Imprint AI</title>
-<meta charset="utf-8" name="title" property="og:title" content="Field Force Management Software | Boost Efficiency & Productivity | Imprint AI">
-<meta charset="utf-8" name="description" content="Discover ImprintAI's Field Force Management Software. It streamlines operations, enhances productivity, and tracks your field team in real-time. Perfect for businesses of all sizes. Request a demo now!">
+<title>Field Force Management Software | Cut Costs & Boost Visibility | Imprint</title>
+<meta charset="utf-8" name="title" property="og:title" content="Field Force Management Software | Cut Costs & Boost Visibility | Imprint">
+<meta charset="utf-8" name="description" content="Imprint's field force management software reduces travel costs by 40% and admin overhead by 60%. Get live tracking, automated attendance and smarter reporting.">
 <link rel="canonical" href="https://imprintai.us/field-force-management-software" />
 
 <?php } ?>

@@ -122,7 +122,7 @@ $this->load->view('header/header'); ?>
                             </div>
 							<div class="image-column flex-item ">
                                 <div class="trans img-1">
-                                    <img style="width: 75%;" src="assets/images/casestudy-mockups/empowering-financial-card-companies-with-imprint-for-effective-field-sales-operations2.png"
+                                    <img style="width: 75%;" src="assets/images/casestudy/empowering-financial-card-companies-with-imprint-for-effective-field-sales-operations.png"
                                         alt="Login Mockup">
                                 </div>
                                
