@@ -1,229 +1,179 @@
-<footer class='footer clearfix'
-   style="background-image:url(<?php echo site_url('assets/images/footer_home_1.png'); ?>); background-size:cover; background-repeat:no-repeat; background-attachment:scroll; background-position:bottom left;"
-   id='footer'>
-   <div class='footer_top-area'>
-      <div class='wgl-container'>
-         <div class='row-footer' style=" padding-top:90px; padding-bottom:20px;">
-            <div class="vc_row wpb_row vc_row-fluid">
-               <div class="wpb_column vc_column_container vc_col-sm-12">
-                  <div class="vc_column-inner ">
-                     <div class="wpb_wrapper">
-                        <div id="softlab_spacer_6054cf784ed71" class="softlab_module_spacing responsive_active">
-                        <div class="spacing_size spacing_size-initial" style="height:80px;></div>
-                           <div class="spacing_size spacing_size-tablet" style="height:200px;"></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
-                  <div class="vc_column-inner ">
-                     <div class="wpb_wrapper">
-                        <div class="wpb_text_column wpb_content_element ">
-                           <div class="wpb_wrapper">
-                              <p><img class="alignnone wp-image-318"
-                                    src="<?php echo base_url('/assets/images/logo_light.png'); ?>" alt="Imprint-logo"
-                                    width="150" /></p>
-                           </div>
-                        </div>
-                        <div class="softlab_module_spacing">
-                           <div class="spacing_size spacing_size-initial" style="height:15px;"></div>
-                        </div>
-                        <div class="softlab_module_text" style="width:auto;font-size:16px;line-height:30px;"><span
-                              style="color: #d4d4d4;">IMPRINT AI LLC is a Delaware head-quartered SaaS product company
-                              run by IIT/IIM alumni who are passionate about using technology to solve real problems of
-                              their customers in this ever-transforming world. </span></div>
-                        <div class="softlab_module_spacing">
-                           <div class="spacing_size spacing_size-initial" style="height:6px;"></div>
-                        </div>
-                        <div id=softlab_soc_icon_wrap_6054cf784f8dc
-                           class="softlab_module_social aleft with_bg add_box_shadow"
-                           style="margin-left:-6px; margin-right:-6px;"><a id=soc_icon_6054cf784f94b1
-                              href="https://twitter.com/imprint_ai" class="soc_icon fa fa-twitter"
-                              style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:6px; "
-                              target='_blank' title='Twitter'></a><a id=soc_icon_6054cf784f9832
-                              href="https://www.facebook.com/IMPRINTAILLC/" class="soc_icon fa fa-facebook"
-                              style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:6px; "
-                              target='_blank' title='Facebook'></a><a id=soc_icon_6054cf784f99a3
-                              href="https://www.linkedin.com/company/imprint-ai-llc" class="soc_icon fa fa-linkedin"
-                              style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:6px; "
-                              target='_blank' title='linkedin'></a><a id=soc_icon_6054cf784f9ae4
-                              href="https://www.instagram.com/imprint.ai/" class="soc_icon fa fa-instagram"
-                              style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:6px; "
-                              target='_blank' title='Instagram'></a><a id=soc_icon_6054cf784f9bf5
-                              href="https://www.pinterest.com/imprintllc2021" class="soc_icon fa fa-pinterest-p"
-                              style="font-size:12px; width:26px; height:26px; line-height:26px; margin-left:6px; margin-right:6px; margin-bottom:6px; "
-                              target='_blank' title='pinterest'></a></div>
-                     </div>
-                  </div>
-               </div>
-               <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
-                  <div class="vc_column-inner ">
-                     <div class="wpb_wrapper">
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                           <div class="wpb_column vc_column_container vc_col-sm-12">
-                              <div class="vc_column-inner">
-                                 <div class="wpb_wrapper">
-                                    <div class="softlab_module_spacing">
-                                       <div class="spacing_size spacing_size-initial" style="height:20px;"></div>
-                                    </div>
-                                    <div class="wpb_text_column wpb_content_element ">
-                                       <div class="wpb_wrapper">
-   <h6> <span style="color: #ffffff;">Quick Access</span></h6>
-                                    </div>
-                                    </div>
-                                    <div class="softlab_module_spacing">
-                                       <div class="spacing_size spacing_size-initial" style="height:15px;"></div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                        <p style="margin-bottom: 10px; margin-left: 15px; margin-right: 40px; display: flex; justify-content: space-between; align-items: center;" class="cnsj27t">
-                           <span style="color: #ffffff;"><a href="<?php echo base_url('') ?>" class="footer-link" style="color: #ffffff;">Home</a></span>
-                           <span style="color: #ffffff; margin-right: 10px;"><a href="<?php echo base_url('aboutus') ?>" class="footer-link" style="color: #ffffff;">About Us </a></span>
-                           </p>
+<style>
+/* ===================== SIMPLE RESPONSIVE FOOTER ===================== */
+.imp-footer {
+   background: #0d0b24;
+   color: #c9c9d6;
+   font-family: Poppins, sans-serif;
+   padding: 60px 0 0;
+}
+.imp-footer * { box-sizing: border-box; }
+.imp-footer-inner {
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 0 24px;
+}
+.imp-footer-top {
+   display: grid;
+   grid-template-columns: 1.6fr 1fr 1.2fr 1fr;
+   gap: 40px;
+   padding-bottom: 40px;
+}
+.imp-footer-logo {
+   font-family: Poppins, sans-serif;
+   font-size: 26px;
+   font-weight: 700;
+   color: #fff;
+   margin: 0 0 18px;
+}
+.imp-footer-logo span { color: #2c409f; }
+.imp-footer-about {
+   font-size: 14px;
+   line-height: 1.7;
+   color: #a7a7b8;
+   margin: 0 0 22px;
+   max-width: 320px;
+}
+.imp-social {
+   display: flex;
+   gap: 10px;
+}
+.imp-social a {
+   width: 38px;
+   height: 38px;
+   border-radius: 50%;
+   background: #2c409f;
+   color: #fff;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 15px;
+   text-decoration: none;
+   transition: transform .25s ease, background .25s ease;
+}
+.imp-social a:hover { background: #3a52c4; transform: translateY(-3px); color: #fff; }
+.imp-footer-col h4 {
+   font-family: Poppins, sans-serif;
+   font-size: 16px;
+   font-weight: 700;
+   color: #fff;
+   margin: 0 0 18px;
+}
+.imp-footer-col ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+.imp-footer-col ul li { margin-bottom: 12px; }
+.imp-footer-col ul li a {
+   color: #a7a7b8;
+   font-size: 14px;
+   text-decoration: none;
+   transition: color .2s ease;
+}
+.imp-footer-col ul li a:hover { color: #fff; }
+.imp-footer-col p {
+   font-size: 14px;
+   line-height: 1.7;
+   color: #a7a7b8;
+   margin: 0 0 16px;
+}
+.imp-store-btns { display: flex; flex-wrap: wrap; gap: 12px; }
+.imp-store-btns a { display: inline-flex; }
+.imp-store-btns img { height: 42px; width: auto; }
+.imp-footer-divider {
+   height: 1px;
+   background: rgba(255,255,255,0.12);
+   margin: 0;
+}
+.imp-footer-bottom {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   gap: 12px;
+   padding: 22px 0 28px;
+   font-size: 13px;
+   color: #8f8fa3;
+}
+.imp-footer-bottom a { color: #c9c9d6; text-decoration: none; }
+.imp-footer-bottom a:hover { color: #fff; text-decoration: underline; }
 
-                          
-                           <p style="margin-bottom: 10px; margin-left: 15px; margin-right: 40px; display: flex; justify-content: space-between; " class="cnsj27t">                              <span style="color: #ffffff;"><a href="<?php echo base_url('casestudy') ?>"
-                                    class="footer-link" style="color: #ffffff;">Case Studies</a></span> 
-                                    <span style="color: #ffffff;"><a href="<?php echo base_url('contactus') ?>"
-                                    class="footer-link" style="color: #ffffff;">Contact Us</a></span>
-                           </p>
-                           <p style="margin-bottom: 10px; margin-left: 15px; " class="cnsj27t">                              
-                            
-                                    <span style="color: #ffffff;"><a href="<?php echo base_url('solution') ?>"
-                                    class="footer-link" style="color: #ffffff;">Other Solutions</a></span>
-                           </p>
-                           
-                          
+/* ---------- Tablet ---------- */
+@media (max-width: 992px) {
+   .imp-footer-top { grid-template-columns: 1fr 1fr; gap: 32px; }
+}
+/* ---------- Phone ---------- */
+@media (max-width: 600px) {
+   .imp-footer { padding-top: 44px; }
+   .imp-footer-inner { padding: 0 18px; }
+   .imp-footer-top { grid-template-columns: 1fr; gap: 28px; padding-bottom: 30px; }
+   .imp-footer-about { max-width: none; }
+   .imp-footer-bottom { flex-direction: column; align-items: flex-start; text-align: left; }
+}
+</style>
 
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
-                  <div class="vc_column-inner ">
-                     <div class="wpb_wrapper">
-                        <div class="softlab_module_spacing">
-                           <div class="spacing_size spacing_size-initial" style="height:20px;"></div>
-                        </div>
-                        <div class="wpb_text_column wpb_content_element ">
-                           <div class="wpb_wrapper">
-                              <h6><span style="color: #ffffff;">Downloads</span></h6>
-                           </div>
-                        </div>
-                        <div class="softlab_module_spacing">
-                           <div class="spacing_size spacing_size-initial" style="height:15px;"></div>
-                        </div>
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                           <div class="wpb_column vc_column_container vc_col-sm-12">
-                              <div class="vc_column-inner">
-                                 <div class="wpb_wrapper">
-                                    <div class="softlab_module_text"
-                                       style="width:auto;font-size:16px;line-height:30px;">
-                                       <span><span style="color: #d4d4d4;">Choose your native platform and download the
-                                             app</span></span>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="softlab_module_spacing">
-    <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-</div>
-<div class="wpb_text_column wpb_content_element ">
-    <div class="wpb_wrapper app-links-container">
-        <a target="_blank" rel="noopener" href="https://apps.apple.com/us/app/imprint-asti/id1204732517">
-            <img class="alignnone wp-image-318" src="<?php echo base_url('/assets/images/appstore.png'); ?>" alt="Appstore" width="120" />
-        </a>
-        <a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN&gl=US">
-            <img class="alignnone wp-image-318" src="<?php echo base_url('/assets/images/playstore.png'); ?>" alt="Playstore" width="120" />
-        </a>
-    </div>
-</div>
-<div class="softlab_module_spacing">
-    <div class="spacing_size spacing_size-initial" style="height:15px;"></div>
-</div>
+<footer class="imp-footer" id="footer">
+   <div class="imp-footer-inner">
+      <div class="imp-footer-top">
 
-                     </div>
-                  </div>
-               </div>
-               <div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-6">
-                  <div class="vc_column-inner ">
-                     <div class="wpb_wrapper">
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                           <div class="wpb_column vc_column_container vc_col-sm-12">
-                              <div class="vc_column-inner">
-                                 <div class="wpb_wrapper">
-                                    <div class="softlab_module_spacing">
-                                       <div class="spacing_size spacing_size-initial" style="height:20px;"></div>
-                                    </div>
-                                    <div class="wpb_text_column wpb_content_element ">
-                                       <div class="wpb_wrapper">
-                                          <h6><span style="color: #ffffff;">Explore </span></h6>
-                                       </div>
-                                    </div>
-                                    <div class="softlab_module_spacing">
-                                       <div class="spacing_size spacing_size-initial" style="height:15px;"></div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="vc_row wpb_row vc_inner vc_row-fluid">
-                           <p>
-                              <span style="color: #ffffff;"><a
-                                    href="<?php echo base_url('field-force-management-software') ?>"
-                                    class="footer-link" style="color: #ffffff;">Field Force Management
-                                    Software</a></span>
-                           </p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="wpb_column vc_column_container vc_col-sm-12">
-                  <div class="vc_column-inner ">
-                     <div class="wpb_wrapper">
-                        <div class="softlab_module_spacing">
-                           <div class="spacing_size spacing_size-initial" style="height:15px;"></div>
-                        </div>
-                        <div class="softlab_divider divider_alignment_left">
-                           <div class="divider_line divider_line_alignment_left">
-                              <div class="divider_custom" style=width:100%;height:1px;background-color:#4f4f52;></div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="wpb_column vc_column_container vc_col-sm-6">
-                  <div class="vc_column-inner vc_custom_1550237311162">
-                     <div class="wpb_wrapper">
-                        <div class="softlab_module_text" style="font-size:14px;line-height:30px;">
-                           <p class="policy-text">
-                              <span style="color: #bdbdbd;">Terms of use | Privacy Policy</span>
-                           </p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="wpb_column vc_column_container vc_col-sm-6">
-                  <div class="vc_column-inner vc_custom_1550237319194">
-                     <div class="wpb_wrapper">
-                        <div class="softlab_module_text" style="font-size:14px;line-height:30px;">
-                           <p class="policy-text" style="text-align: right;"><span style="color: #bdbdbd;">Copyright ©
-                                 2025 by <a href="https://www.imprintai.us"
-                                    style="color: #ffffff; text-decoration: underline;">Imprint</a>. All Rights
-                                 Reserved.</span></p>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+         <!-- Brand -->
+         <div class="imp-footer-brand">
+            <div class="imp-footer-logo">imprint<span>.ai</span></div>
+            <p class="imp-footer-about">IMPRINT AI LLC is a Delaware head-quartered SaaS product company run by IIT/IIM alumni, passionate about using technology to solve real problems of their customers in this ever-transforming world.</p>
+            <div class="imp-social">
+               <a href="https://twitter.com/imprint_ai" target="_blank" rel="noopener" title="Twitter"><i class="fa fa-twitter"></i></a>
+               <a href="https://www.facebook.com/IMPRINTAILLC/" target="_blank" rel="noopener" title="Facebook"><i class="fa fa-facebook"></i></a>
+               <a href="https://www.linkedin.com/company/imprint-ai-llc" target="_blank" rel="noopener" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+               <a href="https://www.instagram.com/imprint.ai/" target="_blank" rel="noopener" title="Instagram"><i class="fa fa-instagram"></i></a>
+               <a href="https://www.pinterest.com/imprintllc2021" target="_blank" rel="noopener" title="Pinterest"><i class="fa fa-pinterest-p"></i></a>
             </div>
          </div>
+
+         <!-- Quick Access -->
+         <div class="imp-footer-col">
+            <h4>Quick Access</h4>
+            <ul>
+               <li><a href="<?php echo base_url(''); ?>">Home</a></li>
+               <li><a href="<?php echo base_url('aboutus'); ?>">About Us</a></li>
+               <li><a href="<?php echo base_url('casestudy'); ?>">Case Studies</a></li>
+               <li><a href="<?php echo base_url('contactus'); ?>">Contact Us</a></li>
+               <li><a href="<?php echo base_url('solution'); ?>">Other Solutions</a></li>
+            </ul>
+         </div>
+
+         <!-- Downloads -->
+         <div class="imp-footer-col">
+            <h4>Downloads</h4>
+            <p>Choose your native platform and download the app.</p>
+            <div class="imp-store-btns">
+               <a target="_blank" rel="noopener" href="https://apps.apple.com/us/app/imprint-asti/id1204732517">
+                  <img src="<?php echo base_url('/assets/images/appstore.png'); ?>" alt="Download on the App Store" />
+               </a>
+               <a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN&gl=US">
+                  <img src="<?php echo base_url('/assets/images/playstore.png'); ?>" alt="Get it on Google Play" />
+               </a>
+            </div>
+         </div>
+
+         <!-- Explore -->
+         <div class="imp-footer-col">
+            <h4>Explore</h4>
+            <ul>
+               <li><a href="<?php echo base_url('field-force-management-software'); ?>">Field Force Management Software</a></li>
+            </ul>
+         </div>
+
+      </div>
+
+      <div class="imp-footer-divider"></div>
+
+      <div class="imp-footer-bottom">
+         <span><a href="<?php echo base_url('terms-and-condition'); ?>">Terms of use</a> | <a href="<?php echo base_url('privacy-policy'); ?>">Privacy Policy</a></span>
+         <span>Copyright &copy; <?php echo date('Y'); ?> by <a href="https://www.imprintai.us">Imprint</a>. All Rights Reserved.</span>
       </div>
    </div>
 </footer>
+
 <section class="wgl-social-share_pages standard_style" style=" top:350px;">
    <div class="share_social-wpapper">
       <ul>

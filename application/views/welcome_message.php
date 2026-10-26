@@ -34,7 +34,7 @@
 .imprint-hero-inner {
    max-width: 1200px;
    margin: 0 auto;
-   padding: 0 30px;
+   padding: 60px 30px;
    display: flex;
    align-items: center;
    gap: 60px;
@@ -50,7 +50,7 @@
    background: rgba(44,64,159,0.07);
    border: 1.5px solid rgba(44,64,159,0.18);
    border-radius: 50px;
-   padding: 8px 16px 8px 10px;
+   padding: 6px 20px 6px 20px;
    margin-bottom: 28px;
 }
 .imprint-hero-badge-icon {
@@ -90,8 +90,8 @@
 }
 .imprint-hero h1 {
    font-family: Poppins, sans-serif;
-   font-size: 46px;
-   font-weight: 700;
+   /* font-size: 46px; */
+   /* font-weight: 700; */
    color: #161616;
    line-height: 1.18;
    margin: 0 0 22px;
@@ -116,16 +116,14 @@
 }
 .imprint-hero-btn-primary {
    display: inline-block;
-   padding: 15px 34px;
-   background: #2c409f;
-   color: #fff !important;
-   border-radius: 50px;
-   font-family: Poppins, sans-serif;
-   font-weight: 600;
-   font-size: 16px;
-   text-decoration: none;
-   box-shadow: 0 8px 24px rgba(44,64,159,0.35);
-   transition: transform 0.2s, box-shadow 0.2s;
+    padding: 8px 10px 7px 10px;
+    background: #2c409f;
+    color: #fff !important;
+    border-radius: 6px;
+    font-family: Poppins, sans-serif;
+    font-weight: 500;
+    font-size: 14PX;
+    text-decoration: none;
 }
 .imprint-hero-btn-primary:hover {
    transform: translateY(-2px);
@@ -134,16 +132,16 @@
 }
 .imprint-hero-btn-outline {
    display: inline-block;
-   padding: 14px 34px;
+    padding: 8px 10px 7px 10px;
    border: 2px solid #2c409f;
    color: #2c409f !important;
-   border-radius: 50px;
+   border-radius: 6px;
    font-family: Poppins, sans-serif;
-   font-weight: 600;
-   font-size: 16px;
+   font-weight: 500;
+   font-size: 14px;
    text-decoration: none;
    background: transparent;
-   transition: background 0.2s, color 0.2s;
+   /* transition: background 0.2s, color 0.2s; */
 }
 .imprint-hero-btn-outline:hover {
    background: #2c409f;
@@ -276,15 +274,15 @@
       <!-- Left: Content -->
       <div class="imprint-hero-content">
          <div class="imprint-hero-badge">
-            <div class="imprint-hero-badge-icon"><i class="fa fa-bolt"></i></div>
-            <span>AI-Powered Workforce Management</span>
-            <div class="imprint-hero-badge-dot"></div>
+            <!-- <div class="imprint-hero-badge-icon"><i class="fa fa-bolt"></i></div> -->
+            <span>FIELD FORCE AUTOMATION, POWERED BY AI</span>
+            <!-- <div class="imprint-hero-badge-dot"></div> -->
          </div>
-         <h1>Real-time Workforce Visibility<br><span> Enhanced Productivity</span></h1>
-         <p class="imprint-hero-sub">Simplify the Workforce Equation with IMPRINT &mdash; our End-to-end Field Force Management Solution trusted by 100+ customers across 3 continents.</p>
+         <h1>Take Control of Your Field Operations with AI</h1>
+         <p class="imprint-hero-sub">Track field staff in real time, streamline attendance, plan routes, manage expenses and gain actionable insights.</p>
          <div class="imprint-hero-btns">
-            <a href="<?php echo base_url('contactus#Demo');?>" class="imprint-hero-btn-primary">Request a Demo</a>
-            <a href="https://imprint.astiinfotech.com/#/login" target="_blank" rel="noopener" class="imprint-hero-btn-outline">Free Sign-Up</a>
+            <a href="<?php echo base_url('contactus#Demo');?>" class="imprint-hero-btn-primary">Book a Demo</a>
+            <a href="https://imprint.astiinfotech.com/#/login" target="_blank" rel="noopener" class="imprint-hero-btn-outline">Start a Free Trial</a>
          </div>
          <div class="imprint-hero-stats">
             <div class="imprint-hero-stat">
@@ -306,21 +304,9 @@
 
       <!-- Right: Visual -->
       <div class="imprint-hero-visual">
-         <div class="imprint-hero-float-card card-top">
-            <div class="card-icon"><i class="fa fa-map-marker"></i></div>
-            <div class="card-text">
-               <strong>Live Tracking</strong>
-               <span>Real-time field visibility</span>
-            </div>
-         </div>
-         <img class="hero-main-img" src="<?php echo base_url('/assets/images/rev-w.png');?>" alt="Imprint AI Workforce Management Dashboard" />
-         <div class="imprint-hero-float-card card-bottom">
-            <div class="card-icon"><i class="fa fa-bar-chart"></i></div>
-            <div class="card-text">
-               <strong>+22% Efficiency</strong>
-               <span>Proven productivity boost</span>
-            </div>
-         </div>
+          
+         <img class="hero-main-img" src="<?php echo base_url('/assets/images/dashboard.png');?>" alt="Imprint AI Workforce Management Dashboard" />
+         
       </div>
 
    </div>
@@ -341,7 +327,7 @@
                                      <div  class ="softlab_module_spacing">
                                  <div class="spacing_size spacing_size-initial" style="height:40px;"></div>
                               </div>
-                                                   <div class="img-banner" style="background-color: rgba(102,75,196,1); border-radius: 20px; padding:20px;width: fit-content;">
+                                                   <div class="img-banner" style="background-color: rgba(44,64,159,1); border-radius: 20px; padding:20px;width: fit-content;">
                                                       <img src="<?php echo base_url('/assets/images/rev-image-2-2.png');?>" alt="location" width="40"/>
                                                    </div>
                                                     <div  class ="softlab_module_spacing">
@@ -652,11 +638,11 @@
                                                 data-text="s:18,18,18,16;l:18;fw:600;a:center;"
                                                 data-rsp_bd="off"
                                                 data-padding="t:18,18,18,12;r:30,30,30,24;b:18,18,18,12;l:30,30,30,24;"
-                                                data-border="bos:solid;boc:#664bc4;bow:1,1,1,1;bor:30px,30px,30px,30px;"
+                                                data-border="bos:solid;boc:#2c409f;bow:1,1,1,1;bor:30px,30px,30px,30px;"
                                                 data-frame_0="tp:600;"
                                                 data-frame_1="tp:600;st:4230;sp:1100;sR:4230;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:3670;"
-                                                data-frame_hover="c:#fff;bgc:#664bc4;boc:#664bc4;bor:30px,30px,30px,30px;bos:solid;bow:1,1,1,1;oX:50;oY:50;sp:400;e:Power0.easeIn;"
+                                                data-frame_hover="c:#fff;bgc:#2c409f;boc:#2c409f;bor:30px,30px,30px,30px;bos:solid;bow:1,1,1,1;oX:50;oY:50;sp:400;e:Power0.easeIn;"
                                                 style="z-index:16;background-color:rgba(0,0,0,0);font-family:Poppins;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box; padding:18px 0!important;"><a href="<?php echo base_url('contactus#Demo')?>">Request a demo</a></rs-layer>
                                              <!--
                                                 -->
@@ -669,11 +655,11 @@
                                                  data-text="s:18,18,18,16;l:18;fw:600;a:center;"
                                                 data-rsp_bd="off"
                                                 data-padding="t:18,18,18,12;r:30,30,30,24;b:18,18,18,12;l:30,30,30,24;"
-                                                data-border="bos:solid;boc:#664bc4;bow:1,1,1,1;bor:30px,30px,30px,30px;"
+                                                data-border="bos:solid;boc:#2c409f;bow:1,1,1,1;bor:30px,30px,30px,30px;"
                                                 data-frame_0="tp:600;"
                                                 data-frame_1="tp:600;st:4230;sp:1100;sR:4230;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:3670;"
-                                                data-frame_hover="c:#fff;bgc:#664bc4;boc:#664bc4;bor:30px,30px,30px,30px;bos:solid;bow:1,1,1,1;oX:50;oY:50;sp:400;e:Power0.easeIn;"
+                                                data-frame_hover="c:#fff;bgc:#2c409f;boc:#2c409f;bor:30px,30px,30px,30px;bos:solid;bow:1,1,1,1;oX:50;oY:50;sp:400;e:Power0.easeIn;"
                                                 style="z-index:16;background-color:rgba(0,0,0,0);font-family:Poppins;cursor:pointer;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;padding:0"
                                                 ><a href="https://imprint.astiinfotech.com/#/login" target="_blank" rel="noopener">Free Sign-Up</a></rs-layer>
                                             
@@ -946,20 +932,159 @@ button.wfa-tab-btn:hover {
    .wfa-benefit-num { font-size: 34px; }
    .wfa-benefits { padding: 24px 16px; }
 }
+/* ============================================================
+   CLIENT LOGO SLIDER (auto-scrolling marquee, responsive)
+   ============================================================ */
+.clients-slider-section {
+   padding: 60px 0;
+   background: #fff;
+   overflow: hidden;
+}
+.clients-slider-inner {
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 0 24px;
+}
+.clients-slider-header {
+   text-align: center;
+   margin-bottom: 40px;
+}
+.clients-slider-header span.clients-label {
+   display: inline-block;
+   font-family: Poppins, sans-serif;
+   font-size: 13px;
+   font-weight: 600;
+   letter-spacing: 1.5px;
+   text-transform: uppercase;
+   color: #2c409f;
+   margin-bottom: 10px;
+}
+.clients-slider-header h2 {
+   font-family: Poppins, sans-serif;
+   font-size: 30px;
+   font-weight: 700;
+   color: #1a1a2e;
+   margin: 0;
+}
+/* viewport mask with fade edges */
+.clients-marquee {
+   position: relative;
+   width: 100%;
+   overflow: hidden;
+   -webkit-mask-image: linear-gradient(to right, transparent, #000 10%, #000 90%, transparent);
+           mask-image: linear-gradient(to right, transparent, #000 10%, #000 90%, transparent);
+}
+.clients-track {
+   display: flex;
+   width: max-content;
+   align-items: center;
+   gap: 60px;
+   animation: clients-scroll 30s linear infinite;
+}
+.clients-marquee:hover .clients-track {
+   animation-play-state: paused;
+}
+.clients-logo {
+   flex: 0 0 auto;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   height: 60px;
+}
+.clients-logo img {
+   max-height: 100%;
+   max-width: 150px;
+   width: auto;
+   object-fit: contain;
+   filter: grayscale(100%);
+   opacity: 0.65;
+   transition: filter 0.3s ease, opacity 0.3s ease;
+}
+.clients-logo img:hover {
+   filter: grayscale(0%);
+   opacity: 1;
+}
+@keyframes clients-scroll {
+   from { transform: translateX(0); }
+   to   { transform: translateX(-50%); }
+}
+@media (max-width: 992px) {
+   .clients-track { gap: 48px; }
+   .clients-logo { height: 52px; }
+   .clients-logo img { max-width: 130px; }
+}
+@media (max-width: 768px) {
+   .clients-slider-section { padding: 44px 0; }
+   .clients-slider-header { margin-bottom: 28px; }
+   .clients-slider-header h2 { font-size: 24px; }
+   .clients-track { gap: 36px; animation-duration: 22px; animation-duration: 22s; }
+   .clients-logo { height: 46px; }
+   .clients-logo img { max-width: 110px; }
+}
+@media (max-width: 480px) {
+   .clients-slider-section { padding: 34px 0; }
+   .clients-slider-header h2 { font-size: 20px; }
+   .clients-track { gap: 26px; }
+   .clients-logo { height: 38px; }
+   .clients-logo img { max-width: 90px; opacity: 0.8; }
+}
 </style>
+
+<!-- ===================== CLIENT LOGO SLIDER ===================== -->
+<section class="clients-slider-section">
+   <div class="clients-slider-inner">
+      <div class="clients-slider-header">
+         <span class="clients-label">Trusted by 100+ field teams across 3 continents</span>
+         
+      </div>
+
+      <div class="clients-marquee">
+         <?php
+            // Add / edit client logo filenames here. Place the images in: assets/images/
+            $client_logos = array(
+               array('file' => 'trister.png', 'name' => 'Client 1'),
+               array('file' => 'topgun.png', 'name' => 'Client 2'),
+               array('file' => 'asian.png', 'name' => 'Client 3'),
+               array('file' => 'indofast.png', 'name' => 'Client 4'),
+               array('file' => 'razorpay.png', 'name' => 'Client 5'),
+               array('file' => 'president.png', 'name' => 'Client 6'),
+               array('file' => 'indianoil.png', 'name' => 'Client 7'),
+               // array('file' => 'arham.png', 'name' => 'Client 8'),
+               array('file' => 'kemicides.png', 'name' => 'Client 8'),
+            );
+         ?>
+         <div class="clients-track">
+            <?php
+               // Render the list twice so the loop scrolls seamlessly.
+               for ($pass = 0; $pass < 2; $pass++) {
+                  foreach ($client_logos as $logo) {
+            ?>
+               <div class="clients-logo">
+                  <img src="<?php echo base_url('/assets/images/' . $logo['file']); ?>"
+                       alt="<?php echo htmlspecialchars($logo['name']); ?>" loading="lazy" />
+               </div>
+            <?php
+                  }
+               }
+            ?>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- =================== END CLIENT LOGO SLIDER =================== -->
+
 
 <section class="wfa-section">
    <div class="wfa-inner">
 
       <div class="wfa-header">
-         <span class="wfa-label">Why Workforce Automation?</span>
-         <h2>Problems We Solve for Your Team</h2>
-         <p>Managing an on-the-move workforce is complex. IMPRINT eliminates the daily pain points for both managers and field agents.</p>
-      </div>
+         <span class="wfa-label">Problems We Solve</span>
+         <h2>Make Field Operations Easier to Manage and Measure</h2>
+         <p>When employees work across multiple territories, keeping track of activities, visits, expenses and targets can become complicated. </div>
 
       <!-- Tab Switcher -->
       <div class="wfa-tabs">
-         <button class="wfa-tab-btn active" onclick="wfaSwitch(this,'wfa-managers')"><i class="fa fa-briefcase"></i> Sales Manager / Business Head</button>
+         <button class="wfa-tab-btn active" onclick="wfaSwitch(this,'wfa-managers')"><i class="fa fa-briefcase"></i>Sales Managers and Business Heads</button>
          <button class="wfa-tab-btn" onclick="wfaSwitch(this,'wfa-agents')"><i class="fa fa-user"></i> Field Agents</button>
       </div>
 
@@ -969,29 +1094,29 @@ button.wfa-tab-btn:hover {
             <div class="wfa-pain-card">
                <div class="wfa-pain-icon"><i class="fa fa-eye-slash"></i></div>
                <div class="wfa-pain-text">
-                  <h4>Poor Field Visibility</h4>
-                  <p>No real-time view of workforce activity, location, or policy compliance in the field.</p>
+                  <h4> Limited Visibility into Field Activities </h4>
+                  <p>Lack of real-time updates makes it difficult for managers to monitor agent locations and daily activities</p>
                </div>
             </div>
             <div class="wfa-pain-card">
                <div class="wfa-pain-icon"><i class="fa fa-money"></i></div>
                <div class="wfa-pain-text">
-                  <h4>Uncontrolled Expenses</h4>
-                  <p>Poor grip on field expenses and reimbursements leads to budget overruns.</p>
+                  <h4>Complex Expense Management </h4>
+                  <p>Manual expense claims and reimbursement approvals complicate spending reviews, budget control and financial recordkeeping.</p>
                </div>
             </div>
             <div class="wfa-pain-card">
                <div class="wfa-pain-icon"><i class="fa fa-file-text"></i></div>
                <div class="wfa-pain-text">
-                  <h4>Cumbersome Paperwork</h4>
-                  <p>Manual documentation is slow, error-prone, and impossible to track at scale.</p>
+                  <h4>Time-Consuming Administration </h4>
+                  <p>Paperwork, manual data entry and disconnected records delay approvals and reduce time available for strategic planning.</p>
                </div>
             </div>
             <div class="wfa-pain-card">
                <div class="wfa-pain-icon"><i class="fa fa-bar-chart"></i></div>
                <div class="wfa-pain-text">
-                  <h4>No Revenue Insights</h4>
-                  <p>Absence of data-driven insights on expenses vs. revenue generation per region.</p>
+                  <h4>Limited Performance Insights</h4>
+                  <p>Disconnected field activity and business data make it harder to compare team performance, territory coverage and expenses.</p>
                </div>
             </div>
          </div>
@@ -1003,29 +1128,32 @@ button.wfa-tab-btn:hover {
             <div class="wfa-pain-card">
                <div class="wfa-pain-icon"><i class="fa fa-users"></i></div>
                <div class="wfa-pain-text">
-                  <h4>Lack of Transparency</h4>
-                  <p>Field agents have no clear view of their own performance metrics or targets.</p>
+                  <h4>Unclear Daily Priorities 
+</h4>
+                  <p>Without organised schedules, field agents struggle to coordinate appointments, customer visits and daily assignments efficiently.</p>
                </div>
             </div>
             <div class="wfa-pain-card">
                <div class="wfa-pain-icon"><i class="fa fa-clock-o"></i></div>
                <div class="wfa-pain-text">
-                  <h4>Time-Consuming Documentation</h4>
-                  <p>Hours lost daily on manual reports, forms, and data entry instead of selling.</p>
+                  <h4>Repetitive Documentation 
+</h4>
+                  <p>Preparing visit reports, recording customer details and submitting expense claims increases administrative work.</p>
                </div>
             </div>
             <div class="wfa-pain-card">
                <div class="wfa-pain-icon"><i class="fa fa-history"></i></div>
                <div class="wfa-pain-text">
-                  <h4>No Client History</h4>
-                  <p>Absence of client visit history, trends, and analytics before every meeting.</p>
+                  <h4>Disconnected Customer Information 
+</h4>
+                  <p>Scattered client histories and lead records limit access to information needed for effective customer interactions.</p>
                </div>
             </div>
             <div class="wfa-pain-card">
                <div class="wfa-pain-icon"><i class="fa fa-map-marker"></i></div>
                <div class="wfa-pain-text">
-                  <h4>Inefficient Route Planning</h4>
-                  <p>No smart beat planning means wasted travel time and missed client visits.</p>
+                  <h4>Limited Progress Tracking </h4>
+                  <p>Incomplete activity records make it difficult for agents to review completed tasks and track outstanding assignments.</p>
                </div>
             </div>
          </div>
@@ -1035,15 +1163,16 @@ button.wfa-tab-btn:hover {
       <div class="wfa-benefits">
          <div class="wfa-benefit-item">
             <div class="wfa-benefit-num">20<span>-22%</span></div>
-            <div class="wfa-benefit-label">Improvement in workforce<br>efficiency &amp; performance</div>
+            <div class="wfa-benefit-label">Potential improvement in workforce efficiency and performance, as stated on the existing Imprint website.</div>
          </div>
          <div class="wfa-benefit-item">
             <div class="wfa-benefit-num">16<span>%</span></div>
-            <div class="wfa-benefit-label">Time saved through<br>data management automation</div>
+            <div class="wfa-benefit-label">Time-saving figure attributed to data management automation on the existing website.
+</div>
          </div>
          <div class="wfa-benefit-item">
             <div class="wfa-benefit-num">70<span>-80%</span></div>
-            <div class="wfa-benefit-label">Revenue share driven by<br>field workforce in key sectors</div>
+            <div class="wfa-benefit-label">Revenue contribution attributed to field workforces in selected sectors on the existing website.</div>
          </div>
       </div>
 
@@ -1058,7 +1187,188 @@ function wfaSwitch(btn, panelId) {
    document.getElementById(panelId).classList.add('active');
 }
 </script>
-                  <!-- ===== END WHY WORKFORCE AUTOMATION SECTION ===== -->
+<!-- ===== END WHY WORKFORCE AUTOMATION SECTION ===== -->
+
+<!-- ===================== HOW IMPRINT SOLVES IT ===================== -->
+<style>
+.his-section {
+   padding: 80px 0 70px;
+   background: #fff;
+}
+.his-inner {
+   max-width: 1160px;
+   margin: 0 auto;
+   padding: 0 24px;
+}
+.his-header {
+   text-align: center;
+   margin-bottom: 48px;
+}
+.his-header .his-label {
+   display: inline-block;
+   font-family: Poppins, sans-serif;
+   font-size: 13px;
+   font-weight: 600;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #2c409f;
+   margin-bottom: 16px;
+}
+.his-header h2 {
+   font-family: Poppins, sans-serif;
+   font-size: 40px;
+   font-weight: 700;
+   color: #16123a;
+   line-height: 1.2;
+   margin: 0 0 18px;
+}
+.his-header p {
+   font-family: Poppins, sans-serif;
+   font-size: 17px;
+   line-height: 1.6;
+   color: #6b7280;
+   max-width: 640px;
+   margin: 0 auto;
+}
+.his-cards {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   gap: 24px;
+   margin-bottom: 44px;
+}
+.his-card {
+   border: 1px solid #ececf3;
+   border-radius: 16px;
+   padding: 28px 26px;
+   background: #fff;
+   transition: box-shadow 0.3s ease, transform 0.3s ease, border-color 0.3s ease;
+}
+.his-card:hover {
+   box-shadow: 0 16px 40px rgba(91,63,214,0.12);
+   transform: translateY(-4px);
+   border-color: #d9d2f7;
+}
+.his-card-num {
+   width: 40px;
+   height: 40px;
+   border-radius: 50%;
+   background: #2c409f;
+   color: #fff;
+   font-family: Poppins, sans-serif;
+   font-size: 16px;
+   font-weight: 700;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-bottom: 20px;
+}
+.his-card h4 {
+   font-family: Poppins, sans-serif;
+   font-size: 19px;
+   font-weight: 700;
+   color: #16123a;
+   margin: 0 0 10px;
+}
+.his-card p {
+   font-family: Poppins, sans-serif;
+   font-size: 15px;
+   line-height: 1.6;
+   color: #6b7280;
+   margin: 0;
+}
+.his-cta {
+   text-align: center;
+}
+.his-cta-btn {
+   display: inline-flex;
+   align-items: center;
+   gap: 10px;
+   font-family: Poppins, sans-serif;
+   font-size: 16px;
+   font-weight: 600;
+   color: #fff;
+   background: #2a1f8f;
+   padding: 15px 34px;
+   border-radius: 40px;
+   text-decoration: none;
+   box-shadow: 0 10px 30px rgba(42,31,143,0.3);
+   transition: background 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+}
+.his-cta-btn:hover {
+   background: #3826b5;
+   transform: translateY(-2px);
+   box-shadow: 0 14px 34px rgba(42,31,143,0.4);
+   color: #fff;
+}
+.his-cta-btn i {
+   transition: transform 0.3s ease;
+}
+.his-cta-btn:hover i {
+   transform: translateX(4px);
+}
+
+/* ---------- Tablet ---------- */
+@media (max-width: 992px) {
+   .his-section { padding: 64px 0 56px; }
+   .his-header h2 { font-size: 32px; }
+   .his-cards { grid-template-columns: 1fr; max-width: 560px; margin-left: auto; margin-right: auto; }
+}
+
+/* ---------- Phone ---------- */
+@media (max-width: 600px) {
+   .his-section { padding: 48px 0 44px; }
+   .his-inner { padding: 0 18px; }
+   .his-header { margin-bottom: 32px; }
+   .his-header .his-label { font-size: 12px; letter-spacing: 1.5px; margin-bottom: 12px; }
+   .his-header h2 { font-size: 24px; line-height: 1.25; }
+   .his-header p { font-size: 15px; }
+   .his-cards { gap: 16px; margin-bottom: 32px; }
+   .his-card { padding: 22px 20px; border-radius: 14px; }
+   .his-card-num { width: 36px; height: 36px; font-size: 15px; margin-bottom: 16px; }
+   .his-card h4 { font-size: 17px; }
+   .his-card p { font-size: 14px; }
+   .his-cta-btn { width: 100%; justify-content: center; font-size: 15px; padding: 14px 24px; }
+}
+@media (max-width: 380px) {
+   .his-header h2 { font-size: 21px; }
+   .his-card { padding: 18px 16px; }
+}
+</style>
+
+<section class="his-section" aria-label="How Imprint Solves It">
+   <div class="his-inner">
+      <div class="his-header">
+         <span class="his-label">How Imprint Works</span>
+         <h2>One Connected Platform for Your Entire Field Team</h2>
+         <p>Imprint connects field agents with managers through mobile applications and a centralised dashboard. Teams can organise assignments, record field activities, manage expenses and review performance information without relying entirely on manual coordination.</p>
+      </div>
+
+      <div class="his-cards">
+         <div class="his-card">
+            <div class="his-card-num">1</div>
+            <h4>Configure Your Workforce</h4>
+            <p>Set up users, territories, clients and operational workflows to reflect your business requirements. 
+</p>
+         </div>
+         <div class="his-card">
+            <div class="his-card-num">2</div>
+            <h4>Coordinate Work Through Mobile Apps</h4>
+            <p>Field agents can access their assigned schedules while working in the field.
+</p>
+         </div>
+         <div class="his-card">
+            <div class="his-card-num">3</div>
+            <h4>Monitor Activities and Review Performance</h4>
+            <p>Managers can use the dashboard and manager-facing tools to review field activity.</p>
+         </div>
+      </div>
+
+      <div class="his-cta">
+         <a href="<?php echo base_url('features'); ?>" class="his-cta-btn">Explore Imprint Features <i class="fa fa-arrow-right"></i></a>
+      </div>
+   </div>
+</section>
+<!-- =================== END HOW IMPRINT SOLVES IT =================== -->
 
                   <div  class="vc_row wpb_row vc_row-fluid" style="display:none;">
                   	<div class="wpb_column vc_column_container vc_col-sm-10 vc_col-md-offset-0 vc_col-md-6 vc_col-sm-offset-1">
@@ -1765,9 +2075,9 @@ button.ui-tab-btn:hover {
 <section class="ui-section">
    <div class="ui-inner">
       <div class="ui-header">
-         <span class="ui-label">Imprint</span>
-         <h2>Powerful <span>User Interfaces</span></h2>
-         <p>Three purpose-built interfaces designed for every role &mdash; from field agents on the ground to managers in the office.</p>
+         <span class="ui-label">User interface</span>
+         <h2>The Right Tools for Every Role</span></h2>
+         <p>Field agents need simple ways to record their work, while managers need a clear view of daily operations. </p>
       </div>
       <div class="ui-tabs">
          <button class="ui-tab-btn" onclick="uiSwitch(this,'ui-field-agent')"><i class="fa fa-mobile"></i> Field Agent App</button>
@@ -1783,10 +2093,10 @@ button.ui-tab-btn:hover {
          <div class="ui-panel-content">
             <span class="ui-tag"><i class="fa fa-mobile"></i> User Interfaces</span>
             <h3>Field Agent App</h3>
-            <p>Simplifies Beat &amp; appointment scheduling, lead management and task planning. Provides paperless expense management along with options to digitally save client data &amp; relevant images with geo-tags.</p>
+            <p>Give field agents access to the information and tools they need throughout their working day. The app supports visit planning, lead management, task updates, digital documentation and expense submission.</p>
             <ul class="ui-feature-list">
-               <li><span class="ui-check"><i class="fa fa-check"></i></span>Beat &amp; appointment scheduling</li>
-               <li><span class="ui-check"><i class="fa fa-check"></i></span>Lead &amp; task management</li>
+               <li><span class="ui-check"><i class="fa fa-check"></i></span>Beat and appointment scheduling</li>
+               <li><span class="ui-check"><i class="fa fa-check"></i></span>Lead and task management</li>
                <li><span class="ui-check"><i class="fa fa-check"></i></span>Paperless expense management</li>
                <li><span class="ui-check"><i class="fa fa-check"></i></span>Geo-tagged client data &amp; images</li>
             </ul>
@@ -1805,8 +2115,10 @@ button.ui-tab-btn:hover {
             <ul class="ui-feature-list">
                <li><span class="ui-check"><i class="fa fa-check"></i></span>Real-time workforce overview</li>
                <li><span class="ui-check"><i class="fa fa-check"></i></span>Digital documentation &amp; reports</li>
-               <li><span class="ui-check"><i class="fa fa-check"></i></span>Region-wise expense vs. revenue analysis</li>
-               <li><span class="ui-check"><i class="fa fa-check"></i></span>Leave &amp; schedule management</li>
+               <li><span class="ui-check"><i class="fa fa-check"></i></span>Digital expense submissions
+</li>
+               <li><span class="ui-check"><i class="fa fa-check"></i></span>Geo-tagged client information and images
+</li>
             </ul>
          </div>
       </div>
@@ -1819,12 +2131,17 @@ button.ui-tab-btn:hover {
          <div class="ui-panel-content">
             <span class="ui-tag"><i class="fa fa-line-chart"></i> User Interfaces</span>
             <h3>Sales Manager App</h3>
-            <p>Allows Sales Managers to track real-time location, individual performance, expenses, trips and tasks of each field agent. Ensures quick approvals and enables live meetings with in-built functionalities.</p>
+            <p>Manage field operations while away from the office. The manager-facing app supports field visibility, task coordination, performance monitoring and approval workflows.
+</p>
             <ul class="ui-feature-list">
-               <li><span class="ui-check"><i class="fa fa-check"></i></span>Real-time agent location tracking</li>
-               <li><span class="ui-check"><i class="fa fa-check"></i></span>Individual performance monitoring</li>
-               <li><span class="ui-check"><i class="fa fa-check"></i></span>Quick approvals &amp; task assignment</li>
-               <li><span class="ui-check"><i class="fa fa-check"></i></span>Live meetings &amp; in-built communication</li>
+               <li><span class="ui-check"><i class="fa fa-check"></i></span>Real-time field agent location tracking
+</li>
+               <li><span class="ui-check"><i class="fa fa-check"></i></span>Individual performance monitoring
+</li>
+               <li><span class="ui-check"><i class="fa fa-check"></i></span>Task assignments and approvals
+</li>
+               <li><span class="ui-check"><i class="fa fa-check"></i></span>In-app communication and meetings
+</li>
             </ul>
          </div>
       </div>
@@ -2105,6 +2422,872 @@ function uiSwitch(btn, panelId) {
                </div>
             </div>
          </div>
+
+<!-- ===================== AI LAYER + WHO USES IMPRINT ===================== -->
+<style>
+/* ---------- AI LAYER (dark) ---------- */
+.ail-section {
+   padding: 70px 0 20px;
+   background: #fff;
+}
+.ail-inner {
+   max-width: 1160px;
+   margin: 0 auto;
+   padding: 0 24px;
+}
+.ail-card-wrap {
+   background: #0d0b24;
+   border-radius: 20px;
+   padding: 40px;
+}
+.ail-label {
+   display: inline-block;
+   font-family: Poppins, sans-serif;
+   font-size: 12px;
+   font-weight: 600;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #8f7bff;
+   margin-bottom: 12px;
+}
+.ail-card-wrap > h2 {
+   font-family: Poppins, sans-serif;
+   font-size: 28px;
+   font-weight: 700;
+   color: #fff;
+   margin: 0 0 30px;
+   line-height: 1.3;
+}
+.ail-grid {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   gap: 22px;
+}
+.ail-item {
+   background: rgba(255,255,255,0.03);
+   border: 1px solid rgba(255,255,255,0.08);
+   border-radius: 14px;
+   padding: 18px;
+   transition: border-color 0.3s ease, background 0.3s ease;
+}
+.ail-item:hover {
+   border-color: rgba(143,123,255,0.5);
+   background: rgba(143,123,255,0.06);
+}
+.ail-shot {
+   height: 120px;
+   border-radius: 10px;
+   background: #211d47;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: rgba(255,255,255,0.45);
+   font-family: Poppins, sans-serif;
+   font-size: 13px;
+   margin-bottom: 18px;
+}
+.ail-item h4 {
+   font-family: Poppins, sans-serif;
+   font-size: 17px;
+   font-weight: 700;
+   color: #fff;
+   margin: 0 0 8px;
+}
+.ail-item p {
+   font-family: Poppins, sans-serif;
+   font-size: 14px;
+   line-height: 1.55;
+   color: rgba(255,255,255,0.6);
+   margin: 0;
+}
+
+/* ---------- WHO USES IMPRINT (light) ---------- */
+.wui-section {
+   padding: 60px 0 80px;
+   background: #f4f3fb;
+}
+.wui-inner {
+   max-width: 1160px;
+   margin: 0 auto;
+   padding: 0 24px;
+}
+.wui-header {
+   text-align: center;
+   margin-bottom: 44px;
+}
+.wui-header .wui-label {
+   display: inline-block;
+   font-family: Poppins, sans-serif;
+   font-size: 12px;
+   font-weight: 600;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #2c409f;
+   margin-bottom: 14px;
+}
+.wui-header h2 {
+   font-family: Poppins, sans-serif;
+   font-size: 34px;
+   font-weight: 700;
+   color: #16123a;
+   margin: 0;
+   line-height: 1.25;
+}
+.wui-grid {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   gap: 22px;
+}
+.wui-card {
+   display: flex;
+   gap: 16px;
+   align-items: flex-start;
+   background: #fff;
+   border: 1px solid #e8e6f2;
+   border-radius: 14px;
+   padding: 22px;
+   transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.wui-card:hover {
+   box-shadow: 0 14px 34px rgba(91,63,214,0.12);
+   transform: translateY(-3px);
+}
+.wui-icon {
+   flex: 0 0 auto;
+   width: 44px;
+   height: 44px;
+   border-radius: 10px;
+   background: #3b2fb0;
+   color: #fff;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 18px;
+}
+.wui-text h4 {
+   font-family: Poppins, sans-serif;
+   font-size: 17px;
+   font-weight: 700;
+   color: #16123a;
+   margin: 0 0 6px;
+}
+.wui-text p {
+   font-family: Poppins, sans-serif;
+   font-size: 14px;
+   line-height: 1.55;
+   color: #6b7280;
+   margin: 0;
+}
+
+/* ---------- Tablet ---------- */
+@media (max-width: 992px) {
+   .ail-grid { grid-template-columns: repeat(2, 1fr); }
+   .wui-grid { grid-template-columns: repeat(2, 1fr); }
+   .ail-card-wrap > h2 { font-size: 24px; }
+   .wui-header h2 { font-size: 28px; }
+}
+
+/* ---------- Phone ---------- */
+@media (max-width: 600px) {
+   .ail-section { padding: 48px 0 14px; }
+   .ail-inner, .wui-inner { padding: 0 16px; }
+   .ail-card-wrap { padding: 26px 20px; border-radius: 16px; }
+   .ail-card-wrap > h2 { font-size: 21px; margin-bottom: 22px; }
+   .ail-grid { grid-template-columns: 1fr; gap: 16px; }
+   .ail-shot { height: 150px; }
+
+   .wui-section { padding: 44px 0 56px; }
+   .wui-header { margin-bottom: 30px; }
+   .wui-header h2 { font-size: 23px; }
+   .wui-grid { grid-template-columns: 1fr; gap: 14px; }
+   .wui-card { padding: 18px; gap: 14px; }
+   .wui-icon { width: 40px; height: 40px; font-size: 16px; }
+   .wui-text h4 { font-size: 16px; }
+}
+@media (max-width: 380px) {
+   .ail-card-wrap > h2 { font-size: 19px; }
+   .wui-header h2 { font-size: 20px; }
+}
+</style>
+
+<section class="ail-section" aria-label="The AI Layer">
+   <div class="ail-inner">
+      <div class="ail-card-wrap">
+         <span class="ail-label">The AI Layer</span>
+         <h2>Put Your Field Data to Work with AI</h2>
+         <div class="ail-grid">
+            <div class="ail-item">
+               <div class="ail-shot">[Screenshot]</div>
+               <h4>[AI feature 1]</h4>
+               <p>[What it does for a field manager.]</p>
+            </div>
+            <div class="ail-item">
+               <div class="ail-shot">[Screenshot]</div>
+               <h4>[AI feature 2]</h4>
+               <p>[What it does for a field manager.]</p>
+            </div>
+            <div class="ail-item">
+               <div class="ail-shot">[Screenshot]</div>
+               <h4>[AI feature 3]</h4>
+               <p>[What it does for a field manager.]</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
+<section class="wui-section" aria-label="Who Uses Imprint">
+   <div class="wui-inner">
+      <div class="wui-header">
+         <span class="wui-label">Who Uses Imprint?</span>
+         <h2>Built Around the Realities of Fieldwork</h2>
+      </div>
+      <div class="wui-grid">
+         <div class="wui-card">
+            <div class="wui-icon"><i class="fa fa-university"></i></div>
+            <div class="wui-text">
+               <h4>Banking &amp; NBFC</h4>
+               <p>Coordinate loan sourcing and branch-related visits.</p>
+            </div>
+         </div>
+         <div class="wui-card">
+            <div class="wui-icon"><i class="fa fa-flask"></i></div>
+            <div class="wui-text">
+               <h4>Pharma</h4>
+               <p>Organise medical representative visits and territory coverage. 
+</p>
+            </div>
+         </div>
+         <div class="wui-card">
+            <div class="wui-icon"><i class="fa fa-shopping-cart"></i></div>
+            <div class="wui-text">
+               <h4>FMCG &amp; Distribution</h4>
+               <p>Coordinate sales beats and order-taking activities.
+</p>
+            </div>
+         </div>
+         <div class="wui-card">
+            <div class="wui-icon"><i class="fa fa-building"></i></div>
+            <div class="wui-text">
+               <h4>Building &amp; Construction</h4>
+               <p>Coordinate site visits and field progress updates. 
+</p>
+            </div>
+         </div>
+         <div class="wui-card">
+            <div class="wui-icon"><i class="fa fa-truck"></i></div>
+            <div class="wui-text">
+               <h4>Transport &amp; Supply Chain</h4>
+               <p>Organise field assignments, and route information. 
+</p>
+            </div>
+         </div>
+         <div class="wui-card">
+            <div class="wui-icon"><i class="fa fa-signal"></i></div>
+            <div class="wui-text">
+               <h4>Telecom</h4>
+               <p>Coordinate technician visits and service calls. 
+</p>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- =================== END AI LAYER + WHO USES IMPRINT =================== -->
+
+<!-- ===================== TESTIMONIALS + DEMO CTA ===================== -->
+<style>
+.tst-section {
+   padding: 70px 0 80px;
+   background: #fff;
+}
+.tst-inner {
+   max-width: 1160px;
+   margin: 0 auto;
+   padding: 0 24px;
+}
+.tst-header {
+   text-align: center;
+   margin-bottom: 40px;
+}
+.tst-header .tst-label {
+   display: inline-block;
+   font-family: Poppins, sans-serif;
+   font-size: 12px;
+   font-weight: 600;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: #2c409f;
+   margin-bottom: 14px;
+}
+.tst-header h2 {
+   font-family: Poppins, sans-serif;
+   font-size: 34px;
+   font-weight: 700;
+   color: #16123a;
+   margin: 0;
+   line-height: 1.25;
+}
+/* rating bar */
+.tst-rating {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   gap: 18px;
+   border: 1px solid #e8e6f2;
+   border-radius: 14px;
+   padding: 22px 28px;
+   margin-bottom: 26px;
+}
+.tst-rating-left {
+   display: flex;
+   align-items: center;
+   gap: 18px;
+}
+.tst-score {
+   font-family: Poppins, sans-serif;
+   font-size: 34px;
+   font-weight: 800;
+   color: #16123a;
+   line-height: 1;
+}
+.tst-stars { color: #f5a623; font-size: 15px; letter-spacing: 2px; }
+.tst-rating-sub {
+   font-family: Poppins, sans-serif;
+   font-size: 14px;
+   color: #6b7280;
+   margin-top: 4px;
+}
+.tst-badges { display: flex; gap: 10px; flex-wrap: wrap; }
+.tst-badge {
+   font-family: Poppins, sans-serif;
+   font-size: 12px;
+   color: #6b7280;
+   border: 1px solid #e0ddee;
+   border-radius: 8px;
+   padding: 8px 12px;
+}
+/* cards */
+.tst-grid {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   gap: 22px;
+   margin-bottom: 44px;
+}
+.tst-card {
+   border: 1px solid #e8e6f2;
+   border-radius: 14px;
+   padding: 24px;
+   background: #fff;
+   transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.tst-card:hover {
+   box-shadow: 0 14px 34px rgba(91,63,214,0.1);
+   transform: translateY(-3px);
+}
+.tst-card .tst-stars { display: block; margin-bottom: 14px; }
+.tst-quote {
+   font-family: Poppins, sans-serif;
+   font-size: 15px;
+   line-height: 1.6;
+   color: #2d2a44;
+   margin: 0 0 20px;
+}
+.tst-person { display: flex; align-items: center; gap: 12px; }
+.tst-avatar {
+   width: 40px; height: 40px;
+   border-radius: 50%;
+   background: #e7e2fb;
+   flex: 0 0 auto;
+}
+.tst-person-name {
+   font-family: Poppins, sans-serif;
+   font-size: 14px;
+   font-weight: 700;
+   color: #16123a;
+}
+.tst-person-role {
+   font-family: Poppins, sans-serif;
+   font-size: 13px;
+   color: #6b7280;
+}
+/* demo CTA band */
+.tst-cta {
+   background: #0d0b24;
+   border-radius: 18px;
+   padding: 38px 44px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   gap: 24px;
+}
+.tst-cta-text h3 {
+   font-family: Poppins, sans-serif;
+   font-size: 26px;
+   font-weight: 700;
+   color: #fff;
+   margin: 0 0 8px;
+}
+.tst-cta-text p {
+   font-family: Poppins, sans-serif;
+   font-size: 15px;
+   color: rgba(255,255,255,0.65);
+   margin: 0;
+}
+.tst-cta-btns { display: flex; gap: 14px; flex-wrap: wrap; }
+.tst-btn {
+   font-family: Poppins, sans-serif;
+   font-size: 15px;
+   font-weight: 600;
+   padding: 13px 26px;
+   border-radius: 10px;
+   text-decoration: none;
+   transition: transform 0.25s ease, background 0.25s ease, color 0.25s ease;
+   white-space: nowrap;
+}
+.tst-btn-primary { background: #fff; color: #16123a; }
+.tst-btn-primary:hover { transform: translateY(-2px); background: #f0eefb; color: #16123a; }
+.tst-btn-outline { background: transparent; color: #fff; border: 1px solid rgba(255,255,255,0.35); }
+.tst-btn-outline:hover { transform: translateY(-2px); background: rgba(255,255,255,0.08); color: #fff; }
+
+/* ---------- Tablet ---------- */
+@media (max-width: 992px) {
+   .tst-header h2 { font-size: 28px; }
+   .tst-grid { grid-template-columns: 1fr; max-width: 620px; margin-left: auto; margin-right: auto; }
+}
+
+/* ---------- Phone ---------- */
+@media (max-width: 600px) {
+   .tst-section { padding: 48px 0 56px; }
+   .tst-inner { padding: 0 16px; }
+   .tst-header { margin-bottom: 28px; }
+   .tst-header h2 { font-size: 23px; }
+   .tst-rating { flex-direction: column; align-items: flex-start; padding: 18px 20px; }
+   .tst-score { font-size: 28px; }
+   .tst-grid { gap: 14px; margin-bottom: 32px; }
+   .tst-card { padding: 20px; }
+   .tst-cta { padding: 28px 22px; flex-direction: column; align-items: flex-start; text-align: left; }
+   .tst-cta-text h3 { font-size: 21px; }
+   .tst-cta-btns { width: 100%; }
+   .tst-btn { flex: 1 1 auto; text-align: center; }
+}
+@media (max-width: 380px) {
+   .tst-header h2 { font-size: 20px; }
+   .tst-cta-text h3 { font-size: 19px; }
+   .tst-cta-btns { flex-direction: column; }
+   .tst-btn { width: 100%; }
+}
+</style>
+
+<section class="tst-section" aria-label="What Customers Say">
+   <div class="tst-inner">
+      <div class="tst-header">
+         <span class="tst-label">What Customers Say</span>
+         <h2>See How Teams Use Imprint in Their Daily Operations</h2>
+      </div>
+
+      <!-- Rating bar -->
+      <!-- <div class="tst-rating">
+         <div class="tst-rating-left">
+            <div class="tst-score">[4.x]</div>
+            <div>
+               <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+               <div class="tst-rating-sub">from [N] reviews on G2 and Capterra</div>
+            </div>
+         </div>
+         <div class="tst-badges">
+            <span class="tst-badge">[G2 badge]</span>
+            <span class="tst-badge">[Capterra badge]</span>
+         </div>
+      </div> -->
+
+      <!-- Testimonial cards -->
+      <div class="tst-grid">
+         <div class="tst-card">
+            <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+            <p class="tst-quote">Building a solution for field sales executives is incredibly. I really appreciate the great work you’re doing Imprint AI.</p>
+            <div class="tst-person">
+               <div class="tst-avatar"></div>
+               <div>
+                  <div class="tst-person-name">[Full name]</div>
+                  <div class="tst-person-role">Sales Head, [Company]</div>
+               </div>
+            </div>
+         </div>
+         <div class="tst-card">
+            <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+            <p class="tst-quote">Imprint AI has given impetus to our team's sales performance by fool-proof monitoring of actual visits made by each field agent.
+</p>
+            <div class="tst-person">
+               <div class="tst-avatar"></div>
+               <div>
+                  <div class="tst-person-name">[Full name]</div>
+                  <div class="tst-person-role">Field Operations Manager, [Company]</div>
+               </div>
+            </div>
+         </div>
+         <div class="tst-card">
+            <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+            <p class="tst-quote">Imprint AI reports a 90% reduction in attendance and payroll errors for a leading security services provider.</p>
+            <div class="tst-person">
+               <div class="tst-avatar"></div>
+               <div>
+                  <div class="tst-person-name">[Full name]</div>
+                  <div class="tst-person-role">Field Agent, [Company]</div>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <!-- Demo CTA band -->
+      <div class="tst-cta">
+         <div class="tst-cta-text">
+            <h3>See How Imprint Fits Your Field Operations</h3>
+            <p>Book a personalised demonstration. </p>
+         </div>
+         <div class="tst-cta-btns">
+            <a href="<?php echo base_url('contactus#Demo'); ?>" class="tst-btn tst-btn-primary">Book a Demo</a>
+            <a href="https://imprint.astiinfotech.com/#/login" target="_blank" rel="noopener" class="tst-btn tst-btn-outline">Start for Free</a>
+         </div>
+      </div>
+   </div>
+</section>
+<!-- =================== END TESTIMONIALS + DEMO CTA =================== -->
+
+<!-- ===================== FAQ + GET THE APP ===================== -->
+<style>
+/* ---------- FAQ ---------- */
+.faq-section {
+   padding: 72px 0 70px;
+   background: #f7f6fc;
+}
+.faq-inner {
+   max-width: 860px;
+   margin: 0 auto;
+   padding: 0 24px;
+}
+.faq-header {
+   text-align: center;
+   margin-bottom: 44px;
+}
+.faq-header .faq-tag {
+   display: inline-block;
+   font-family: Poppins, sans-serif;
+   font-size: 12px;
+   font-weight: 600;
+   letter-spacing: 1.5px;
+   text-transform: uppercase;
+   color: #2c409f;
+   background: #ece9fb;
+   padding: 7px 16px;
+   border-radius: 30px;
+   margin-bottom: 18px;
+}
+.faq-header h2 {
+   font-family: Poppins, sans-serif;
+   font-size: 36px;
+   font-weight: 700;
+   color: #16123a;
+   margin: 0 0 12px;
+   line-height: 1.2;
+}
+.faq-header .faq-sub {
+   font-family: Poppins, sans-serif;
+   font-size: 16px;
+   color: #6b7280;
+   margin: 0;
+}
+
+/* card accordion */
+.faq-list {
+   display: flex;
+   flex-direction: column;
+   gap: 14px;
+}
+.faq-item {
+   background: #fff;
+   border: 1px solid #ebe9f3;
+   border-radius: 14px;
+   box-shadow: 0 2px 10px rgba(22,18,58,0.03);
+   overflow: hidden;
+   transition: border-color 0.3s ease, box-shadow 0.3s ease, background 0.3s ease;
+}
+.faq-item:hover {
+   border-color: #d9d2f7;
+   box-shadow: 0 10px 28px rgba(91,63,214,0.08);
+}
+.faq-item.open {
+   border-color: #c7bdf4;
+   box-shadow: 0 14px 34px rgba(91,63,214,0.12);
+}
+.faq-q {
+   width: 100%;
+   background: none;
+   border: 0;
+   cursor: pointer;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   gap: 18px;
+   text-align: left;
+   padding: 22px 24px;
+   font-family: Poppins, sans-serif;
+   font-size: 16.5px;
+   font-weight: 600;
+   color: #000 !important;
+   transition: color 0.25s ease;
+}
+.faq-q > span:not(.faq-icon) { color: #000 !important; }
+.faq-item.open .faq-q,
+.faq-item.open .faq-q > span:not(.faq-icon) { color: #000 !important; }
+.faq-icon {
+   flex: 0 0 auto;
+   width: 32px;
+   height: 32px;
+   border-radius: 50%;
+   background: #f0edfc;
+   color: #2c409f !important;
+   font-size: 18px;
+   line-height: 1;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   transition: transform 0.35s ease, background 0.3s ease, color 0.3s ease;
+}
+.faq-item.open .faq-icon {
+   transform: rotate(135deg);
+   background: #2c409f;
+   color: #fff !important;
+}
+.faq-a {
+   max-height: 0;
+   overflow: hidden;
+   transition: max-height 0.4s ease;
+}
+.faq-a-inner {
+   padding: 0 24px 24px;
+   font-family: Poppins, sans-serif;
+   font-size: 15px;
+   line-height: 1.7;
+   color: #5f6377;
+   border-top: 1px solid #f0eef7;
+   margin-top: 2px;
+   padding-top: 18px;
+}
+
+/* ---------- GET THE APP ---------- */
+.app-section {
+   padding: 10px 0 80px;
+   background: #fff;
+}
+.app-inner {
+   max-width: 1160px;
+   margin: 0 auto;
+   padding: 0 24px;
+}
+.app-band {
+   background: #3b2fb0;
+   border-radius: 18px;
+   padding: 46px 30px;
+   text-align: center;
+}
+.app-band .app-label {
+   display: inline-block;
+   font-family: Poppins, sans-serif;
+   font-size: 12px;
+   font-weight: 600;
+   letter-spacing: 2px;
+   text-transform: uppercase;
+   color: rgba(255,255,255,0.65);
+   margin-bottom: 12px;
+}
+.app-band h3 {
+   font-family: Poppins, sans-serif;
+   font-size: 26px;
+   font-weight: 700;
+   color: #fff;
+   margin: 0 0 10px;
+}
+.app-band p {
+   font-family: Poppins, sans-serif;
+   font-size: 15px;
+   color: rgba(255,255,255,0.8);
+   margin: 0 0 6px;
+}
+.app-tour {
+   font-family: Poppins, sans-serif;
+   font-size: 14px;
+   color: rgba(255,255,255,0.9);
+   margin: 0 0 24px;
+}
+.app-tour a { color: #fff; text-decoration: underline; }
+.app-badges {
+   display: flex;
+   gap: 14px;
+   justify-content: center;
+   flex-wrap: wrap;
+}
+.app-store-btn {
+   display: inline-flex;
+   align-items: center;
+   gap: 10px;
+   background: #0d0b24;
+   color: #fff;
+   text-decoration: none;
+   padding: 12px 20px;
+   border-radius: 10px;
+   transition: transform 0.25s ease, background 0.25s ease;
+}
+.app-store-btn:hover { transform: translateY(-2px); background: #000; color: #fff; }
+.app-store-btn i { font-size: 24px; }
+.app-store-btn .app-store-txt { text-align: left; line-height: 1.2; }
+.app-store-btn .app-store-small { font-family: Poppins, sans-serif; font-size: 10px; opacity: 0.8; display: block; }
+.app-store-btn .app-store-big { font-family: Poppins, sans-serif; font-size: 15px; font-weight: 700; display: block; }
+
+/* ---------- Tablet ---------- */
+@media (max-width: 992px) {
+   .faq-header h2 { font-size: 28px; }
+   .app-band h3 { font-size: 23px; }
+}
+
+/* ---------- Phone ---------- */
+@media (max-width: 600px) {
+   .faq-section { padding: 48px 0 48px; }
+   .faq-inner { padding: 0 16px; }
+   .faq-header { margin-bottom: 30px; }
+   .faq-header h2 { font-size: 24px; }
+   .faq-header .faq-sub { font-size: 14px; }
+   .faq-list { gap: 12px; }
+   .faq-q { font-size: 15px; padding: 18px 18px; gap: 14px; }
+   .faq-icon { width: 28px; height: 28px; font-size: 16px; }
+   .faq-a-inner { font-size: 14px; padding: 16px 18px 20px; }
+
+   .app-section { padding: 6px 0 56px; }
+   .app-inner { padding: 0 16px; }
+   .app-band { padding: 34px 20px; border-radius: 16px; }
+   .app-band h3 { font-size: 20px; }
+   .app-band p, .app-tour { font-size: 14px; }
+   .app-badges { gap: 10px; }
+   .app-store-btn { flex: 1 1 auto; justify-content: center; }
+}
+@media (max-width: 380px) {
+   .faq-header h2 { font-size: 20px; }
+   .app-band h3 { font-size: 18px; }
+   .app-badges { flex-direction: column; }
+   .app-store-btn { width: 100%; }
+}
+</style>
+
+<section class="faq-section" aria-label="Frequently Asked Questions">
+   <div class="faq-inner">
+      <div class="faq-header">
+         <span class="faq-tag">FAQ</span>
+         <h2>Frequently Asked Questions</h2>
+         <p class="faq-sub">What is field force management software?</p>
+      </div>
+
+      <div class="faq-list">
+         <div class="faq-item">
+            <button type="button" class="faq-q" onclick="faqToggle(this)">
+               <span>What is field force management software?</span>
+               <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-a">
+               <div class="faq-a-inner">Field force management software helps businesses coordinate employees who work outside a traditional office environment. It can support location tracking, attendance, task assignments, beat planning, customer visits, expense management and performance reporting.</div>
+            </div>
+         </div>
+         <div class="faq-item">
+            <button type="button" class="faq-q" onclick="faqToggle(this)">
+               <span>How does Imprint help managers monitor field agents?</span>
+               <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-a">
+               <div class="faq-a-inner">Imprint provides field visibility through location tracking, attendance information, task management and centralised reporting. Managers can review relevant activity data to understand field progress and coordinate work across their teams.</div>
+            </div>
+         </div>
+         <div class="faq-item">
+            <button type="button" class="faq-q" onclick="faqToggle(this)">
+               <span>Which features are available in Imprint?</span>
+               <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-a">
+               <div class="faq-a-inner">Imprint lists real-time location tracking, attendance management, beat planning, expense and reimbursement management, client and lead management, analytics, dynamic forms, task assignment, campaign management and digital documentation among its features.</div>
+            </div>
+         </div>
+         <div class="faq-item">
+            <button type="button" class="faq-q" onclick="faqToggle(this)">
+               <span>Can Imprint support multiple industries?</span>
+               <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-a">
+               <div class="faq-a-inner">Yes. Imprint presents solutions for industries and business functions including banking and NBFCs, pharmaceuticals, FMCG, telecom, transport and supply chain, and construction. The most appropriate configuration depends on the team's workflow and operational requirements.</div>
+            </div>
+         </div>
+         <div class="faq-item">
+            <button type="button" class="faq-q" onclick="faqToggle(this)">
+               <span>Does Imprint offer mobile applications?</span>
+               <span class="faq-icon">+</span>
+            </button>
+            <div class="faq-a">
+               <div class="faq-a-inner">Imprint's website presents a Field Agent App and a Sales Manager App alongside a web-based dashboard. Contact the company or visit its official sign-up page to confirm current platform compatibility, device requirements and availability.</div>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
+<section class="app-section" aria-label="Get the App">
+   <div class="app-inner">
+      <div class="app-band">
+         <span class="app-label">Get the App</span>
+         <h3>Put Imprint in your field team's pocket</h3>
+         <p>Field Agent app for your reps, Sales Manager app for you. Free to start.</p>
+         <p class="app-tour">Want a quick tour first? <a href="<?php echo base_url('contactus#Demo'); ?>">We'll show you around &rarr;</a></p>
+         <div class="app-badges">
+            <a href="#" class="app-store-btn" aria-label="Download on the App Store">
+               <i class="fa fa-apple"></i>
+               <span class="app-store-txt">
+                  <span class="app-store-small">Download on the</span>
+                  <span class="app-store-big">App Store</span>
+               </span>
+            </a>
+            <a href="#" class="app-store-btn" aria-label="Get it on Google Play">
+               <i class="fa fa-play"></i>
+               <span class="app-store-txt">
+                  <span class="app-store-small">Get it on</span>
+                  <span class="app-store-big">Google Play</span>
+               </span>
+            </a>
+         </div>
+      </div>
+   </div>
+</section>
+
+<script>
+function faqToggle(btn) {
+   var item = btn.parentElement;
+   var answer = btn.nextElementSibling;
+   var isOpen = item.classList.contains('open');
+   // close all
+   document.querySelectorAll('.faq-item').forEach(function(it){
+      it.classList.remove('open');
+      var a = it.querySelector('.faq-a');
+      if (a) { a.style.maxHeight = null; }
+      var ic = it.querySelector('.faq-icon');
+      if (ic) { ic.textContent = '+'; }
+   });
+   // open clicked one if it was closed
+   if (!isOpen) {
+      item.classList.add('open');
+      answer.style.maxHeight = answer.scrollHeight + 'px';
+      btn.querySelector('.faq-icon').textContent = '+';
+   }
+}
+</script>
+<!-- =================== END FAQ + GET THE APP =================== -->
+
       </main>
 
 
