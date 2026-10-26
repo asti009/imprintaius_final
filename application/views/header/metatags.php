@@ -1,9 +1,9 @@
 <?php if($this->uri->segment(1)==''){ ?>
-<title>Imprint AI | AI-Powered Workforce Management Solution</title>
-<meta name="description" content="Imprint AI is a powerful AI-powered workforce management solution that enhances productivity with real-time tracking, field force automation, and end-to-end workforce visibility. Trusted by 100+ customers across 3 continents.">
+<title>Imprint AI | Field Force Management Software &amp; AI Tools</title>
+<meta name="description" content="Manage field teams with Imprint AI. Track attendance, plan beats, monitor performance, manage expenses and streamline field operations with AI-powered tools.">
 <link rel="canonical" href="https://imprintai.us" />
-<meta property="og:title" content="Imprint AI | AI-Powered Workforce Management Solution">
-<meta property="og:description" content="Simplify the workforce equation with IMPRINT — real-time tracking, field force automation, and AI-powered insights for your business.">
+<meta property="og:title" content="Imprint AI | Field Force Management Software &amp; AI Tools">
+<meta property="og:description" content="Manage field teams with Imprint AI. Track attendance, plan beats, monitor performance, manage expenses and streamline field operations with AI-powered tools.">
 <meta property="og:url" content="https://imprintai.us">
 <meta property="og:type" content="website">
 <?php }?>
@@ -62,6 +62,22 @@
 <meta charset="utf-8" name="description" content="Increase your ROI with our AI-based industry-specific Salesforce Management solution which provides salesforce automation that addresses daily challenges, and manages resources for you.">
 <link rel="canonical" href="https://imprintai.us/industries" />
 
+<?php }?>
+
+<?php if($this->uri->segment(1)=='industries' && $this->uri->segment(2)=='bank-nbfcs-field-force-management-software'){ ?>
+<title>Field Force Management Software for Banks & NBFCs</title>
+<meta charset="utf-8" name="description" content="Manage loan sourcing, borrower verification and collections with Imprint AI's field force management software for banks, NBFCs and lending teams.">
+<meta charset="utf-8" name="title" property="og:title" content="Field Force Management Software for Banks & NBFCs">
+<meta property="og:description" content="Manage loan sourcing, borrower verification and collections with Imprint AI's field force management software for banks, NBFCs and lending teams.">
+<link rel="canonical" href="https://imprintai.us/industries/bank-nbfcs-field-force-management-software" />
+<?php }?>
+
+<?php if($this->uri->segment(1)=='industries' && $this->uri->segment(2)=='pharma-field-force-management-software'){ ?>
+<title>Pharma Field Force Management Software | Imprint AI</title>
+<meta charset="utf-8" name="description" content="Manage medical representatives, plan doctor visits, track field activities and capture doctor feedback with Imprint AI's pharma field force management software.">
+<meta charset="utf-8" name="title" property="og:title" content="Pharma Field Force Management Software | Imprint AI">
+<meta property="og:description" content="Manage medical representatives, plan doctor visits, track field activities and capture doctor feedback with Imprint AI's pharma field force management software.">
+<link rel="canonical" href="https://imprintai.us/industries/pharma-field-force-management-software" />
 <?php }?>
 
 

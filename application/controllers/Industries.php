@@ -14,4 +14,14 @@ class Industries extends CI_Controller
 	{		
 		$this->load->view('body/Industries/index');		
 	}
+
+	Public function pharma_field_force_management_software()
+	{		
+		$this->load->view('body/Industries/pharma');		
+	}
+
+	Public function bank_nbfcs_field_force_management_software()
+	{		
+		$this->load->view('body/Industries/bank_nbfcs');		
+	}
 }

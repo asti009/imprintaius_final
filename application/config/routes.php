@@ -64,6 +64,8 @@ $route['thankyou']='Thankyou/Thankyou';
 $route['aboutus']='Aboutus/Aboutus';
 $route['features']='Features/Features';
 $route['industries']='Industries/Industries';
+$route['industries/pharma-field-force-management-software'] = 'Industries/pharma_field_force_management_software';
+$route['industries/bank-nbfcs-field-force-management-software'] = 'Industries/bank_nbfcs_field_force_management_software';
 $route['video']='Video/Video';
 
 // ----------------solution-----------------------

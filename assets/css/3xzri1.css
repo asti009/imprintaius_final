@@ -4414,7 +4414,7 @@ dd {
 
 .fullwidth-wrapper {
     width: 100%;
-    padding: 0 30px;
+    padding: 0 150px;
 }
 
 .clearfix:after,
@@ -24221,17 +24221,17 @@ html .wpb_content_element:after {
 }
 
 .header_button .wgl_button_link {
-    border-color: #664bc4 !important;
+    border-color: #2c409f !important;
     background-color: transparent !important;
 }
 
 .header_button .wgl_button_link {
-    color: #664bc4 !important;
+    color: #2c409f !important;
 }
 
 .header_button .wgl_button_link:hover {
-    border-color: #664bc4 !important;
-    background-color: #664bc4 !important;
+    border-color: #2c409f !important;
+    background-color: #2c409f !important;
     box-shadow: none !important;
 }
 
