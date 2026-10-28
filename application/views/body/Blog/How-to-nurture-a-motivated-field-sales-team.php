@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-to-nurture-a-motivated-field-sales-team2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-to-nurture-a-motivated-field-sales-team2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
              Proven by multiple studies, it cannot be denied that field work force is the backbone of any organization. For sectors like Telecom, BFSI, NBFCs and pharmaceuticals, it is the field sales agents that drive almost 70–80% revenue. The field sales and support teams are the company’s representatives in both B2B and B2C interactions, and thus affect both sales figures as well as customer retention. While Sales jobs can give a high adrenaline rush and constant excitement, they are also amongst the most high pressure jobs owing to their performance-driven nature and rigorous sales cycles. Lack of motivation and incentives can lead to burnout and high churn rates.</p><p>
 
@@ -30,7 +30,7 @@ The following points must be considered by the field managers to improve their c
 
 <h4>Is analytics capability being utilized for the collected data?</h4></p>
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-to-nurture-a-motivated-field-sales-team3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-to-nurture-a-motivated-field-sales-team3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
               
 

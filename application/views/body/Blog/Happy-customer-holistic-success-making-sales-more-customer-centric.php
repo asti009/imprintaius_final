@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Happy-customer-holistic-success-making-sales-more-customer-centric2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Happy-customer-holistic-success-making-sales-more-customer-centric2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               <h4>How to Develop a Successful Customer-Centric Marketing Strategy?</h4>
 
@@ -29,7 +29,7 @@ If so, “customer-centric marketing” might just be a fancy way of saying mark
 
 To create leads and fill your sales pipeline, customer-centric marketing involves more than just getting to know your potential customers. It describes a marketing strategy that is more concerned with your consumers’ needs than with the company’s.</p>
  <div style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Happy-customer-holistic-success-making-sales-more-customer-centric3.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Happy-customer-holistic-success-making-sales-more-customer-centric3.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             </div>
            <p><h4> What does “customer-centric marketing” entail?</h4>

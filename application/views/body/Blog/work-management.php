@@ -22,7 +22,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/work-management2.webp');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/work-management2.webp');?>">
 
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
                <p>Work management is a set of software products and services that apply workflow structure to the movement of information. It is used to solve problems like unequal workloads,non-standardized workflows for different kinds of work, companies that haven’t implemented any kind of workflow, and lack of control over the different phases of work. Businesses that are not able to process data in a fast and logical way will not be successful in today’s marketplace. It is noteworthy that different tools should be used for different processes, and each company needs to evaluate the best tool for the job.</p><p>

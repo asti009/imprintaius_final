@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Healthcare-fraternity-needs-an-efficient-crm-heres-why2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Healthcare-fraternity-needs-an-efficient-crm-heres-why2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 <p>As part of their annual compliance, institutional regulatory authorities require enterprises in the healthcare industry to maintain detailed records. Businesses must be responsible and conscious of medical records throughout their lifecycle, from creation through storage, ongoing maintenance, and secure disposal, while focused on providing high-quality healthcare at low prices.</p><p>
 

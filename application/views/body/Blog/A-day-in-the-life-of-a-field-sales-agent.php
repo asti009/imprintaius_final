@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/A-day-in-the-life-of-a-field-sales-agent2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/A-day-in-the-life-of-a-field-sales-agent2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                The daily work routine of field agents has changed quite a lot in the last decade. The tasks they used to perform manually have been switched to more user-friendly and digitized ways. Owing to revolutionary tech advancements, field agents have picked up a good pace at work; now more tasks can be done in a single day leading to better productivity with lesser effort.
 
@@ -52,7 +52,7 @@ Now we are quite aware of how John has spent his day, empowered by the versatile
 If you feel that Imprint has proven to be a boon to John and his team, and if you too would like to empower your field sales team with this workforce management powerful tool, schedule a customized demo right away or check out more details at https://imprintai.us/</p>
 
 <div style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/A-day-in-the-life-of-a-field-sales-agent3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/A-day-in-the-life-of-a-field-sales-agent3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 </div>
 </p><p><h4>FAQs</h4></p>

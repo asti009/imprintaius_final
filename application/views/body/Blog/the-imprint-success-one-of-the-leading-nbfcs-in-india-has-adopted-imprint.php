@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/the-imprint-success-one-of-the-leading-nbfcs-in-india-has-adopted-imprint.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/the-imprint-success-one-of-the-leading-nbfcs-in-india-has-adopted-imprint.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   Non banking financial companies are an important phenomenon that we are all aware of. If we consider the post pandemic world. Therefore, it has been very challenging for the NBFCs to keep their operations up and running in the absence of their employees. Of Course,keeping in mind the latest Government policies that the NBFCs are supposed to strongly adhere to.</p><p>
 

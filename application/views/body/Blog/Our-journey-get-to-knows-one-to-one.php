@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Our-journey-get-to-knows-one-to-one2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Our-journey-get-to-knows-one-to-one2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               this rapidly changing world, IIT/IIM alumni who are passionate about leveraging technology to address real problems for their clients create the Delaware-based SaaS product firm IMPRINT AI LLC. Our cutting-edge tracking systems go well beyond simple coordinate tracing and offer clever modules that make the lives of business managers easier through attendance monitoring, expenditure management, and document digitization.</p><p>
 

@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Make-your-small-business-digitally-booming-the-imprint-solution2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Make-your-small-business-digitally-booming-the-imprint-solution2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               For Companies may accelerate their digital transformation and maintain the momentum by adopting a bionic strategy that combines human and technical skills.</p><p>
 

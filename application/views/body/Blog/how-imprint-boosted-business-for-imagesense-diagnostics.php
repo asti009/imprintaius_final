@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/how-imprint-boosted-business-for-imagesense-diagnostics.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/how-imprint-boosted-business-for-imagesense-diagnostics.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   The case study belongs to the second wave of covid, when times were uncontrollable. It had stretched the healthcare infrastructure to its maximum and it was extremely important to better manage as well as monitor these facilities. There had been a sense of immense panic. The rush for collecting blood samples, tracking of the field workforce associated with testing laboratories had been next to impossible. During such trying times an automated streamline service was the only way to help in bringing more relief to people at the earliest. Further, it was the need of the hour.</p><p>
 

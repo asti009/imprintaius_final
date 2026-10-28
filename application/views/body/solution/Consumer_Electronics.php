@@ -52,9 +52,9 @@ $this->load->view('header/header'); ?>
                 <div class="carousel-container rounded-corner">
                     <div class="carousel">
                         <img style="max-height:400px;" class="carousel-image " alt="Consumer_Electronics"
-                            src="<?php echo base_url('/assets/images/solution/Consumer_Electronics/banner1.png'); ?>">
+                            src="<?php echo base_url('assets/images/solution/Consumer_Electronics/banner1.png'); ?>">
                         <img style="max-height:400px;" class="carousel-image " alt="Consumer_Electronics"
-                            src="<?php echo base_url('/assets/images/solution/Consumer_Electronics/banner2.png'); ?>">
+                            src="<?php echo base_url('assets/images/solution/Consumer_Electronics/banner2.png'); ?>">
                     </div>
                 </div>
                 <style>

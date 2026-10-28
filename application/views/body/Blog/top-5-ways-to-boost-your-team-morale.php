@@ -22,7 +22,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/top-5-ways-to-boost-your-team-morale.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/top-5-ways-to-boost-your-team-morale.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   
                Your product may be good or amazing, but the customers retain the interaction and customer service that you provide. As per research, 70-80% of the customers would not continue business with a company that provides bad customer service. It is natural that people are likely to share a bad experience more than a good experience.</p><p>

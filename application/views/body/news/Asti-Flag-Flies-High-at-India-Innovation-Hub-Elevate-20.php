@@ -33,9 +33,9 @@
                         <div class="portfolio-item logo animation " style="margin-bottom: 5px !important;">
                         	<div class="portfolio-border">
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Asti Flag Flies High at India Innovation Hub Elevate-20" href="<?php echo base_url('/assets/images/dubai-expo.png');?>">
+                                    <a class="lightbox" title="Asti Flag Flies High at India Innovation Hub Elevate-20" href="<?php echo base_url('assets/images/dubai-expo.png');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="Asti Flag Flies High at India Innovation Hub Elevate-20" src="<?php echo base_url('/assets/images/dubai-expo.png');?>">
+                                        <img alt="Asti Flag Flies High at India Innovation Hub Elevate-20" src="<?php echo base_url('assets/images/dubai-expo.png');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->

@@ -28,7 +28,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Job-Scheduling-and-Task-Assignment-The-Rescue-For-An-Overworked-Manager2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Job-Scheduling-and-Task-Assignment-The-Rescue-For-An-Overworked-Manager2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   George was delighted to get promoted to the task manager of his company. He had been waiting for this moment for over a year now. When he received his promotion email, he thought, "Finally! Now I can act like a boss, and not overburden myself with the mundane tasks every day at the office".</p><p>
  
@@ -42,7 +42,7 @@ George came to know about a <a target="_blank" href="https://www.forbes.com/advi
 
 <h4>Let's Learn From George How Job Scheduling And Task Management Rescued Him</h4></p><p> 
 <div style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Job-Scheduling-and-Task-Assignment-The-Rescue-For-An-Overworked-Manager3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Job-Scheduling-and-Task-Assignment-The-Rescue-For-An-Overworked-Manager3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 </div>
 Apart from the workload, George noticed that the chances of error in the manual management of these tasks are pretty high. He tends to mix up client names, agent schedules, and sometimes even daily work completion status for each field employee..</p><p>

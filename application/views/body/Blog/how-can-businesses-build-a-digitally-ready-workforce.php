@@ -20,7 +20,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/how-can-businesses-build-a-digitally-ready-workforce1.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/how-can-businesses-build-a-digitally-ready-workforce1.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               Creating a digitally ready workforce has been and is the need of the hour for all the businesses. This is because the post pandemic scenario has impacted businesses in two major ways, which include digitization and remote work culture. Although, the impact of digitization and the need of a digitally ready workforce precedes the pandemic situation. This is because digitally ready workforce has been extremely helpful and cost-effective for companies.</p><p>
 
@@ -30,7 +30,7 @@ As we move ahead in this post pandemic era, most of the organisations are planni
 
 <h4>What is meant by a “digitally ready” workforce?</h4></p>
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/how-can-businesses-build-a-digitally-ready-workforce2.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/how-can-businesses-build-a-digitally-ready-workforce2.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                Before we delve deeper into why we require a digitally ready workforce, we need to understand what do we mean by a digitally ready workforce? A digitally ready workforce is one where the infrastructure is automated and centered towards reducing manual labor.</p><p>
 
@@ -38,7 +38,7 @@ A digitally ready workforce employs the latest technologies such as artificial i
 
 <h4>Will a digitally ready workforce replace manual labor?</h4></p>
                 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/how-can-businesses-build-a-digitally-ready-workforce3.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/how-can-businesses-build-a-digitally-ready-workforce3.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
 A digitally ready workforce is the need of the hour. It is a crucial aspect of digital transformation. We are aware that businesses transform digitally to be able to unlock or create new values for their suppliers, customers and employees.</p><p>
 

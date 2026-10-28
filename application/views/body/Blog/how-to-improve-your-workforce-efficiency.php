@@ -21,7 +21,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/how-to-improve-your-workforce-efficiency.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/how-to-improve-your-workforce-efficiency.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   Modern businesses and industries always tend to look for a scope of expansion. In the contemporary business scenario even diversification. This is something that fuels the need for enhancing the workforce efficiency. Workforce efficiency is the primary pillar of each and every venture irrespective of the industry or the size. The aspects of workforce efficiency and time management were integral which have now become irreplaceable. Consistent requirements such as meeting deadlines, management of the employee, scheduling of tasks, keeping a track on the necessary resources, handling the existing as well as prospective customers require efficient workforce management.</p><p>
 

@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0px;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-Does-One-of-the-Largest-Mobile-Fuel-Suppliers-in-the-Country-Trust-Imprint-for-Managing-Its-Workforce2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-Does-One-of-the-Largest-Mobile-Fuel-Suppliers-in-the-Country-Trust-Imprint-for-Managing-Its-Workforce2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                  Fuel supplier companies especially mobile fuel suppliers deal with customers scattered far and wide. The majority of customers are hospitals, movie theaters, and malls where the power backup sources are fuel-based generators. To supply fuel to these distant customers as well as drive their sales efforts, the company employs a large number of field agents to meet the demand. The company's field force is critical to its operations, as it is responsible for ensuring that fuel is delivered safely and efficiently. However, managing a large field force can be challenging without a good <b>field force monitoring solution.</b></p><p>
 
@@ -27,7 +27,7 @@ $this->load->helper('url');
 One of India's largest mobile fuel suppliers has chosen Imprint as their <b>workforce management solution</b> provider. The decision to trust Imprint for managing the workforce is based on several reasons, including the need for efficient and effective management of a large and diverse workforce, the desire to improve productivity, and the need for accurate data analysis and reporting.</p><p>
 
 <!-- <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-Does-One-of-the-Largest-Mobile-Fuel-Suppliers-in-the-Country-Trust-Imprint-for-Managing-Its-Work3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-Does-One-of-the-Largest-Mobile-Fuel-Suppliers-in-the-Country-Trust-Imprint-for-Managing-Its-Work3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div> -->
 <h4>Reasons why the big fuel suppliers need a good automated field force management solution?</h4>
 <ul>
@@ -53,7 +53,7 @@ Managers get to know the minutes of meetings in real-time, which helps them to m
 Since fuel service operations are completely service agents dependent, it becomes immensely important to keep track of them. Helping them perform better with workforce automation tools can surely lead to better business productivity. Imprint field force management solution not only aids the managers in monitoring day-to-day activities and achievements of the team, but also empowers field agents to fulfill their tasks with greater ease and efficiency.</p><p> 
 
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-Does-One-of-the-Largest-Mobile-Fuel-Suppliers-in-the-Country-Trust-Imprint-for-Managing-Its-Work4.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-Does-One-of-the-Largest-Mobile-Fuel-Suppliers-in-the-Country-Trust-Imprint-for-Managing-Its-Work4.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 <h4>Conclusion</h4>
 Imprint's workforce management solution has aided not just fuel supply companies but many businesses from <a style="text-decoration: underline;" target="_blank" href="<?php echo base_url('IMPRINT-The-Game-Changer-for-Finetech-Companies');?>">Fintech,</a> <a style="text-decoration: underline;" target="_blank" href="https://casestudy.imprintai.us/">Diagnostics labs,</a> <a style="text-decoration: underline;" target="_blank" href="<?php echo base_url('Smooth-Monitoring-and-Management-of-Metro-Project-for-Large-Tier-2-City');?>">Infrastructure companies</a> to those looking to <a style="text-decoration: underline;" target="_blank" href="<?php echo base_url('Direct-Sales-Operations-Done-Right-with-IMPRINT-SFA');?>">enhance ROI of their Direct Sales operations.</a> Adopting Imprint has resulted in improving productivity, increased efficiency, and better employee engagement for many more such businesses. With Imprint's cloud-based solution, the company has been able to centralize its client database and automate its processes, resulting in higher customer satisfaction, more accurate reporting and improved decision-making. It is clear why one of India's largest mobile fuel suppliers trusts Imprint for managing its field work force, and it is likely that other companies in the region will follow suit. To know how Imprint would be helpful to your enterprise, log in to <a style="text-decoration: underline;" target="_blank" href="<?php echo base_url('');?>">www.imprintai.us</a> or <a style="text-decoration: underline;" target="_blank" href="<?php echo base_url('contactus#Demo');?>">schedule a demo right away!</a></p><p>

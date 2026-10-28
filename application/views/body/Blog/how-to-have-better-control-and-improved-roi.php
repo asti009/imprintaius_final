@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/how-to-have-better-control-and-improved-roi.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/how-to-have-better-control-and-improved-roi.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   ROI stands for Return On Investment. It is a financial metric that is used to measure the probability of gaining a return out of an investment. It is the ratio that compares the prospective gain or loss from a particular investment to its cost. It is an extremely useful and important financial tool in the fraternity of business. It helps by evaluating the potential return from a particular investment as it is in comparison to several other investments. In simple words, it is the means through which an individual or a company measures the amount of return which is obtained from a particular investment. Generating ROI automatically gives a venture a holistic control over everything.</p><p>
 

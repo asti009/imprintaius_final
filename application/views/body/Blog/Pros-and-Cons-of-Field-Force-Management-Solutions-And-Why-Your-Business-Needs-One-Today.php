@@ -29,13 +29,13 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Pros-and-Cons-of-Field-Force-Management-Solutions-And-Why-Your-Business-Needs-One-Today2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Pros-and-Cons-of-Field-Force-Management-Solutions-And-Why-Your-Business-Needs-One-Today2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                According to a recent survey by Forbes, 92% of executives believe that improving their field force's productivity is crucial for achieving business objectives. However, managing a dispersed team of sales and service agents can be a daunting task. This is where <b>field force management solutions</b> come into play. These tools help businesses optimize their field force's productivity, improve customer satisfaction, and increase revenue.</p><p> 
 In fact, another survey by Aberdeen found that companies using field force automation tools achieved a 16.6% increase in customer retention and a 14.7% increase in workforce productivity. In this blog, we'll explore the pros and cons of using field force management solutions and how our AI-powered solution, Imprint, can help businesses overcome the challenges associated with managing a field force.</p><p>
 <h4>Pros of Field Force Automation Solutions:</h4></p><p>
     <div class="row  single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Pros-and-Cons-of-Field-Force-Management-Solutions-And-Why-Your-Business-Needs-One-Today3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Pros-and-Cons-of-Field-Force-Management-Solutions-And-Why-Your-Business-Needs-One-Today3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             </div>
 <h4>Real-time Visibility:</h4></p><p>
@@ -56,7 +56,7 @@ Another advantage of a new-age <b>field sales management solution</b> is that it
 Lastly, <b>field service management tools</b> offer advanced analytics capabilities that enable businesses to analyze data trends, predict future outcomes, and plan effectively. By leveraging data analytics, companies can make data-driven decisions that optimize the performance of their field workforce and improve their overall business performance.</p><p>
 <h4>Cons of Workforce Automation Solutions:</h4></p><p>
     <div class="row single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Pros-and-Cons-of-Field-Force-Management-Solutions-And-Why-Your-Business-Needs-One-Today4.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Pros-and-Cons-of-Field-Force-Management-Solutions-And-Why-Your-Business-Needs-One-Today4.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             </div>
 <h4>1. Cost:</h4></p><p>

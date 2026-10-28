@@ -28,7 +28,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:30px;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-Can-Field-Service-Management-Software-Improve-Service-Quality-and-Increase-Revenue-For-Business2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-Can-Field-Service-Management-Software-Improve-Service-Quality-and-Increase-Revenue-For-Business2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                  Industries such as banking, insurance, fintech, telecom, and FMCGs work with a large team of field employees and run their operations on multiple job sites. Scheduling jobs, managing regular tasks, and doing inventory checks put a lot of pressure on the managers.</p><p> 
 
@@ -60,7 +60,7 @@ Apart from these are numerous advantages a remote <b>field service employee mana
 
 The features themselves give the idea of how <b>field service management software</b> can benefit companies by increasing their revenue. But here is a more detailed look at its additional benefits:</p><p> 
 <div style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-Can-Field-Service-Management-Software-Improve-Service-Quality-and-Increase-Revenue-For-Business3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-Can-Field-Service-Management-Software-Improve-Service-Quality-and-Increase-Revenue-For-Business3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 </div>
 <h4>Enhanced Productivity</h4></p><p> 

@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/a-cost-effective-workforce-management-solution.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/a-cost-effective-workforce-management-solution.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   Workforce management lies at the heart of every venture. This is because it is the process that deals with the management of employees, data and activities. If we consider any given organization irrespective of the industry, they have multiple departments which implies they have multiple employees as well. This is directly proportional to the fact that the management of the workforce is a complicated affair. This is because keeping a track of the employees, their activity, and the associated data in itself is a very tedious task. Some of the most common challenge in the field of workforce management are as follows:-</p><p>
 

@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/understanding-field-workforce-management.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/understanding-field-workforce-management.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   Field workforce management is also referred to as field force automation. It is a sub-discipline of field service management. This is an aspect a good number of people are unaware of. However, the aspect of field workforce management is of utmost importance to businesses irrespective of their industry or their site. The management of field operations in the industries that are asset-intensive can be very challenging and costly. An efficient field workforce management can be instrumental to the holistic growth of business. Today, more and more companies need centralized systems for field workforce management to improve visibility on daily tasks of field agents, thereby significantly improving overall productivity & efficiency. In the increasingly digitally-driven business landscape, workforce automation is poised to be the true game changer.</p><p>
 

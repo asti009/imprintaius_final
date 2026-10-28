@@ -52,14 +52,14 @@ $this->load->view('header/header'); ?>
                            <div class="img_layer_image_wrapper " style="z-index:2">
                               <div class="img_layer_item">
                                  <div class="img_layer_image"><img
-                                       src="<?php echo base_url('/assets/images/au_img_layer_2.png'); ?>"
+                                       src="<?php echo base_url('assets/images/au_img_layer_2.png'); ?>"
                                        alt="Aboutus" /></div>
                               </div>
                            </div>
                            <div class="img_layer_image_wrapper " style="z-index:1">
                               <div class="img_layer_item">
                                  <div class="img_layer_image"><img
-                                       src="<?php echo base_url('/assets/images/au_img_layer_1.png'); ?>"
+                                       src="<?php echo base_url('assets/images/au_img_layer_1.png'); ?>"
                                        alt="Aboutus" /></div>
                               </div>
                            </div>
@@ -108,7 +108,7 @@ $this->load->view('header/header'); ?>
                            <div class="team-item" style="padding-right:15px; padding-left:15px; padding-bottom:30px;">
                               <div class="team-item_content">
                                  <div class="team-image">
-                                    <img src="<?php echo base_url('/assets/images/t4.jpg'); ?>" alt="sonal" />
+                                    <img src="<?php echo base_url('assets/images/t4.jpg'); ?>" alt="sonal" />
                                     <div class="team-info_icons">
                                        <a href="https://www.facebook.com/sonal.malhotra.56" target="_blank"
                                           class="team-icon fa fa-facebook"></a>
@@ -139,7 +139,7 @@ $this->load->view('header/header'); ?>
                            <div class="team-item" style="padding-right:15px; padding-left:15px; padding-bottom:30px;">
                               <div class="team-item_content">
                                  <div class="team-image">
-                                    <img src="<?php echo base_url('/assets/images/t1.jpg'); ?>" alt="Sunity" />
+                                    <img src="<?php echo base_url('assets/images/t1.jpg'); ?>" alt="Sunity" />
                                     <div class="team-info_icons">
                                        <a href="https://www.facebook.com/sunity.choudhary" target="_blank"
                                           class="team-icon fa fa-facebook"></a>
@@ -173,7 +173,7 @@ $this->load->view('header/header'); ?>
                            <div class="team-item" style="padding-right:15px; padding-left:15px; padding-bottom:30px;">
                               <div class="team-item_content">
                                  <div class="team-image">
-                                    <img src="<?php echo base_url('/assets/images/t6.jpg'); ?>" alt="Abhijeet" />
+                                    <img src="<?php echo base_url('assets/images/t6.jpg'); ?>" alt="Abhijeet" />
                                     <div class="team-info_icons">
                                        <a href="https://www.linkedin.com/in/abhi-singh-794b86/" target="_blank"
                                           class="team-icon fa fa-linkedin"
@@ -219,7 +219,7 @@ $this->load->view('header/header'); ?>
                            <div class="team-item" style="padding-right:15px; padding-left:15px; padding-bottom:30px;">
                               <div class="team-item_content">
                                  <div class="team-image">
-                                    <img src="<?php echo base_url('/assets/images/t3.jpg'); ?>" alt="Mahendra" />
+                                    <img src="<?php echo base_url('assets/images/t3.jpg'); ?>" alt="Mahendra" />
                                     <div class="team-info_icons">
                                        <a href="https://www.facebook.com/Mahendrapc" target="_blank"
                                           class="team-icon fa fa-facebook"></a>
@@ -251,7 +251,7 @@ $this->load->view('header/header'); ?>
                            <div class="team-item" style="padding-right:15px; padding-left:15px; padding-bottom:30px;">
                               <div class="team-item_content">
                                  <div class="team-image">
-                                    <img src="<?php echo base_url('/assets/images/t2.jpg'); ?>" alt="Nitin" />
+                                    <img src="<?php echo base_url('assets/images/t2.jpg'); ?>" alt="Nitin" />
                                     <div class="team-info_icons">
                                        <a href="https://www.facebook.com/nitinsy" target="_blank"
                                           class="team-icon fa fa-facebook"></a>
@@ -282,7 +282,7 @@ $this->load->view('header/header'); ?>
                            <div class="team-item" style="padding-right:15px; padding-left:15px; padding-bottom:30px;">
                               <div class="team-item_content">
                                  <div class="team-image">
-                                    <img src="<?php echo base_url('/assets/images/t5.jpg'); ?>" alt="Bhushan" />
+                                    <img src="<?php echo base_url('assets/images/t5.jpg'); ?>" alt="Bhushan" />
                                     <div class="team-info_icons">
                                        <a href="https://www.facebook.com/askbhushan" target="_blank"
                                           class="team-icon fa fa-facebook"></a>

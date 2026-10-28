@@ -91,7 +91,7 @@
         <div class="row sidebar_right single_type-3" style="margin-top:0;">
             <img alt="Field Force Urgently Needs Imprint"
                  width="100%"
-                 src="<?php echo base_url('/assets/images/blog-images/10-signs-your-field-force-needs-imprint1.png'); ?>">
+                 src="<?php echo base_url('assets/images/blog-images/10-signs-your-field-force-needs-imprint1.png'); ?>">
             <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
         </div>
 
@@ -133,7 +133,7 @@
  <div class="row sidebar_right single_type-3" style="margin-top:0;">
             <img alt="Field Force Urgently Needs Imprint"
                  width="100%"
-                 src="<?php echo base_url('/assets/images/blog-images/10-signs-your-field-force-needs-imprint2.png'); ?>">
+                 src="<?php echo base_url('assets/images/blog-images/10-signs-your-field-force-needs-imprint2.png'); ?>">
             <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
         </div>
             <!-- Sign #1 -->

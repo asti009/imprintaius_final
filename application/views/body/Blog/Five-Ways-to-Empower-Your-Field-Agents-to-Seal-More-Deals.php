@@ -43,7 +43,7 @@ $this->load->view('header/header');
     <div class="wgl-container">
         <div class="row sidebar_right single_type-3" style="margin-top:0;">
             <img alt="" width="100%"
-                src="<?php echo base_url('/assets/images/blog-images/Five-Ways-to-Empower-Your-Field-Agents-to-Seal-More-Deals1.png'); ?>">
+                src="<?php echo base_url('assets/images/blog-images/Five-Ways-to-Empower-Your-Field-Agents-to-Seal-More-Deals1.png'); ?>">
             <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
         </div>
         <div>
@@ -66,7 +66,7 @@ $this->load->view('header/header');
 
             <div style="margin-top:0;">
                 <img alt="" width="100%"
-                    src="<?php echo base_url('/assets/images/blog-images/Five-Ways-to-Empower-Your-Field-Agents-to-Seal-More-Deals2.png'); ?>">
+                    src="<?php echo base_url('assets/images/blog-images/Five-Ways-to-Empower-Your-Field-Agents-to-Seal-More-Deals2.png'); ?>">
                 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             </div>
             <p>

@@ -53,9 +53,9 @@
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
                                     
-                                    <a class="lightbox" title="GIC Innovation award for tracking technology solutions" onclick="window.location.href='<?php echo base_url('/assets/images/GIC2-1.jpg');?>';">
+                                    <a class="lightbox" title="GIC Innovation award for tracking technology solutions" onclick="window.location.href='<?php echo base_url('assets/images/GIC2-1.jpg');?>';">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="Asti won the GIC innovation award for tracking technology solutions." src="<?php echo base_url('/assets/images/GIC2.jpg');?>" />
+                                        <img alt="Asti won the GIC innovation award for tracking technology solutions." src="<?php echo base_url('assets/images/GIC2.jpg');?>" />
                                     </a>
                                    
                                 </div>
@@ -79,9 +79,9 @@
                         	<div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="GIC Innovation award for tracking technology solutions" onclick="window.location.href='<?php echo base_url('/assets/images/GIC3-1.jpg');?>">
+                                    <a class="lightbox" title="GIC Innovation award for tracking technology solutions" onclick="window.location.href='<?php echo base_url('assets/images/GIC3-1.jpg');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="Asti won the GIC innovation award for tracking technology solutions" src="<?php echo base_url('/assets/images/GIC3.jpg');?>">
+                                        <img alt="Asti won the GIC innovation award for tracking technology solutions" src="<?php echo base_url('assets/images/GIC3.jpg');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->
@@ -104,9 +104,9 @@
                             <div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="GIC Innovation award for tracking technology solutions" onclick="window.location.href='<?php echo base_url('/assets/images/GIC4-1.jpg');?>">
+                                    <a class="lightbox" title="GIC Innovation award for tracking technology solutions" onclick="window.location.href='<?php echo base_url('assets/images/GIC4-1.jpg');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="Asti won the GIC innovation award for tracking technology solutions" src="<?php echo base_url('/assets/images/GIC4.jpg');?>">
+                                        <img alt="Asti won the GIC innovation award for tracking technology solutions" src="<?php echo base_url('assets/images/GIC4.jpg');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->

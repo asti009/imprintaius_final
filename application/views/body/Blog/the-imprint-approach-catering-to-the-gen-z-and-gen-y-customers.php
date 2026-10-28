@@ -21,7 +21,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/the-imprint-approach-catering-to-the-gen-z-and-gen-y-customers.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/the-imprint-approach-catering-to-the-gen-z-and-gen-y-customers.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   In the contemporary business world, customer engagement is a very important term. Customer engagement forms the base of any venture irrespective of the size or the industry. However, the word has received so much attention that often the meaning of the word is misinterpreted.</p><p>
 

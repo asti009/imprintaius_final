@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Multiple-problems-one-solution-imprint-ai2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Multiple-problems-one-solution-imprint-ai2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               The primary objective of simplifying the workforce equation. Over a thousand sales managers, countless field agents, and more than 100 clients across three continents have relied on Imprint to streamline their workforce management. Imprint is also ever-evolving and dynamic, reflecting both the market’s quick and erratic change and its customers’ wants. To simplify and revolutionise workforce management, there is a constant effort to increase the functionality and make use of the most recent technologies.</p><p>
 

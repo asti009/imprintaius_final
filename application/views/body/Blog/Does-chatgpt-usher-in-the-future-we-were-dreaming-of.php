@@ -19,12 +19,12 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Does-chatgpt-usher-in-the-future-we-were-dreaming-of2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Does-chatgpt-usher-in-the-future-we-were-dreaming-of2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               ChatGPT is the latest internet sensation and is the most buzzed-around word of the year-end 2022. ChatGPT stands for chat Generative Pre-trained Transformer; it is an Artificial Intelligence-based chatbot developed by OpenAI. It is a human interactive robot kind of model which has amazed people with its detailed responses and articulate answers across many domains of knowledge. It has created a huge stir in the tech world and gained instant popularity among people of all ages especially students who are in schools and colleges. It can write jokes, create text-based games, and do school assignments. It can also guess medical diagnoses and explain scientific concepts at multiple levels of difficulty. Software developers see ChatGPT as a big threat to their careers as it can not only fix bugs but also write the required code within a matter of seconds. Although countless other chatbots have been introduced earlier, chatGPT has raised the bar to another level and is being hailed as the smartest and most flexible chatbot ever. Let us explore the world of this new kid on the block and understand how it could impact our lives.</p><p>
 
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Does-chatgpt-usher-in-the-future-we-were-dreaming-of3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Does-chatgpt-usher-in-the-future-we-were-dreaming-of3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 
 <h4>Technical Conception</h4>

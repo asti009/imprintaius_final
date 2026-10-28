@@ -46,9 +46,9 @@
                         	<div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="The best IoT company of the year" onclick="window.location.href='<?php echo base_url('/assets/images/iot1-1.jpg');?>';" >
+                                    <a class="lightbox" title="The best IoT company of the year" onclick="window.location.href='<?php echo base_url('assets/images/iot1-1.jpg');?>';" >
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="" src="<?php echo base_url('/assets/images/iot1.jpg');?>">
+                                        <img alt="" src="<?php echo base_url('assets/images/iot1.jpg');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->
@@ -71,9 +71,9 @@
                         	<div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="The best IoT company of the year" onclick="window.location.href='<?php echo base_url('/assets/images/iot2-1.jpg');?>">
+                                    <a class="lightbox" title="The best IoT company of the year" onclick="window.location.href='<?php echo base_url('assets/images/iot2-1.jpg');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="" src="<?php echo base_url('/assets/images/iot2.jpg');?>">
+                                        <img alt="" src="<?php echo base_url('assets/images/iot2.jpg');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->
@@ -96,9 +96,9 @@
                         	<div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="The best IoT company of the year" onclick="window.location.href='<?php echo base_url('/assets/images/iot3-1.jpg');?>">
+                                    <a class="lightbox" title="The best IoT company of the year" onclick="window.location.href='<?php echo base_url('assets/images/iot3-1.jpg');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="" src="<?php echo base_url('/assets/images/iot3.jpg');?>">
+                                        <img alt="" src="<?php echo base_url('assets/images/iot3.jpg');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->

@@ -52,7 +52,7 @@ $this->load->view('header/header'); ?>
                 <div class="carousel-container rounded-corner">
                     <div class="carousel">
                         <img class="rounded-corner" style="max-height:400px;" class="carousel-image " alt="Elderly Care Banner"
-                            src="<?php echo base_url('/assets/images/solution/lending/banner.png'); ?>">
+                            src="<?php echo base_url('assets/images/solution/lending/banner.png'); ?>">
                     </div>
                 </div>
             </div>

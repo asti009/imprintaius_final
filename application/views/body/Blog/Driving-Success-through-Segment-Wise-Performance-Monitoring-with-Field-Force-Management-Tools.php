@@ -28,7 +28,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Driving-Success-through-Segment-Wise-Performance-Monitoring-with-Field-Force-Management-Tools2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Driving-Success-through-Segment-Wise-Performance-Monitoring-with-Field-Force-Management-Tools2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   Organizations face formidable challenges in managing their workforce effectively in today’s rapidly evolving market. From coordinating field service agents to ensuring prompt service delivery, optimizing resource allocation and decision-making is crucial. That's where <a href="<?php echo base_url('')?>">Imprint,</a> a cutting-edge <b>field force management solution,</b> steps in. In addition to its array of features that simplify manual tasks by automating attendance, expenses, beat planning, etc, Imprint empowers organizations with segment-wise performance monitoring capabilities. Its insightful analytics revolutionize their ability to analyze and optimize the performance of different teams or regions. By leveraging this powerful tool, businesses can make data-driven decisions, allocate resources more efficiently, and achieve exceptional overall performance. In this blog, we will delve into how Imprint's segment-wise performance monitoring capabilities drive success, delivering unparalleled results for field sales/service teams.</p><p>
 
@@ -43,7 +43,7 @@ Accurate and timely data is crucial for making informed decisions in <b>field fo
 A powerful <b>Field Sales Management (FSM) solution</b> like Imprint acts as a catalyst for performance improvement. By comparing the performance of different individuals, teams or regions, organizations can identify best practices and success factors. This helps you foster collaboration across teams by sharing valuable insights and lessons learned. Managers can identify training and development needs based on performance data, allowing them to provide targeted coaching and support. Imprint's continuous monitoring and optimization help elevate the performance of each segment, leading to enhanced overall performance across your field force.</p><p>
 
  <div class="single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Driving-Success-through-Segment-Wise-Performance-Monitoring-with-Field-Force-Management-Tools3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Driving-Success-through-Segment-Wise-Performance-Monitoring-with-Field-Force-Management-Tools3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
          </div>
 

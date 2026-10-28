@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/can-imprint-ai-help-small-businesses1.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/can-imprint-ai-help-small-businesses1.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   We all know that a new start-up is launched every second, therefore as the creator of a startup, you understand how challenging scaling may be.</p><p>
 
@@ -31,7 +31,7 @@ This is due to the fact that startups typically lack the personnel and financial
 
               
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/can-imprint-ai-help-small-businesses2.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/can-imprint-ai-help-small-businesses2.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                “It takes money to make money,” says an old adage. In order to grow into a larger company, one must have access to large-scale resources. The issue is that there isn't enough money, personnel, or other resources to achieve them.</p><p>
 
@@ -40,7 +40,7 @@ This is when automation enters the picture. Automation can be defined as a techn
 The following are some of the advantages that automation provides to startups:</p>
                
                 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/can-imprint-ai-help-small-businesses3.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/can-imprint-ai-help-small-businesses3.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                <b>1) It saves you time</b><br>
 

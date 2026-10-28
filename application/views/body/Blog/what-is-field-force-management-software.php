@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/what-is-field-force-management-software1.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/what-is-field-force-management-software1.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
 
                Regardless of how much the digital revolution has altered consumer purchasing habits, some tasks will continue to need the active presence of humans. For example, when it comes to selling insurance, many of us still prefer to speak with a human rather than a bot, despite the fact that bots have their place. When we are conversing with a living creature in person, asking questions, and nodding in agreement, we feel at ease. A Direct Sales Agent is a salesperson who sells something directly rather than through intermediaries such as wholesale. He is a field salesman if he goes door to door attempting to persuade people to buy his goods, and a group of such salespeople is known as a field force or a field sales team. In this blog, we'll see what is Field Force Management Software and how does it help businesses.</p><p>
@@ -35,7 +35,7 @@ These detours are much too prevalent, and your field sales team's success or fai
 <h4>IMPRINT Field Force Management Software</h4></p>
               
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/what-is-field-force-management-software2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/what-is-field-force-management-software2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
 
                The efficient tracking and successful management of a company's sales crew is one of the most significant difficulties it faces these days. Because they are always on the go, it is difficult to keep track of their job and where they are. IMPRINT <b>workforce automation</b> tool is one of the best <b>sales force tracking tools</b> equipped with <b>location intelligence</b>, attendance management, and paperless operations to enhance efficiency of the entire sales team. It is a 360-degree <b>field force management</b> software that increases visibility, enhances transparency of operations, improves conversion ratio and manages sales effectively. Your sales crew can be better organized and more productive with the IMPRINT's suite of powerful features.</p><p>

@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/The-ideal-companion-to-every-sales-personnel-ever2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/The-ideal-companion-to-every-sales-personnel-ever2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               Sales is going through some significant transformation, just like many other professions. Salespeople require a different set of abilities to succeed in this setting.</p><p>
 

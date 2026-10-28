@@ -40,9 +40,9 @@
                         	<div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Best School App" onclick="window.location.href='<?php echo base_url('/assets/images/a2.jpg');?>';">
+                                    <a class="lightbox" title="Best School App" onclick="window.location.href='<?php echo base_url('assets/images/a2.jpg');?>';">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="" src="<?php echo base_url('/assets/images/a1.jpg');?>">
+                                        <img alt="" src="<?php echo base_url('assets/images/a1.jpg');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->
@@ -65,9 +65,9 @@
                         	<div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Best School App" onclick="window.location.href='<?php echo base_url('/assets/images/b2.jpg');?>';">
+                                    <a class="lightbox" title="Best School App" onclick="window.location.href='<?php echo base_url('assets/images/b2.jpg');?>';">
                                       <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="" src="<?php echo base_url('/assets/images/b1.jpg');?>">
+                                        <img alt="" src="<?php echo base_url('assets/images/b1.jpg');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->
@@ -90,9 +90,9 @@
                         	<div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Best School App" onclick="window.location.href='<?php echo base_url('/assets/images/c2.jpg');?>';">
+                                    <a class="lightbox" title="Best School App" onclick="window.location.href='<?php echo base_url('assets/images/c2.jpg');?>';">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="" src="<?php echo base_url('/assets/images/c1.jpg');?>" />
+                                        <img alt="" src="<?php echo base_url('assets/images/c1.jpg');?>" />
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->

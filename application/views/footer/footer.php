@@ -147,10 +147,10 @@
             <p>Choose your native platform and download the app.</p>
             <div class="imp-store-btns">
                <a target="_blank" rel="noopener" href="https://apps.apple.com/us/app/imprint-asti/id1204732517">
-                  <img src="<?php echo base_url('/assets/images/appstore.png'); ?>" alt="Download on the App Store" />
+                  <img src="<?php echo base_url('assets/images/appstore.png'); ?>" alt="Download on the App Store" />
                </a>
                <a target="_blank" rel="noopener" href="https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN&gl=US">
-                  <img src="<?php echo base_url('/assets/images/playstore.png'); ?>" alt="Get it on Google Play" />
+                  <img src="<?php echo base_url('assets/images/playstore.png'); ?>" alt="Get it on Google Play" />
                </a>
             </div>
          </div>
@@ -731,29 +731,29 @@
    });
 
 </script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/underscore.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/backbone.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/underscore.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/backbone.min.js'); ?>"></script>
 
-<script type='text/javascript' src="<?php echo base_url('/assets/js/contact-form-scripts.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/js.cookie.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/contact-form-scripts.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/js.cookie.min.js'); ?>"></script>
 
-<script type='text/javascript' src="<?php echo base_url('/assets/js/theme-addons.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/theme-addons.js'); ?>"></script>
 <script type='text/javascript'>
    /* <![CDATA[ */
    var wgl_core = { "ajaxurl": "index.html", "slickSlider": "http:\/\/softlab.wgl-demo.net\/wp-content\/themes\/softlab\/js\/slick.min.js", "JarallaxPlugin": "http:\/\/softlab.wgl-demo.net\/wp-content\/themes\/softlab\/js\/jarallax-video.min.js", "JarallaxPluginVideo": "wp-content/themes/softlab/js/jarallax.min.js", "like": "Like", "unlike": "Unlike" };
    /* ]]> */
 </script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/contactus.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/theme.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/wp-embed.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/js_composer_front.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/slick.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/jquery.paroller.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/vc-accordion.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/vc-tta-autoplay.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/vc-tabs.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/jquery.appear.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/waypoints.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/contactus.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/theme.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/wp-embed.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/js_composer_front.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/slick.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/jquery.paroller.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/vc-accordion.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/vc-tta-autoplay.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/vc-tabs.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/jquery.appear.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/waypoints.min.js'); ?>"></script>
 <script type="text/javascript" id="wgl_custom_footer_js"></script>
 </body>
 <script>

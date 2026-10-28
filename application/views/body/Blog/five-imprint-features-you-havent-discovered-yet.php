@@ -34,7 +34,7 @@ $this->load->view('header/header'); ?>
    <div class="wgl-container">
       <div class="row sidebar_right single_type-3" style="margin-top:0;">
          <img alt="" width="100%"
-            src="<?php echo base_url('/assets/images/blog-images/five-imprint-features-you-havent-discovered-yet2.jpg'); ?>">
+            src="<?php echo base_url('assets/images/blog-images/five-imprint-features-you-havent-discovered-yet2.jpg'); ?>">
          <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
          <p>An intelligent solution like IMPRINT that employs the power of Artificial Intelligence (AI), Internet of
             Things (IoT) & Machine Learning (ML) gives Managers and field workforce an additional tool to facilitate
@@ -67,7 +67,7 @@ $this->load->view('header/header'); ?>
             Go to: Menu Bar -> Daily Activity –> Document Repository</p>
          <div style="text-align:center">
             <img class="mobile-full-width" alt="imprint-1" width="70%"
-               src="<?php echo base_url('/assets/images/blog-images/imprint-1.jpg'); ?>">
+               src="<?php echo base_url('assets/images/blog-images/imprint-1.jpg'); ?>">
          </div>
 
          <p>
@@ -92,7 +92,7 @@ $this->load->view('header/header'); ?>
 
             Go to: Menu Bar -> Lead and order management -> Lead Management -> Add/Create Lead</p>
          <div style="text-align: center;">
-         <img class="mobile-full-width" alt="imprint-2" width="70%" src="<?php echo base_url('/assets/images/blog-images/imprint-2.webp'); ?>">
+         <img class="mobile-full-width" alt="imprint-2" width="70%" src="<?php echo base_url('assets/images/blog-images/imprint-2.webp'); ?>">
          </div>
          <p>
          <h4>3. Speech-to-text Feature</h4>
@@ -120,7 +120,7 @@ $this->load->view('header/header'); ?>
             Go to: Mobile app –> appointment –> Close MoM -> use the speech to text option to speak and it will be
             converted</p>
          <div style="text-align:center;">
-         <img alt="imprint-3" width="30%" src="<?php echo base_url('/assets/images/blog-images/imprint-3.webp'); ?>">
+         <img alt="imprint-3" width="30%" src="<?php echo base_url('assets/images/blog-images/imprint-3.webp'); ?>">
          </div>
 
          <p>
@@ -151,7 +151,7 @@ $this->load->view('header/header'); ?>
 
             Go to: Menu bar -> Report and Analysis -> Daily Activity Summary Report</p>
          <div style="text-align:center;">
-         <img class="mobile-full-width" alt="imprint-4" width="70%" src="<?php echo base_url('/assets/images/blog-images/imprint-4.webp'); ?>">
+         <img class="mobile-full-width" alt="imprint-4" width="70%" src="<?php echo base_url('assets/images/blog-images/imprint-4.webp'); ?>">
          </div>
          <p>
          <h4>5. Dynamic Forms</h4>
@@ -175,7 +175,7 @@ $this->load->view('header/header'); ?>
 
             Go to: Menu Bar -> Daily Activity –> Forms</p>
          <div style="text-align:center;">
-            <img class="mobile-full-width" alt="imprint-5" width="70%" src="<?php echo base_url('/assets/images/blog-images/imprint-5.webp'); ?>">
+            <img class="mobile-full-width" alt="imprint-5" width="70%" src="<?php echo base_url('assets/images/blog-images/imprint-5.webp'); ?>">
          </div>
 
       </div>

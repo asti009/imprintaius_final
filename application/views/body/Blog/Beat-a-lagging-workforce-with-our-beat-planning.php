@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Beat-a-lagging-workforce-with-our-beat-planning2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Beat-a-lagging-workforce-with-our-beat-planning2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               Since it minimizes time and effort waste, an effective territory beat strategy is among the most crucial elements of FMCG sales and distribution management. The primary goal of the firm is to produce revenue, therefore having well defined areas helps to prevent overlap between field executives and ensures that they are working together to focus on their outlets. This framework must be cleverly created so that company objectives properly align with resource capabilities in order to reach revenue targets.</p><p>
 

@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Lead-the-leads-right-with-imprints-lead-management2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Lead-the-leads-right-with-imprints-lead-management2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
           Imprint AI aids in streamlining your lead management procedure and makes sure valuable prospects don’t get lost.</p><p>
 

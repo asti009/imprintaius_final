@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/what-is-your-approach-to-customer-data.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/what-is-your-approach-to-customer-data.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               
                Business and society is increasingly dynamic. And the question is, who constitutes business and society, the people. People's behavior and expectations change depending on the circumstances. Specifically, if we consider the post pandemic world, there have been a lot of changes in the ways that businesses operate.</p><p>

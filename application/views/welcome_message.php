@@ -305,7 +305,7 @@
       <!-- Right: Visual -->
       <div class="imprint-hero-visual">
           
-         <img class="hero-main-img" src="<?php echo base_url('/assets/images/dashboard.png');?>" alt="Imprint AI Workforce Management Dashboard" />
+         <img class="hero-main-img" src="<?php echo base_url('assets/images/dashboard.png');?>" alt="Imprint AI Workforce Management Dashboard" />
          
       </div>
 
@@ -328,7 +328,7 @@
                                  <div class="spacing_size spacing_size-initial" style="height:40px;"></div>
                               </div>
                                                    <div class="img-banner" style="background-color: rgba(44,64,159,1); border-radius: 20px; padding:20px;width: fit-content;">
-                                                      <img src="<?php echo base_url('/assets/images/rev-image-2-2.png');?>" alt="location" width="40"/>
+                                                      <img src="<?php echo base_url('assets/images/rev-image-2-2.png');?>" alt="location" width="40"/>
                                                    </div>
                                                     <div  class ="softlab_module_spacing">
                                  <div class="spacing_size spacing_size-initial" style="height:19px;"></div>
@@ -357,7 +357,7 @@
                                  
                               </div>
                                <div class="img-banner" >
-                                                      <img src="<?php echo base_url('/assets/images/mob-bg.jpg');?>" alt="imprint-mobile" />
+                                                      <img src="<?php echo base_url('assets/images/mob-bg.jpg');?>" alt="imprint-mobile" />
                                                    </div>
                                                 </div>
                                                 </div>
@@ -448,7 +448,7 @@
                                                 data-frame_1="tp:600;st:1200;sp:1100;sR:1200;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:6700;"
                                                 style="z-index:6;"
-                                                ><img src="<?php echo base_url('/assets/images/rev-w.png');?>" width="1021" height="721" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img src="<?php echo base_url('assets/images/rev-w.png');?>" width="1021" height="721" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -466,7 +466,7 @@
                                                 data-frame_1_mask="u:t;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:6100;"
                                                 style="z-index:7;"
-                                                ><img src="<?php echo base_url('/assets/images/rev-image.png');?>" width="750" height="199" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img src="<?php echo base_url('assets/images/rev-image.png');?>" width="750" height="199" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -483,7 +483,7 @@
                                                 data-frame_999="o:0;tp:600;st:w;sR:4900;"
                                                 style="z-index:8;"
                                                 class="rev_image" 
-                                                ><img class="bg" src="<?php echo base_url('/assets/images/rev-image-2.png');?>"  width="139" height="140" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img class="bg" src="<?php echo base_url('assets/images/rev-image-2.png');?>"  width="139" height="140" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -502,7 +502,7 @@
                                                 data-loop_999="sp:4000;e:Power1.easeInOut;yym:t;yys:t;yyf:t;"
                                                 style="z-index:9;"
                                                 class="rev_image" 
-                                                ><img src="<?php echo base_url('/assets/images/rev-image-2-1.png');?>" width="139" height="140" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img src="<?php echo base_url('assets/images/rev-image-2-1.png');?>" width="139" height="140" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -517,7 +517,7 @@
                                                 data-frame_1="tp:600;e:Power3.easeOut;st:4600;sp:1500;sR:4600;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:2900;"
                                                 style="z-index:10;"
-                                                ><img src="<?php echo base_url('/assets/images/rev-tel-1-1.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img src="<?php echo base_url('assets/images/rev-tel-1-1.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -534,7 +534,7 @@
                                                 data-frame_1_mask="u:t;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:2400;"
                                                 style="z-index:11;"
-                                                ><img src="<?php echo base_url('/assets/images/rev-tel-1-2.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img src="<?php echo base_url('assets/images/rev-tel-1-2.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -549,7 +549,7 @@
                                                 data-frame_1="tp:600;st:5600;sp:1500;sR:5600;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:1900;"
                                                 style="z-index:12;"
-                                                ><img src="<?php echo base_url('/assets/images/rev-tel-1-3.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img src="<?php echo base_url('assets/images/rev-tel-1-3.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -564,7 +564,7 @@
                                                 data-frame_1="tp:600;st:6100;sp:1500;sR:6100;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:1400;"
                                                 style="z-index:13;"
-                                                ><img src="<?php echo base_url('/assets/images/rev-tel-1-4.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img src="<?php echo base_url('assets/images/rev-tel-1-4.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -579,7 +579,7 @@
                                                 data-frame_1="tp:600;st:6600;sp:1500;sR:6600;"
                                                 data-frame_999="o:0;tp:600;st:w;sR:900;"
                                                 style="z-index:14;"
-                                                ><img src="<?php echo base_url('/assets/images/rev-tel-1-5.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
+                                                ><img src="<?php echo base_url('assets/images/rev-tel-1-5.png');?>" width="433" height="698" data-no-retina alt="Imprint"> </rs-layer>
                                              <!--
                                                 -->
                                              <rs-layer
@@ -1060,7 +1060,7 @@ button.wfa-tab-btn:hover {
                   foreach ($client_logos as $logo) {
             ?>
                <div class="clients-logo">
-                  <img src="<?php echo base_url('/assets/images/' . $logo['file']); ?>"
+                  <img src="<?php echo base_url('assets/images/' . $logo['file']); ?>"
                        alt="<?php echo htmlspecialchars($logo['name']); ?>" loading="lazy" />
                </div>
             <?php
@@ -1383,22 +1383,22 @@ function wfaSwitch(btn, panelId) {
                               <div id=softlab_img_layer_6065e44a87d12 class="softlab_module_img_layer responsive-image">
                                  <div class="img_layer_image_wrapper slide_right" style="z-index:1">
                                     <div class="img_layer_item" >
-                                       <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/h-3_img_layer_1-1-1.png');?>" alt="Imprint" /></div>
+                                       <div class="img_layer_image"><img src="<?php echo base_url('assets/images/h-3_img_layer_1-1-1.png');?>" alt="Imprint" /></div>
                                     </div>
                                  </div>
                                  <!-- <div class="img_layer_image_wrapper fade_in" style="z-index:2">
                                     <div class="img_layer_item" >
-                                       <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/h-3_img_layer_1-2.png');?>" alt="Imprint" /></div>
+                                       <div class="img_layer_image"><img src="<?php echo base_url('assets/images/h-3_img_layer_1-2.png');?>" alt="Imprint" /></div>
                                     </div>
                                  </div>
                                  <div class="img_layer_image_wrapper zoom_in" style="z-index:2">
                                     <div class="img_layer_item" >
-                                       <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/h-3_img_layer_1-3.png');?>" alt="" /></div>
+                                       <div class="img_layer_image"><img src="<?php echo base_url('assets/images/h-3_img_layer_1-3.png');?>" alt="" /></div>
                                     </div>
                                  </div>
                                  <div class="img_layer_image_wrapper zoom_in" style="z-index:2">
                                     <div class="img_layer_item" >
-                                       <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/h-3_img_layer_1-4.png');?>" alt="" /></div>
+                                       <div class="img_layer_image"><img src="<?php echo base_url('assets/images/h-3_img_layer_1-4.png');?>" alt="" /></div>
                                     </div>
                                  </div> -->
                               </div>
@@ -1633,7 +1633,7 @@ function wfaSwitch(btn, panelId) {
                                              <div class="infobox_wrapper">
                                                 <div class="infobox_icon_wrapper">
                                                    <div class="infobox_icon_container " style="width:36px; height:26px; ">
-                                                      <div class="infobox_icon" ><img src="<?php echo base_url('/assets/images/number_1.png');?>" alt="Improve workforce efficiency & performance by 20-22%"  /></div>
+                                                      <div class="infobox_icon" ><img src="<?php echo base_url('assets/images/number_1.png');?>" alt="Improve workforce efficiency & performance by 20-22%"  /></div>
                                                    </div>
                                                 </div>
                                                 <div class="infobox_content_wrapper">
@@ -1649,7 +1649,7 @@ function wfaSwitch(btn, panelId) {
                                              <div class="infobox_wrapper">
                                                 <div class="infobox_icon_wrapper">
                                                    <div class="infobox_icon_container " style="width:36px; height:26px; ">
-                                                      <div class="infobox_icon" ><img src="<?php echo base_url('/assets/images/number_2.png');?>" alt="Better control of expenses, Improved ROI"  /></div>
+                                                      <div class="infobox_icon" ><img src="<?php echo base_url('assets/images/number_2.png');?>" alt="Better control of expenses, Improved ROI"  /></div>
                                                    </div>
                                                 </div>
                                                 <div class="infobox_content_wrapper">
@@ -1665,7 +1665,7 @@ function wfaSwitch(btn, panelId) {
                                              <div class="infobox_wrapper">
                                                 <div class="infobox_icon_wrapper">
                                                    <div class="infobox_icon_container " style="width:36px; height:26px; ">
-                                                      <div class="infobox_icon" ><img src="<?php echo base_url('/assets/images/number_3.png');?>" alt="Data Management saves 16% time that can be used to improve sales"  /></div>
+                                                      <div class="infobox_icon" ><img src="<?php echo base_url('assets/images/number_3.png');?>" alt="Data Management saves 16% time that can be used to improve sales"  /></div>
                                                    </div>
                                                 </div>
                                                 <div class="infobox_content_wrapper">
@@ -1687,7 +1687,7 @@ function wfaSwitch(btn, panelId) {
                                        <div class="wpb_wrapper">
                                           <div  class="wpb_single_image wpb_content_element vc_align_center">
                                              <figure class="wpb_wrapper vc_figure">
-                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="370" height="674" src="<?php echo base_url('/assets/images/iphone-1.png');?>" class="vc_single_image-img attachment-full" alt="Imprint" sizes="(max-width: 370px) 100vw, 370px" /></div>
+                                                <div class="vc_single_image-wrapper   vc_box_border_grey"><img width="370" height="674" src="<?php echo base_url('assets/images/iphone-1.png');?>" class="vc_single_image-img attachment-full" alt="Imprint" sizes="(max-width: 370px) 100vw, 370px" /></div>
                                              </figure>
                                           </div>
                                        </div>
@@ -1720,7 +1720,7 @@ function wfaSwitch(btn, panelId) {
                                              <div class="infobox_wrapper order">
                                                 <div class="infobox_icon_wrapper order-left">
                                                    <div class="infobox_icon_container" style="width:36px; height:26px; ">
-                                                      <div class="infobox_icon" ><img src="<?php echo base_url('/assets/images/number_4.png');?>" alt="Individual Performance Analysis"  /></div>
+                                                      <div class="infobox_icon" ><img src="<?php echo base_url('assets/images/number_4.png');?>" alt="Individual Performance Analysis"  /></div>
                                                    </div>
                                                 </div>
                                                 <div class="infobox_content_wrapper">
@@ -1736,7 +1736,7 @@ function wfaSwitch(btn, panelId) {
                                              <div class="infobox_wrapper order">
                                                 <div class="infobox_icon_wrapper order-left">
                                                    <div class="infobox_icon_container " style="width:36px; height:26px; ">
-                                                      <div class="infobox_icon" ><img src="<?php echo base_url('/assets/images/number_5.png');?>" alt="Predictive Analysis & Insights"  /></div>
+                                                      <div class="infobox_icon" ><img src="<?php echo base_url('assets/images/number_5.png');?>" alt="Predictive Analysis & Insights"  /></div>
                                                    </div>
                                                 </div>
                                                 <div class="infobox_content_wrapper">
@@ -1752,7 +1752,7 @@ function wfaSwitch(btn, panelId) {
                                              <div class="infobox_wrapper order">
                                                 <div class="infobox_icon_wrapper order-left">
                                                    <div class="infobox_icon_container " style="width:36px; height:26px; ">
-                                                      <div class="infobox_icon" ><img src="<?php echo base_url('/assets/images/number_6.png');?>" alt="Paperless, Hassle-free operations"  /></div>
+                                                      <div class="infobox_icon" ><img src="<?php echo base_url('assets/images/number_6.png');?>" alt="Paperless, Hassle-free operations"  /></div>
                                                    </div>
                                                 </div>
                                                 <div class="infobox_content_wrapper">
@@ -1819,11 +1819,11 @@ function wfaSwitch(btn, panelId) {
                                  <div class="softlab_module_carousel-wrapper">
                                     <div id=softlab_carousel_6054cf783f563 class="softlab_module_carousel pag_align_center">
                                        <div class="softlab_carousel_slick" data-slick='{"slidesToShow":5,"slidesToScroll":1,"infinite":true,"variableWidth":false,"autoplay":true,"autoplaySpeed":"3000","speed":300,"arrows":false,"dots":false,"adaptiveHeight":false,"responsive":[{"breakpoint":1025,"settings":{"slidesToShow":4,"slidesToScroll":1}},{"breakpoint":800,"settings":{"slidesToShow":2,"slidesToScroll":1}},{"breakpoint":480,"settings":{"slidesToShow":1,"slidesToScroll":1}}]}'>
-                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('/assets/images/client_1_maxpaper_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('/assets/images/client_1_maxpaper.png');?>" alt="" /></a></div>
-                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('/assets/images/client_2_laborator_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('/assets/images/client_2_laborator.png');?>" alt="" /></a></div>
-                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('/assets/images/client_3_honeyhosting_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('/assets/images/client_3_honeyhosting.png');?>" alt="" /></a></div>
-                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('/assets/images/client_4_cryptonite_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('/assets/images/client_4_cryptonite.png');?>" alt="" /></a></div>
-                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('/assets/images/client_5_dynamic_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('/assets/images/client_5_dynamic.png');?>" alt="" /></a></div>
+                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('assets/images/client_1_maxpaper_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('assets/images/client_1_maxpaper.png');?>" alt="" /></a></div>
+                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('assets/images/client_2_laborator_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('assets/images/client_2_laborator.png');?>" alt="" /></a></div>
+                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('assets/images/client_3_honeyhosting_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('assets/images/client_3_honeyhosting.png');?>" alt="" /></a></div>
+                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('assets/images/client_4_cryptonite_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('assets/images/client_4_cryptonite.png');?>" alt="" /></a></div>
+                                          <div class="clients_image"><a href="#" class="image_link"><img class="main_image" src="<?php echo base_url('assets/images/client_5_dynamic_filter.png');?>" alt="" /><img class="hover_image" src="<?php echo base_url('assets/images/client_5_dynamic.png');?>" alt="" /></a></div>
                                        </div>
                                     </div>
                                  </div>
@@ -1857,7 +1857,7 @@ function wfaSwitch(btn, panelId) {
                            </path>
                         </svg>
                      </div>
-                     <div id="extended_6054cf783f802" class="extended-parallax" data-paroller-type="foreground" style="top:-5%; left:80%; " data-paroller-direction="horizontal" data-paroller-factor="0.1" ><img src="<?php echo base_url('/assets/images/letter-q.png');?>" alt="" /></div>
+                     <div id="extended_6054cf783f802" class="extended-parallax" data-paroller-type="foreground" style="top:-5%; left:80%; " data-paroller-direction="horizontal" data-paroller-factor="0.1" ><img src="<?php echo base_url('assets/images/letter-q.png');?>" alt="" /></div>
                      <div id="extended_6054cf783fc8f" class="morph-svg" style="top:20%; left:-22%; width:110%; height:110%; transform: rotate(-84deg); ">
                         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" style="fill:#f7f9fd; " x="0px" y="0px" viewBox="0 0 180 180">
                            <path d="">
@@ -2088,7 +2088,7 @@ button.ui-tab-btn:hover {
       <!-- Panel: Field Agent App -->
       <div class="ui-panel" id="ui-field-agent">
          <div class="ui-panel-img">
-            <img src="<?php echo base_url('/assets/images/iphone-5.png');?>" alt="Field Agent App" />
+            <img src="<?php echo base_url('assets/images/iphone-5.png');?>" alt="Field Agent App" />
          </div>
          <div class="ui-panel-content">
             <span class="ui-tag"><i class="fa fa-mobile"></i> User Interfaces</span>
@@ -2106,7 +2106,7 @@ button.ui-tab-btn:hover {
       <!-- Panel: Dynamic Dashboard -->
       <div class="ui-panel active" id="ui-dashboard">
          <div class="ui-panel-img">
-            <img src="<?php echo base_url('/assets/images/Dashboard-lg.png');?>" alt="Dynamic Dashboard" />
+            <img src="<?php echo base_url('assets/images/Dashboard-lg.png');?>" alt="Dynamic Dashboard" />
          </div>
          <div class="ui-panel-content">
             <span class="ui-tag"><i class="fa fa-tachometer"></i> User Interfaces</span>
@@ -2126,7 +2126,7 @@ button.ui-tab-btn:hover {
       <!-- Panel: Sales Manager App -->
       <div class="ui-panel" id="ui-sales-manager">
          <div class="ui-panel-img">
-            <img src="<?php echo base_url('/assets/images/iphone-1.png');?>" alt="Sales Manager App" />
+            <img src="<?php echo base_url('assets/images/iphone-1.png');?>" alt="Sales Manager App" />
          </div>
          <div class="ui-panel-content">
             <span class="ui-tag"><i class="fa fa-line-chart"></i> User Interfaces</span>
@@ -2203,22 +2203,22 @@ function uiSwitch(btn, panelId) {
                                           <div id=softlab_img_layer_6054cf7839952 class="softlab_module_img_layer">
                                              <div class="img_layer_image_wrapper zoom_in" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_2.png');?>" alt="Imprint-layer1" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_2.png');?>" alt="Imprint-layer1" /></div>
                                                 </div>
                                              </div>
                                               <div class="img_layer_image_wrapper slide_big_left" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_2-01.png');?>" alt="Imprint-layer2" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_2-01.png');?>" alt="Imprint-layer2" /></div>
                                                 </div>
                                              </div>
                                              <div class="img_layer_image_wrapper slide_big_right" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_2-02.png');?>" alt="Imprint-layer3" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_2-02.png');?>" alt="Imprint-layer3" /></div>
                                                 </div>
                                              </div>
                                              <div class="img_layer_image_wrapper zoom_in" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_2-03.png');?>" alt="Imprint-layer4" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_2-03.png');?>" alt="Imprint-layer4" /></div>
                                                 </div>
                                              </div> 
                                           </div>
@@ -2275,22 +2275,22 @@ function uiSwitch(btn, panelId) {
                                           <div id=softlab_img_layer_6054cf7839952 class="softlab_module_img_layer">
                                              <div class="img_layer_image_wrapper zoom_in" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_0-01.png');?>" alt="Imprint-layer5" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_0-01.png');?>" alt="Imprint-layer5" /></div>
                                                 </div>
                                              </div>
                                               <div class="img_layer_image_wrapper slide_big_right" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_1-02.png');?>" alt="Imprint-layer6" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_1-02.png');?>" alt="Imprint-layer6" /></div>
                                                 </div>
                                              </div>
                                              <div class="img_layer_image_wrapper slide_big_left" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_1-03.png');?>" alt="Imprint-layer7" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_1-03.png');?>" alt="Imprint-layer7" /></div>
                                                 </div>
                                              </div>
                                             <!-- <div class="img_layer_image_wrapper zoom_in" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_1-04.png');?>" alt="" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_1-04.png');?>" alt="" /></div>
                                                 </div>
                                              </div> -->
                                           </div>
@@ -2346,17 +2346,17 @@ function uiSwitch(btn, panelId) {
                                           <div id=softlab_img_layer_6054cf7839952 class="softlab_module_img_layer">
                                              <div class="img_layer_image_wrapper zoom_in" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_3.png');?>" alt="Imprint-layer8" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_3.png');?>" alt="Imprint-layer8" /></div>
                                                 </div>
                                              </div>
                                              <div class="img_layer_image_wrapper slide_big_right" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_3-1.png');?>" alt="Imprint-layer9" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_3-1.png');?>" alt="Imprint-layer9" /></div>
                                                 </div>
                                              </div>
                                              <div class="img_layer_image_wrapper zoom_in" style="z-index:1">
                                                 <div class="img_layer_item" >
-                                                   <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/images_layers_3-2.png');?>" alt="Imprint-layer10" /></div>
+                                                   <div class="img_layer_image"><img src="<?php echo base_url('assets/images/images_layers_3-2.png');?>" alt="Imprint-layer10" /></div>
                                                 </div>
                                              </div>
                                           </div>
@@ -2410,7 +2410,7 @@ function uiSwitch(btn, panelId) {
                            </div>
                         </div>
                      </div>
-                     <div id="extended_6054cf7848a29" class="extended-parallax" data-paroller-type="foreground" style="top:10%; left:-27%; " data-paroller-direction="horizontal" data-paroller-factor="0.1" ><img src="<?php echo base_url('/assets/images/letter-n.png');?>" alt="Imprint-letter" /></div>
+                     <div id="extended_6054cf7848a29" class="extended-parallax" data-paroller-type="foreground" style="top:10%; left:-27%; " data-paroller-direction="horizontal" data-paroller-factor="0.1" ><img src="<?php echo base_url('assets/images/letter-n.png');?>" alt="Imprint-letter" /></div>
                   </div>
 
 

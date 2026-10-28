@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/A-day-in-the-life-of-a-sales-manager-can-imprint-make-it-better2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/A-day-in-the-life-of-a-sales-manager-can-imprint-make-it-better2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
 New technological developments have a wide range of effects on enterprises. Technologies aid businesses in boosting productivity, sales, revenues, and other factors. One of the best business tools for optimising sales is sales automation, which helps businesses increase sales volume and generate greater returns. Additionally, sales automation aids businesses in acquiring worthwhile clients and creating an environment that is conducive to employee well-being. The goal of automation is to eliminate for workers all rote jobs. Regardless of their size, all businesses have been found to be attempting to adopt sales automation as a fundamental practise. Do you know why? Here we go; let’s talk about the key points of sales automation optimization.</p><p>
 

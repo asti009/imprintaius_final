@@ -21,7 +21,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/indias-largest-mobile-fuel-supplier-trusts-imprint-for-its-field-workforce.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/indias-largest-mobile-fuel-supplier-trusts-imprint-for-its-field-workforce.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   This is about our integration with Fuelbuddy. It is very likely that most of you are aware of Fuelbuddy considering that it is the largest mobile fuel supplier in India. In case you are not aware, Fuelbuddy is an online platform that provides doorstep delivery of fuel in a reliable, safe and efficient way. With the help of Fuelbuddy, one can place an online order and get one's fuel delivered at the desired location in specialized Refuellers (FuelBuddy Tankers). This can be obtained in a schedule that is convenient to the customers. Fuelbuddy is all about making refueling smarter!</p><p>
 

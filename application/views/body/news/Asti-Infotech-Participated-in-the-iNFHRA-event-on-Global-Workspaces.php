@@ -31,7 +31,7 @@
                         <div class="portfolio-item logo animation " style="margin-bottom: 5px !important;">
                         	<!-- <div class="portfolio-border">
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Asti Infotech Recognized Amongst the Most Trusted Companies to Watch in 2022" href="<?php echo base_url('/assets/images/iNFHRA-event-on-Global-Workspaces.png');?>">
+                                    <a class="lightbox" title="Asti Infotech Recognized Amongst the Most Trusted Companies to Watch in 2022" href="<?php echo base_url('assets/images/iNFHRA-event-on-Global-Workspaces.png');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
                                     </a>
                                 </div> -->
@@ -50,9 +50,9 @@
                          <div class="portfolio-item logo animation " style="margin-bottom: 5px !important;">
                             <div class="portfolio-border">
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Asti Infotech Participated in the iNFHRA event on Global Workspaces" href="<?php echo base_url('/assets/images/iNFHRA-event-on-Global-Workspaces.png');?>">
+                                    <a class="lightbox" title="Asti Infotech Participated in the iNFHRA event on Global Workspaces" href="<?php echo base_url('assets/images/iNFHRA-event-on-Global-Workspaces.png');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="Asti Infotech Participated in the iNFHRA event on Global Workspaces" src="<?php echo base_url('/assets/images/iNFHRA-event-on-Global-Workspaces.png');?>">
+                                        <img alt="Asti Infotech Participated in the iNFHRA event on Global Workspaces" src="<?php echo base_url('assets/images/iNFHRA-event-on-Global-Workspaces.png');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->

@@ -21,7 +21,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/imprint-and-industries.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/imprint-and-industries.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   In the present scenario, society needs solutions to manage the workforce. Therefore, if we consider the aspect of the industries that Imprint could cover, the list would be never-ending. This is because with the dynamic nature of the society and the market, things are constantly changing. It is important for industries to meet the demands of their consumers. To achieve that, every industry requires a better workforce equation. Simplifying the workforce equation is the need of the hour. This is when Imprint comes to the picture and quite often, to the rescue.</p><p>
 

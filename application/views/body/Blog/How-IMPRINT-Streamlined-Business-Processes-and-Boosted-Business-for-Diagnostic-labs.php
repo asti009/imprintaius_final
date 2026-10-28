@@ -20,7 +20,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0px;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-IMPRINT-Streamlined-Business-Processes-and-Boosted-Business-for-Diagnostic-labs2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-IMPRINT-Streamlined-Business-Processes-and-Boosted-Business-for-Diagnostic-labs2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   <h4>Introduction</h4></p><p>
 
@@ -40,7 +40,7 @@ Manual management of leaves taken by phlebotomists is surely a headache to manag
  The only solution visible to address these challenges and to improve business processes is moving the diagnostic labs to business process optimization firms like IMPRINT to streamline their operations and boost their bottom line.</p><p>
 
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-IMPRINT-Streamlined-Business-Processes-and-Boosted-Business-for-Diagnostic-labs3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-IMPRINT-Streamlined-Business-Processes-and-Boosted-Business-for-Diagnostic-labs3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div></p><p>
 
 <h4>How AI-powered Imprint helped various diagnostic labs to come over the above-mentioned business challenges:</h4></p><p>

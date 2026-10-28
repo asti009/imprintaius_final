@@ -29,7 +29,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Building-a-Knowledge-Hub-Empowering-Field-Agents-with-Updated-Knowledge-Base-in-Field-Force-Management2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Building-a-Knowledge-Hub-Empowering-Field-Agents-with-Updated-Knowledge-Base-in-Field-Force-Management2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                  In the expansive landscape of <b>field force management,</b> providing field agents with access to up-to-date information is paramount for their success. A robust knowledge base integrated into <b>sales force management solutions</b> acts as a central repository of knowledge, equipping field agents with the right tools to deliver exceptional customer service, resolve issues promptly, and enhance overall customer satisfaction. Let us delve a little deeper into the significance of updated knowledge bases in advanced workforce automation solutions and how they empower field sales agents to excel in their roles.</p><p>
 <h4>The Power of An Updated Knowledge Base</h4></p><p>
@@ -37,7 +37,7 @@ $this->load->helper('url');
 By leveraging an updated knowledge base, field agents can:</p><p>
                
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Building-a-Knowledge-Hub-Empowering-Field-Agents-with-Updated-Knowledge-Base-in-Field-Force-Management3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Building-a-Knowledge-Hub-Empowering-Field-Agents-with-Updated-Knowledge-Base-in-Field-Force-Management3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div></p><p>
 
 <b>1. </b> Enhance Customer Service: With access to comprehensive product information and best practices, field agents can provide accurate and detailed responses to customer inquiries, thereby delivering exceptional customer service.</p><p>

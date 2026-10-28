@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Skyrocket-sales-specifically-the-imprint-edge2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Skyrocket-sales-specifically-the-imprint-edge2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
              You may immediately increase the sales in your store by learning how to sell a product. You offer your firm a chance to flourish when you start to become an expert at online product sales. To identify your target market and promote your goods to them, you’ll need to test out a variety of marketing strategies.</p><p>
 

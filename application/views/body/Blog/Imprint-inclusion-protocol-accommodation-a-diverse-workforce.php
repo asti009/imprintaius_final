@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Imprint-inclusion-protocol-accommodation-a-diverse-workforce2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Imprint-inclusion-protocol-accommodation-a-diverse-workforce2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             </div><p>
               The goal of reasonable accommodations is to give workers equitable chances at work so they can utilise their abilities and talents to the fullest extent possible. Companies can foster work cultures that really accept the diversity of their workforce and lead to greater commercial success by recognising and addressing individual requirements.</p><p>
@@ -34,7 +34,7 @@ Recent events have spurred crucial discussions on racial bias and social injusti
 
 For the purposes of this definition, we at Imprint refer to diversity as a measure of identity differences, including those related to gender, race, age, sexual orientation, ability, or religion. Respecting and appreciating these differences is what inclusion is all about. It is the conscious decision to value and welcome diversity. Managers and HR leaders can improve their current DEI efforts by following the advice and suggestions below, or they can start new DEI initiatives.
 <div style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Imprint-inclusion-protocol-accommodation-a-diverse-workforce3.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Imprint-inclusion-protocol-accommodation-a-diverse-workforce3.jpg');?>">
 
             </div></p>
 <h4>1. Understand implicit bias</h4>

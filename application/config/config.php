@@ -3,6 +3,22 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
 |--------------------------------------------------------------------------
+| Development Mode
+|--------------------------------------------------------------------------
+|
+| Set to TRUE for development environment (localhost/testing)
+| Set to FALSE for production environment (live server)
+|
+| This controls:
+| - base_url (localhost vs production domain)
+| - Error display settings
+| - Debug features
+|
+*/
+$config['is_development'] = FALSE;  // Change to TRUE for local development
+
+/*
+|--------------------------------------------------------------------------
 | Base Site URL
 |--------------------------------------------------------------------------
 |
@@ -23,7 +39,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://imprintai.us/';
+if ($config['is_development']) {
+    $config['base_url'] = 'http://localhost/imprintatus_final_21_10/';
+} else {
+    $config['base_url'] = 'https://imprintai.us/';
+}
 
 /*
 |--------------------------------------------------------------------------

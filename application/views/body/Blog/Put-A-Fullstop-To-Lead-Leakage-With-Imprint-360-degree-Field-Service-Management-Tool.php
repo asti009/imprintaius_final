@@ -79,7 +79,7 @@ $this->load->view('header/header');
     <div class="wgl-container">
         <div class="row sidebar_right single_type-3" style="margin-top:0;">
             <img alt="" width="100%"
-                src="<?php echo base_url('/assets/images/blog-images/Put-A-Fullstop-To-Lead-Leakage-With-Imprint-360-degree-Field-Service-Management-Tool1.png'); ?>">
+                src="<?php echo base_url('assets/images/blog-images/Put-A-Fullstop-To-Lead-Leakage-With-Imprint-360-degree-Field-Service-Management-Tool1.png'); ?>">
             <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
         </div>
         <div>
@@ -103,7 +103,7 @@ $this->load->view('header/header');
 
             <div style="margin-top:0;">
                 <img alt="" width="100%"
-                    src="<?php echo base_url('/assets/images/blog-images/Put-A-Fullstop-To-Lead-Leakage-With-Imprint-360-degree-Field-Service-Management-Tool2.png'); ?>">
+                    src="<?php echo base_url('assets/images/blog-images/Put-A-Fullstop-To-Lead-Leakage-With-Imprint-360-degree-Field-Service-Management-Tool2.png'); ?>">
                 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             </div>
             <p>

@@ -95,7 +95,7 @@ $this->load->view('header/header');
         <div class="row sidebar_right single_type-3" style="margin-top:0;">
             <!-- Option 1 for SEO page image -->
             <img alt="SEO Page Image Option 1" width="100%"
-                 src="<?php echo base_url('/assets/images/seo/the-next-generation-field-force-management-tools.jpg'); ?>">
+                 src="<?php echo base_url('assets/images/seo/the-next-generation-field-force-management-tools.jpg'); ?>">
         
         </div>
 

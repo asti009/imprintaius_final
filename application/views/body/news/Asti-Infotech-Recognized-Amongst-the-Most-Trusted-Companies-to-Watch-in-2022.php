@@ -33,7 +33,7 @@
                         <div class="portfolio-item logo animation " style="margin-bottom: 5px !important;">
                         	<!-- <div class="portfolio-border">
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Asti Infotech Recognized Amongst the Most Trusted Companies to Watch in 2022" href="<?php echo base_url('/assets/images/certificate innovative-1.png');?>">
+                                    <a class="lightbox" title="Asti Infotech Recognized Amongst the Most Trusted Companies to Watch in 2022" href="<?php echo base_url('assets/images/certificate innovative-1.png');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
                                     </a>
                                 </div> -->
@@ -52,9 +52,9 @@
                          <div class="portfolio-item logo animation " style="margin-bottom: 5px !important;">
                             <div class="portfolio-border">
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Asti Infotech Recognized Amongst the Most Trusted Companies to Watch in 2022" href="<?php echo base_url('/assets/images/Certificate innovative-1.png');?>">
+                                    <a class="lightbox" title="Asti Infotech Recognized Amongst the Most Trusted Companies to Watch in 2022" href="<?php echo base_url('assets/images/Certificate innovative-1.png');?>">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="Asti Infotech Recognized Amongst the Most Trusted Companies to Watch in 2022" src="<?php echo base_url('/assets/images/Certificate innovative-1.png');?>">
+                                        <img alt="Asti Infotech Recognized Amongst the Most Trusted Companies to Watch in 2022" src="<?php echo base_url('assets/images/Certificate innovative-1.png');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->

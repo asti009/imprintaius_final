@@ -79,7 +79,7 @@ $this->load->view('header/header');
     <div class="wgl-container">
         <div class="row sidebar_right single_type-3" style="margin-top:0;">
             <img alt="" width="100%"
-                src="<?php echo base_url('/assets/images/blog-images/best-field-force-management-tools2.png'); ?>">
+                src="<?php echo base_url('assets/images/blog-images/best-field-force-management-tools2.png'); ?>">
             <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
         </div>
         <div>
@@ -113,7 +113,7 @@ $this->load->view('header/header');
             </h2>
             <div style="margin-top:10px;">
                 <img alt="" width="100%"
-                    src="<?php echo base_url('/assets/images/blog-images/best-field-force-management-tools3.png'); ?>">
+                    src="<?php echo base_url('assets/images/blog-images/best-field-force-management-tools3.png'); ?>">
                 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             </div>
             <ul class="no-list-points">

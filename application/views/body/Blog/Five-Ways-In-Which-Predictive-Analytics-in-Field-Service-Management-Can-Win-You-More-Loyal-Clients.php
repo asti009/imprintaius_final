@@ -78,7 +78,7 @@ $this->load->view('header/header'); ?>
    <div class="wgl-container">
       <div class="row sidebar_right single_type-3" style="margin-top:0;">
          <img alt="" width="100%"
-            src="<?php echo base_url('/assets/images/blog-images/Five-Ways-In-Which-Predictive-Analytics-in-Field-Service-Management-Can-Win-You-More-Loyal-Clients1.png'); ?>">
+            src="<?php echo base_url('assets/images/blog-images/Five-Ways-In-Which-Predictive-Analytics-in-Field-Service-Management-Can-Win-You-More-Loyal-Clients1.png'); ?>">
          <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
          <p>
             Field service management (FSM) is a critical aspect of many industries, from telecommunications to banking,
@@ -162,7 +162,7 @@ $this->load->view('header/header'); ?>
          <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
          <div class="row sidebar_right single_type-3" style="margin-top:0;">
             <img alt="" width="100%"
-               src="<?php echo base_url('/assets/images/blog-images/Five-Ways-In-Which-Predictive-Analytics-in-Field-Service-Management-Can-Win-You-More-Loyal-Clients2.png'); ?>">
+               src="<?php echo base_url('assets/images/blog-images/Five-Ways-In-Which-Predictive-Analytics-in-Field-Service-Management-Can-Win-You-More-Loyal-Clients2.png'); ?>">
             <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             <p>
          </div>

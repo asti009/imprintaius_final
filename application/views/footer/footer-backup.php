@@ -21,7 +21,7 @@
                         <div class="wpb_text_column wpb_content_element ">
                            <div class="wpb_wrapper">
                               <p><img class="alignnone wp-image-318"
-                                    src="<?php echo base_url('/assets/images/logo_light.png'); ?>" alt="Imprint-logo"
+                                    src="<?php echo base_url('assets/images/logo_light.png'); ?>" alt="Imprint-logo"
                                     width="150" /></p>
                            </div>
                         </div>
@@ -241,7 +241,7 @@
                            <div class="wpb_wrapper">
                               <a target="_blank" href="https://apps.apple.com/us/app/imprint-asti/id1204732517"><img
                                     class="alignnone wp-image-318"
-                                    src="<?php echo base_url('/assets/images/appstore.png'); ?>" alt="Appstore"
+                                    src="<?php echo base_url('assets/images/appstore.png'); ?>" alt="Appstore"
                                     width="150" /></a>
                            </div>
                         </div>
@@ -253,7 +253,7 @@
                               <a target="_blank"
                                  href="https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN&gl=US"><img
                                     class="alignnone wp-image-318"
-                                    src="<?php echo base_url('/assets/images/playstore.png'); ?>" alt="Playstore"
+                                    src="<?php echo base_url('assets/images/playstore.png'); ?>" alt="Playstore"
                                     width="150" /></a>
                            </div>
                         </div>
@@ -845,51 +845,51 @@
       }
    }		
 </script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/underscore.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/backbone.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/underscore.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/backbone.min.js'); ?>"></script>
 <script type='text/javascript'>
    /* <![CDATA[ */
    var wpApiSettings = { "root": "http:\/\/softlab.wgl-demo.net\/wp-json\/", "nonce": "f3d09f5949", "versionString": "wp\/v2\/" };
    /* ]]> */
 </script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/api-request.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/wp-api.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/api-request.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/wp-api.min.js'); ?>"></script>
 <script type='text/javascript'>
    /* <![CDATA[ */
    var wpcf7 = { "apiSettings": { "root": "http:\/\/softlab.wgl-demo.net\/wp-json\/contact-form-7\/v1", "namespace": "contact-form-7\/v1" } };
    /* ]]> */
 </script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/contact-form-scripts.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/js.cookie.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/contact-form-scripts.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/js.cookie.min.js'); ?>"></script>
 <script type='text/javascript'>
    /* <![CDATA[ */
    var woocommerce_params = { "ajax_url": "index.html", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%" };
    /* ]]> */
 </script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/woocommerce.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/woocommerce.min.js'); ?>"></script>
 <script type='text/javascript'>
    /* <![CDATA[ */
    var wc_cart_fragments_params = { "ajax_url": "index.html", "wc_ajax_url": "\/?wc-ajax=%%endpoint%%", "cart_hash_key": "wc_cart_hash_c6fbb66f492757ccca2f17637d59a53d", "fragment_name": "wc_fragments_c6fbb66f492757ccca2f17637d59a53d" };
    /* ]]> */
 </script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/cart-fragments.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/theme-addons.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/cart-fragments.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/theme-addons.js'); ?>"></script>
 <script type='text/javascript'>
    /* <![CDATA[ */
    var wgl_core = { "ajaxurl": "index.html", "slickSlider": "http:\/\/softlab.wgl-demo.net\/wp-content\/themes\/softlab\/js\/slick.min.js", "JarallaxPlugin": "http:\/\/softlab.wgl-demo.net\/wp-content\/themes\/softlab\/js\/jarallax-video.min.js", "JarallaxPluginVideo": "wp-content/themes/softlab/js/jarallax.min.js", "like": "Like", "unlike": "Unlike" };
    /* ]]> */
 </script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/contactus.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/theme.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/wp-embed.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/js_composer_front.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/slick.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/jquery.paroller.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/vc-accordion.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/vc-tta-autoplay.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/vc-tabs.min.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/jquery.appear.js'); ?>"></script>
-<script type='text/javascript' src="<?php echo base_url('/assets/js/waypoints.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/contactus.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/theme.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/wp-embed.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/js_composer_front.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/slick.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/jquery.paroller.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/vc-accordion.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/vc-tta-autoplay.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/vc-tabs.min.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/jquery.appear.js'); ?>"></script>
+<script type='text/javascript' src="<?php echo base_url('assets/js/waypoints.min.js'); ?>"></script>
 <script type="text/javascript" id="wgl_custom_footer_js"></script>
 <style>
    .dropbtn {
@@ -992,7 +992,7 @@
   <button style="background-color: rgba(102,75,196,1);width: auto;
     height: auto;
     padding: 8px 13px;">
-     <img src="<?php echo base_url('/assets/images/call.png'); ?>" onclick="myFunction()" class="dropbtn" style="width:auto; height:24px;">
+     <img src="<?php echo base_url('assets/images/call.png'); ?>" onclick="myFunction()" class="dropbtn" style="width:auto; height:24px;">
   </button>
   <div id="myDropdown" class="dropdown-content">
     <h5 style="font-size: 17px;

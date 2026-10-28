@@ -21,7 +21,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/how-can-a-lead-management-system-help-in-your-business.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/how-can-a-lead-management-system-help-in-your-business.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   A lead management system can be of utmost importance to your business. If you are a parent or friends with one, you know parenthood comes with their own set of jubilation. However, when it comes to the aspect of raising a child, it is not that easy. With one or two kids, it is still considerably manageable however, with a dozen babies, it is beyond manageable. One cannot simply pick out one or two and leave the rest, considering the fact that all your kids require undivided attention. The scenario is pretty similar when it comes to the aspect of business.</p><p>
 

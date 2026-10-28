@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/ways-to-generate-and-nurture-leads.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/ways-to-generate-and-nurture-leads.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               Every business wants to generate the best leads. This is because the primary goal of every venture is to sell their product or service. Sales as a concept is a game of chance. Sales managers and individuals associated with sales find it extremely difficult to generate and nurture leads.</p><p>
 

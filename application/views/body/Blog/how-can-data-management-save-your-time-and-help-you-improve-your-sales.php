@@ -21,7 +21,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/how-can-data-management-save-your-time-and-help-you-improve-your-sales.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/how-can-data-management-save-your-time-and-help-you-improve-your-sales.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   In the contemporary business scenario data management is paramount. To define data management, it is the process of collecting, keeping, and using data securely, efficiently, and cost effectively. The goal of data management is to make business management convenient and efficient, and to ensure that useful information is not lost and can be easily retrieved when needed. It is used to help people, organisations optimize the use of data within the bounds of policy and regulation so that the concerned individual or firm can make better business decisions. Irrespective of the size or the industry, a robust system of data management is becoming increasingly important.</p><p>
 

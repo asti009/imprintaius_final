@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" class="land-banner" width="100%" loading="eager" role="presentation" style="margin-top: 80px;" src="<?php echo base_url('/assets/images/blog-images/Expense-management-for-field-employees-maximizing-efficiency-transparency2.png');?>">
+               <img alt="" class="land-banner" width="100%" loading="eager" role="presentation" style="margin-top: 80px;" src="<?php echo base_url('assets/images/blog-images/Expense-management-for-field-employees-maximizing-efficiency-transparency2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
               <p> Manually managing the expenses of field employees can be tedious and time-consuming. Therefore, many businesses are now opting for automation for faster, more precise error-free expense management and keeping accessible records of the same.</p><p>
 
@@ -38,7 +38,7 @@ Such efficient field sales management software eliminates tedious paperwork and 
 
 <h4>Why Is Imprint Better Than Traditional Employee Expense Management System?</h4>
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-<img alt="" class="land-banner" width="100%" loading="eager" role="presentation" src="<?php echo base_url('/assets/images/blog-images/Expense-management-for-field-employees-maximizing-efficiency-transparency3.png');?>">
+<img alt="" class="land-banner" width="100%" loading="eager" role="presentation" src="<?php echo base_url('assets/images/blog-images/Expense-management-for-field-employees-maximizing-efficiency-transparency3.png');?>">
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 <p>
 As mentioned previously, an automated expense management system for field force is essential to cope up with the fast-growing technological world. It eliminates the chances of error, and you can access all expense-related data in a single click. Following are some of the key benefits of opting for Imprint-</p><p>

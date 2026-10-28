@@ -28,7 +28,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Maximizing-Field-Force-Efficiency-with-Beat-Planning-and-Scheduling2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Maximizing-Field-Force-Efficiency-with-Beat-Planning-and-Scheduling2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                Are you a business owner or manager looking for ways to improve your field force operations? 
 Do you find it challenging to ensure that all service areas are covered by field service agents? Is your team helping retail stores restock in-demand items at regular intervals?</p><p>
@@ -58,7 +58,7 @@ It leaves no room for confusion or missing deadlines since the field force emplo
 <h4>How Can Beat Planning And Scheduling Help Maximize Field Force Efficiency?</h4></p><p>
    
    <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-IMPRINT-Streamlined-Business-Processes-and-Boosted-Business-for-Diagnostic-labs3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-IMPRINT-Streamlined-Business-Processes-and-Boosted-Business-for-Diagnostic-labs3.png');?>">
    <div class="spacing_size spacing_size-initial" style="height:30px;"></div></p><p>
 
 Beat planning can reduce issues like communication gaps, employee inconsistency, and lack of productivity among employees and employers. Moreover, it can help maximize field force efficiency by:</p><p> 

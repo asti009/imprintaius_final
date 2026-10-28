@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/five-ways-to-develop-strong-work-ethics-among-employees.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/five-ways-to-develop-strong-work-ethics-among-employees.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               If we scrutinize through the successful ventures, such as Amazon, Coca Cola, Facebook, LinkedIn and of course, what has led our venture, Imprint to be in this position in such a span of time ( you see, self love is one important ethic and that cannot be neglected), there is a defined set of work principles or work ethics. All the successful and emerging ventures start on some core principles and that needs to be later inculcated in not only the employees, but the associates and partner. Discipline and work ethic is an irreplaceable key to success.</p><p>
 

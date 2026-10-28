@@ -52,8 +52,12 @@
  *     production
  *
  * NOTE: If you change these, also change the error_reporting() code below
+ *
+ * IMPORTANT: Sync this with $config['is_development'] in application/config/config.php
+ * - Set 'development' when $config['is_development'] = TRUE
+ * - Set 'production' when $config['is_development'] = FALSE
  */
-	define('ENVIRONMENT', 'production');
+	define('ENVIRONMENT', 'production');  // Change to 'development' for local dev
 
 /*
  *---------------------------------------------------------------

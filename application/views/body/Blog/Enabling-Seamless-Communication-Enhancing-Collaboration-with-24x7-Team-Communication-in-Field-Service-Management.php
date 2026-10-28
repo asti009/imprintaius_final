@@ -29,7 +29,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Enabling-Seamless-Communication-Enhancing-Collaboration-with-24x7-Team-Communication-in-Field-Service-Management2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Enabling-Seamless-Communication-Enhancing-Collaboration-with-24x7-Team-Communication-in-Field-Service-Management2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
                 </div>
 <div>
@@ -85,7 +85,7 @@ As mentioned previously, Imprint comes with a comprehensive set of features to h
 
 Imprint’s robust systems and advanced feature help solve these problems in the following manner:</p><p> 
  <div style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Enabling-Seamless-Communication-Enhancing-Collaboration-with-24x7-Team-Communication-in-Field-Service-Management3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Enabling-Seamless-Communication-Enhancing-Collaboration-with-24x7-Team-Communication-in-Field-Service-Management3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
                 </div>
 <h4>1. Real-time Communication via Inbuilt VoIP Calls & Broadcast Messages</h4></p><p> 

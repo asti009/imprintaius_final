@@ -29,7 +29,7 @@ $this->load->helper('url');
    <main id="main">
       <div class="wgl-container">
          <div class="row sidebar_right single_type-3" style="margin-top:0;">
-            <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-Field-Service-Management-FSM-Solutions-Give-An-Edge-to-Sales-Teams-in-The-Digital-Age2.png');?>">
+            <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-Field-Service-Management-FSM-Solutions-Give-An-Edge-to-Sales-Teams-in-The-Digital-Age2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   Companies with field agents often face a unique set of challenges when dealing with customers. These challenges can range from communication and coordination issues to maintaining consistent service quality.</p><p> 
 
@@ -45,7 +45,7 @@ In this blog, we’ll take a deep look into why and how an FSM solution can give
 
 <h4>How Can Sales Teams Leverage an FSM Tool to Streamline Their Operations?</h4></p><p>
  <div style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-Field-Service-Management-FSM-Solutions-Give-An-Edge-to-Sales-Teams-in-The-Digital-Age3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-Field-Service-Management-FSM-Solutions-Give-An-Edge-to-Sales-Teams-in-The-Digital-Age3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
          </div>
 <h4>1. Live Tracking & Real-time Data</h4></p><p>

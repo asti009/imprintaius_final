@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-to-choose-the-right-companion-to-your-workforce2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-to-choose-the-right-companion-to-your-workforce2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               A company makes one of its biggest investments in its staff. The majority of an employer’s bottom line is made up of pay, benefits, and equipment. In an ideal scenario, you would be able to arrange the precise number of staff needed for each job. There would always be a steady flow of customers looking for your goods and services. Employees would meticulously note when they arrived for work and when they left. They wouldn’t squander company time on social networking, personal projects, or getting sidetracked during a meeting.</p><p>
 

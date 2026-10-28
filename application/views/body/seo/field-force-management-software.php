@@ -1124,7 +1124,7 @@ summary::-webkit-details-marker{display:none}
           
           <div style="display:flex;align-items:center;gap:16px;">
             <button type="button" id="ffm_submit" onclick="if(ffmValidateCaptcha()) ffmContactSubmit()" class="ffm-form-submit">Submit Enquiry</button>
-            <img id="ffm_loading" src="<?php echo base_url('/assets/images/3.gif'); ?>" alt="Loading..." style="display:none;width:32px;height:32px;">
+            <img id="ffm_loading" src="<?php echo base_url('assets/images/3.gif'); ?>" alt="Loading..." style="display:none;width:32px;height:32px;">
           </div>
         </form>
       </div>

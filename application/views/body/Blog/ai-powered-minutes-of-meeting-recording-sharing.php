@@ -92,7 +92,7 @@ $this->load->view('header/header');
         <div class="row sidebar_right single_type-3" style="margin-top:0;">
             <!-- Replace the src below with your preferred blog image -->
             <img alt="" width="100%"
-                 src="<?php echo base_url('/assets/images/blog-images/ai-powered-minutes-of-meeting-recording-sharing1.png'); ?>">
+                 src="<?php echo base_url('assets/images/blog-images/ai-powered-minutes-of-meeting-recording-sharing1.png'); ?>">
                       <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
         </div>
 
@@ -121,7 +121,7 @@ $this->load->view('header/header');
                 Introducing Imprint’s AI-Powered Minutes of Meeting (MoM) Recording &amp; Sharing Feature!
             </p>
             <img alt="" width="100%"
-                 src="<?php echo base_url('/assets/images/blog-images/ai-powered-minutes-of-meeting-recording-sharing2.png'); ?>">
+                 src="<?php echo base_url('assets/images/blog-images/ai-powered-minutes-of-meeting-recording-sharing2.png'); ?>">
            
        
            

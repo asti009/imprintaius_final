@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Know-your-customers-better-with-imprint-ai2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Know-your-customers-better-with-imprint-ai2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               Businesses must produce goods and services that customers will value if they are to be profitable. It might be very difficult to gain specific insights into clients’ thoughts. The correct processes may be put in place to gather information, and by concentrating on the important data points, it is feasible to enhance the client experience. To acquire a clear image of the customer’s attitude, those working in a corporate organisation charged with coordinating customer care with business objectives frequently, but ineffectively, look to solely the client’s purchasing history and profile information.</p><p>
 

@@ -29,7 +29,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Proactive-Client-Engagement-Leveraging-Nearby-Client-Alerts-in-Field-Force-Management2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Proactive-Client-Engagement-Leveraging-Nearby-Client-Alerts-in-Field-Force-Management2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   In the ever-evolving and fiercely competitive business ecosystem, it is imperative to manage your clients adeptly and efficiently to ensure consistent growth. This is particularly true for industries where field work and direct client interactions such as marketing or sales form the bedrock of operations.</p><p> 
 
@@ -54,7 +54,7 @@ Let's have a look at them:</p><p>
 The following are a few ways the nearby client alert system can benefit you in strengthening your relationship with your clients:</p><p> 
 
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Proactive-Client-Engagement-Leveraging-Nearby-Client-Alerts-in-Field-Force-Management3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Proactive-Client-Engagement-Leveraging-Nearby-Client-Alerts-in-Field-Force-Management3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 
 <h4>1. Proactive Engagement</h4></p><p> 

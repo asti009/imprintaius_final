@@ -21,7 +21,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/whats-new-with-imprint.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/whats-new-with-imprint.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   It is a known fact that Imprint AI is primarily aimed at simplifying the workforce equation with an end-to-end workforce management solution. Imprint has simplified the workforce management of over 1000 plus sales managers, innumerable field agents and it is trusted by over 100 customers across three continents. With the dynamicity and the rapid changes of the market as well as the demands of the market, Imprint too is dynamic and ever evolving. The constant endeavor is to expand the features and employ the latest technologies so that workforce management is simplified and revolutionized.</p><p>
 

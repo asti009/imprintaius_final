@@ -35,7 +35,7 @@ $this->load->view('header/header');
 <main id="main">
     <div class="wgl-container">
         <div class="row sidebar_right single_type-3" style="margin-top:0;">
-            <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Maximizing-ROI-Demystifying-Metrics-and-Analytics-in-Sales-Engagement-With-Field-Service-Management-Software1.png');?>">
+            <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Maximizing-ROI-Demystifying-Metrics-and-Analytics-in-Sales-Engagement-With-Field-Service-Management-Software1.png');?>">
             <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
         </div>
         <div>
@@ -67,7 +67,7 @@ $this->load->view('header/header');
                 initiatives that yield the highest returns, thus driving sustainable growth.
             </p>
             <div style="margin-top:0;">
-                <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Maximizing-ROI-Demystifying-Metrics-and-Analytics-in-Sales-Engagement-With-Field-Service-Management-Software2.png'); ?>">
+                <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Maximizing-ROI-Demystifying-Metrics-and-Analytics-in-Sales-Engagement-With-Field-Service-Management-Software2.png'); ?>">
                 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
             </div>
             <h4>Key Metrics for Measuring ROI:</h4>

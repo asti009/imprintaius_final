@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" style="margin-top: 100px" src="<?php echo base_url('/assets/images/blog-images/How-To-Effectively-Manage-A-Mobile-Workforce-With-Field-Force-Automation2.png');?>">
+               <img alt="" width="100%" style="margin-top: 100px" src="<?php echo base_url('assets/images/blog-images/How-To-Effectively-Manage-A-Mobile-Workforce-With-Field-Force-Automation2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div></div>
                <p>
                   
@@ -33,7 +33,7 @@ In this guide, we’ll give you detailed insights on how an automated <b>field f
 
 <h4>How Does An Automated Field Force Automation Tool Work?</h4></p>
  <div style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-To-Effectively-Manage-A-Mobile-Workforce-With-Field-Force-Automation3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-To-Effectively-Manage-A-Mobile-Workforce-With-Field-Force-Automation3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div></div>
 
                <p>Simply put, field force management tool is a software designed to help organizations streamline their mobile workforce operations. A field force automation software generally has a web-based dashboard to give you a bird’s eye view of all tasks, visits, expenses, client meetings, and leave plans for each field agent.</p><p>

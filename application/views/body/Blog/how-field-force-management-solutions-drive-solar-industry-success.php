@@ -80,7 +80,7 @@ load_resources();
 	<div class="wgl-container">
 		<div class="row sidebar_right single_type-3" style="margin-top:0;">
 			<img alt="" width="100%"
-				src="<?php echo base_url('/assets/images/blog-images/how-field-force-management-solutions-drive-solar-industry-success2.png'); ?>">
+				src="<?php echo base_url('assets/images/blog-images/how-field-force-management-solutions-drive-solar-industry-success2.png'); ?>">
 			<div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 		</div>
 		<div>
@@ -92,7 +92,7 @@ load_resources();
 			</p>
 			<div style="margin-top:0;">
 				<img alt="" width="100%"
-					src="<?php echo base_url('/assets/images/blog-images/how-field-force-management-solutions-drive-solar-industry-success3.png'); ?>">
+					src="<?php echo base_url('assets/images/blog-images/how-field-force-management-solutions-drive-solar-industry-success3.png'); ?>">
 				<div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 			</div>
 			<h2>The Role of Field Force Management in the Solar Sector</h2>
@@ -179,11 +179,11 @@ load_resources();
 				</li>
 			</ul>
 			<p>One leading solar company experienced remarkable success after adopting IMPRINT. Within weeks, they reported a 6–8% increase in productivity, consistent target achievement, and significant improvements in employee satisfaction.
-				<a href="<?php echo base_url('/transforming-sales-performance-in-the-solar-industry-with-imprint'); ?>" target="_blank">For the full success story, check out our case study.</a>
+				<a href="<?php echo base_url('transforming-sales-performance-in-the-solar-industry-with-imprint'); ?>" target="_blank">For the full success story, check out our case study.</a>
 			</p>
 			<h2>Take the First Step Toward Transformation</h2>
 			<p>The solar industry’s rapid growth demands innovative solutions to manage field operations effectively. By choosing IMPRINT, you’re equipping your business with the tools it needs to thrive in a competitive landscape.</p>
-			<p>Ready to transform your field force management? <a href="<?php echo base_url('/') ?>" target="_blank"><b>Explore IMPRINT today</b></a> and empower your team to achieve more. <a href="<?php echo base_url('contactus') ?>" target="_blank">Schedule a demo</a> to understand how Imprint can transform your sales performance!</p>
+			<p>Ready to transform your field force management? <a href="<?php echo base_url('') ?>" target="_blank"><b>Explore IMPRINT today</b></a> and empower your team to achieve more. <a href="<?php echo base_url('contactus') ?>" target="_blank">Schedule a demo</a> to understand how Imprint can transform your sales performance!</p>
 			<h2>FAQ's</h2>
 			<h3>Why is Field Force Management important for the solar industry?</h3>
 			<p>The solar industry relies heavily on field employees for sales, installations, and maintenance across dispersed locations. Effective field force management ensures accountability, enhances productivity, and reduces operational inefficiencies.</p>

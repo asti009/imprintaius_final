@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-is-sales-force-automation-a-boon-for-the-managers2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-is-sales-force-automation-a-boon-for-the-managers2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>Companies in several industries with operations centred on sales have chosen sales force automation as one of their tactics.</p>
 
 <p>Greater efficiency and greater control over each task are possible with more recent systems. Has this tactic been implemented by your company yet?</p>

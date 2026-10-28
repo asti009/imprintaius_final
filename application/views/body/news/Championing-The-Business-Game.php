@@ -43,9 +43,9 @@ We congratulate Ms. Sonal Malhotra for her spectacular achievement and wish her 
                         	<div class="portfolio-border">
                                 <!-- Start Portfolio Item Thumb -->
                                 <div class="portfolio-thumb">
-                                    <a class="lightbox" title="Championing The Business Game" onclick="window.location.href='<?php echo base_url('/assets/images/forbes-sonal-inside-1-2.jpg');?>';">
+                                    <a class="lightbox" title="Championing The Business Game" onclick="window.location.href='<?php echo base_url('assets/images/forbes-sonal-inside-1-2.jpg');?>';">
                                         <div class="thumb-overlay"><i class="icon-resize-full"></i></div>
-                                        <img alt="" src="<?php echo base_url('/assets/images/forbes-sonal-inside-1.jpg');?>">
+                                        <img alt="" src="<?php echo base_url('assets/images/forbes-sonal-inside-1.jpg');?>">
                                     </a>
                                 </div>
                                 <!-- End Portfolio Item Thumb -->

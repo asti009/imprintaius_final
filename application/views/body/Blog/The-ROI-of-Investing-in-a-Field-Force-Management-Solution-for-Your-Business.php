@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/The-ROI-of-Investing-in-a-Field-Force-Management-Solution-for-Your-Business2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/The-ROI-of-Investing-in-a-Field-Force-Management-Solution-for-Your-Business2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   While businesses try different ways to optimize their operations and maximize profits, they don't stress enough about investing in <b>field force management software.</b> Managing a fleet of on-the-field employees is a daunting task, but companies can transform it into a seamless and efficient process with the right technology.</p><p> 
 

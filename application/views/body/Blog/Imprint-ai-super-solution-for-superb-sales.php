@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Imprint-ai-super-solution-for-superb-sales2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Imprint-ai-super-solution-for-superb-sales2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
              It’s a sales tactic that gained popularity in the 1980s, and it’s based on a rather straightforward principle: A salesperson determines their prospect’s needs, then suggests the appropriate goods and/or services to meet those needs.</p><p>
 

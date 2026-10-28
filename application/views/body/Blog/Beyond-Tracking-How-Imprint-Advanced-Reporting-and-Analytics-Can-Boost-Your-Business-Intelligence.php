@@ -29,7 +29,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Beyond-Tracking-How-Imprint-Advanced-Reporting-and-Analytics-Can-Boost-Your-Business-Intelligence2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Beyond-Tracking-How-Imprint-Advanced-Reporting-and-Analytics-Can-Boost-Your-Business-Intelligence2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   As a business owner or field manager, you understand the importance of keeping a close eye on employee movements and field operations to make data-driven decisions.</p><p>
 
@@ -57,7 +57,7 @@ A tool like Imprint is the need of the hour, especially for FMCGs, telecom compa
 Here are ways Imprint can help you boost your business intelligence: </p><p>
 
                 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Beyond-Tracking-How-Imprint-Advanced-Reporting-and-Analytics-Can-Boost-Your-Business-Intelligence3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Beyond-Tracking-How-Imprint-Advanced-Reporting-and-Analytics-Can-Boost-Your-Business-Intelligence3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 
 <h4>Identify Opportunities for Development with Deeper Insights</h4></p><p>

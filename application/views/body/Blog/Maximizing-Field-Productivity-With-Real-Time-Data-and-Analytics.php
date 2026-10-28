@@ -19,7 +19,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:20px;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Maximizing-Field-Productivity-With-Real-Time-Data-and-Analytics2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Maximizing-Field-Productivity-With-Real-Time-Data-and-Analytics2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                Field workers like sales or customer service agents are the backbone of your company. But keeping everyone connected and working efficiently can be challenging, especially without the right tools and technologies to measure real-time metrics.</p><p>
 
@@ -43,7 +43,7 @@ Therefore, employing a field force management tool is crucial to go neck and nec
 
 <h4>Types Of Real-Time Reports & Analytics You Can Access Through An Employee Management Tool</h4></p><p>
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Maximizing-Field-Productivity-With-Real-Time-Data-and-Analytics3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Maximizing-Field-Productivity-With-Real-Time-Data-and-Analytics3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div></p><p>
 Field <b>employee tracking</b> software offers numerous <a href="<?php echo base_url('solution')?>">types of reports and analytics</a> to help manage on-field employees seamlessly. Mentioned below are a few primary report types that every company with an on-the-go force would benefit from: </p><p>
 

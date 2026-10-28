@@ -21,7 +21,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/enhance-your-customer-experience-like-never-before-3-ways-to-make-it-happen.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/enhance-your-customer-experience-like-never-before-3-ways-to-make-it-happen.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   Any venture regardless of its size or industry needs to have one value at its core; customers first. Customer satisfaction is crucial to every venture. It is this aspect that determines success and failure. In order to ensure optimum customer satisfaction, workforce management is important. An ideal workforce management leads to overall productivity which is bound to ensure customer satisfaction. Customer experience is how a consumer perceives a given brand. It is a result of interactions that they have with the concerned teams and members at various touch points.</p><p>
 

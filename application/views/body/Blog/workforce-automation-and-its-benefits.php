@@ -22,7 +22,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/workforce-automation-and-its-benefits.jfif');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/workforce-automation-and-its-benefits.jfif');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
 Whether you want to book a taxi or schedule an interview, automation is everywhere. Workforce automation is an increasing phenomenon if we consider contemporary society and market dynamics. According to some people things like workforce automation, AI(Artificial Intelligence) and ML( Machine Learning) are threatening because they are likely to replace manual requirements.</p><p>
 

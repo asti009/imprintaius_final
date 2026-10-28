@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
 <head>
-<meta charset="utf-8">    
+<meta charset="utf-8">
+<base href="<?php echo base_url(); ?>">    
  <!-- Google Tag Manager -->
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-08MNXZLS7T">
 </script>
@@ -148,9 +149,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
 
 
-      <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/style.css');?>" media="all"/>
-      <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/3xzri1.css');?>" media="all"/>
-      <!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/flaticon.css');?>" media="all"/> -->
+      <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/style.css');?>" media="all"/>
+      <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/3xzri1.css');?>" media="all"/>
+      <!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/flaticon.css');?>" media="all"/> -->
       
          <style id='softlab-main-inline-css' type='text/css'>@media only screen and (max-width: 755px) {
    .home .row.sidebar_left,
@@ -164,17 +165,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   src="https://code.jquery.com/jquery-3.6.4.js"
   integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E="
   crossorigin="anonymous"></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/jquery.js');?>" ></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/jquery-migrate.min.js');?>" ></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/revolution.tools.min.js');?>" ></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/rs6.min.js');?>" ></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/perfect-scrollbar.min.js');?>" ></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/wgl-toolbar-public.js');?>" ></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/jquery.blockui.min.js');?>" ></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/script.js');?>" ></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/jquery.swipebox.min.js');?>" ></script>
-      <link rel="icon" href="<?php echo base_url('/assets/images/cropped-favicon-32x32.png');?>" sizes="32x32" />
-      <link rel="icon" href="<?php echo base_url('/assets/images/cropped-favicon-192x192.png');?>" sizes="192x192" />
+      <script type='text/javascript' src="<?php echo base_url('assets/js/jquery.js');?>" ></script>
+      <script type='text/javascript' src="<?php echo base_url('assets/js/jquery-migrate.min.js');?>" ></script>
+      <script type='text/javascript' src="<?php echo base_url('assets/js/revolution.tools.min.js');?>" ></script>
+      <script type='text/javascript' src="<?php echo base_url('assets/js/rs6.min.js');?>" ></script>
+      <script type='text/javascript' src="<?php echo base_url('assets/js/perfect-scrollbar.min.js');?>" ></script>
+      <script type='text/javascript' src="<?php echo base_url('assets/js/wgl-toolbar-public.js');?>" ></script>
+      <script type='text/javascript' src="<?php echo base_url('assets/js/jquery.blockui.min.js');?>" ></script>
+      <script type='text/javascript' src="<?php echo base_url('assets/js/script.js');?>" ></script>
+      <script type='text/javascript' src="<?php echo base_url('assets/js/jquery.swipebox.min.js');?>" ></script>
+      <link rel="icon" href="<?php echo base_url('assets/images/cropped-favicon-32x32.png');?>" sizes="32x32" />
+      <link rel="icon" href="<?php echo base_url('assets/images/cropped-favicon-192x192.png');?>" sizes="192x192" />
       <script type="text/javascript">function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]<window.innerWidth?0:t.rl[i];for(var i in r=a[0],a)r>a[i]&&0<a[i]&&(r=a[i],n=i);var d=e>t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};</script>
       <script>
       $('rs-slide rs-layer-wrap rs-loop-wrap rs-mask-wrap rs-layer:has(img.bg)').css('top', '190px!important');
@@ -192,7 +193,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-mobile_enable'>
                                  <a href='<?php echo base_url('')?>'>
-                                 <img class="default_logo" src="<?php echo base_url('/assets/images/logo_dark.png');?>" alt="Imprint-Logo"  style="height:45px;">
+                                 <img class="default_logo" src="<?php echo base_url('assets/images/logo_dark.png');?>" alt="Imprint-Logo"  style="height:45px;">
                                  </a>
                               </div>
                            </div>
@@ -283,7 +284,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-mobile_enable'>
                                  <a href='<?php echo base_url('')?>'>
-                                 <img class="default_logo" src="<?php echo base_url('/assets/images/logo_dark.png');?>" alt="Imprint-Logo"  style="height:45px;">
+                                 <img class="default_logo" src="<?php echo base_url('assets/images/logo_dark.png');?>" alt="Imprint-Logo"  style="height:45px;">
                                  </a>
                               </div>
                            </div>
@@ -413,7 +414,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-mobile_enable'>
                                  <a href='<?php echo base_url('')?>'>
-                                 <img class="logo-mobile" src="<?php echo base_url('/assets/images/logo_light.png');?>" alt="Imprint-logo"  style="height:38px;">
+                                 <img class="logo-mobile" src="<?php echo base_url('assets/images/logo_light.png');?>" alt="Imprint-logo"  style="height:38px;">
                                  </a>
                               </div>
                            </div>
@@ -567,7 +568,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="Ad" id="adPopup">
     <div class="Ad-content">
         <a target="_blank" rel="noopener" href="https://imprint.astiinfotech.com/#/login">
-            <img src="<?php echo base_url('/assets/images/Offer.png');?>" alt="Offer">
+            <img src="<?php echo base_url('assets/images/Offer.png');?>" alt="Offer">
         </a>
         <div class="Ad-close" onclick="closeAd()">×</div>
     </div>

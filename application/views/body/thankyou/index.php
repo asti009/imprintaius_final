@@ -48,9 +48,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <meta charset="utf-8"  name="description" content="Imprint AI is a Powerful Automated Workforce Management Solution that Enhances Productivity by Simplifying the Workforce Equation."/>
       <meta name="keywords" content="sales monitoring, sales management, workforce management, tracking sales, field force management, managing the sales force, workforce management tools, workforce management, solution, performance management in sales, workforce management app, business management solution, client management app, salesforce workforce management, workforce automation field sales management, ai management, sales management app, lead tracking app, ai in management, field force automation, ai field management, workforce tracking, sales management solutions, workforce management automation, saas sales management, benefits of sales management, workforce management technology, field workforce management, workforce management plan, field automation, client management solutions, workforce time management, free workforce management, field force management solution, workforce management requirements, ai for management, field force automation solutions, digital workforce management system"/>
       
-      <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/style.css');?>" media="all"/>
-      <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/3xzri1.css');?>" media="all"/>
-      <!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url('/assets/css/flaticon.css');?>" media="all"/> -->
+      <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/style.css');?>" media="all"/>
+      <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/3xzri1.css');?>" media="all"/>
+      <!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url('assets/css/flaticon.css');?>" media="all"/> -->
       
          <style id='softlab-main-inline-css' type='text/css'>@media only screen and (max-width: 755px) {
    .home .row.sidebar_left,
@@ -64,9 +64,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   src="https://code.jquery.com/jquery-3.6.4.js"
   integrity="sha256-a9jBBRygX1Bh5lt8GZjXDzyOB+bWve9EiO7tROUtj/E="
   crossorigin="anonymous"></script>
-      <script type='text/javascript' src="<?php echo base_url('/assets/js/jquery.js');?>" ></script>
-      <link rel="icon" href="<?php echo base_url('/assets/images/cropped-favicon-32x32.png');?>" sizes="32x32" />
-      <link rel="icon" href="<?php echo base_url('/assets/images/cropped-favicon-192x192.png');?>" sizes="192x192" />
+      <script type='text/javascript' src="<?php echo base_url('assets/js/jquery.js');?>" ></script>
+      <link rel="icon" href="<?php echo base_url('assets/images/cropped-favicon-32x32.png');?>" sizes="32x32" />
+      <link rel="icon" href="<?php echo base_url('assets/images/cropped-favicon-192x192.png');?>" sizes="192x192" />
    
 
    </head>
@@ -81,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-mobile_enable'>
                                  <a href='<?php echo base_url('')?>'>
-                                 <img class="default_logo" src="<?php echo base_url('/assets/images/logo_dark.png');?>" alt="Imprint-Logo"  style="height:45px;">
+                                 <img class="default_logo" src="<?php echo base_url('assets/images/logo_dark.png');?>" alt="Imprint-Logo"  style="height:45px;">
                                  </a>
                               </div>
                            </div>
@@ -101,7 +101,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-mobile_enable'>
                                  <a href='<?php echo base_url('')?>'>
-                                 <img class="default_logo" src="<?php echo base_url('/assets/images/logo_dark.png');?>" alt="Imprint-Logo"  style="height:45px;">
+                                 <img class="default_logo" src="<?php echo base_url('assets/images/logo_dark.png');?>" alt="Imprint-Logo"  style="height:45px;">
                                  </a>
                               </div>
                            </div>
@@ -120,7 +120,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                            <div class='header_area_container'>
                               <div class='wgl-logotype-container logo-mobile_enable'>
                                  <a href='<?php echo base_url('')?>'>
-                                 <img class="logo-mobile" src="<?php echo base_url('/assets/images/logo_light.png');?>" alt="Imprint-logo"  style="height:38px;">
+                                 <img class="logo-mobile" src="<?php echo base_url('assets/images/logo_light.png');?>" alt="Imprint-logo"  style="height:38px;">
                                  </a>
                               </div>
                            </div>
@@ -185,7 +185,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                               <div id=softlab_img_layer_6065e34a14a15 class="softlab_module_img_layer resp-img">
                                  <div class="img_layer_image_wrapper " style="z-index:2">
                                     <div class="img_layer_item" >
-                                       <div class="img_layer_image"><img src="<?php echo base_url('/assets/images/thankyou.png');?>" alt="Thankyou" /></div>
+                                       <div class="img_layer_image"><img src="<?php echo base_url('assets/images/thankyou.png');?>" alt="Thankyou" /></div>
                                     </div>
                                  </div>
                               </div>

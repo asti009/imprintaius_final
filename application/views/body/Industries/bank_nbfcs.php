@@ -744,8 +744,6 @@ $this->load->helper('url');
    flex-direction: column;
    gap: 10px;
 }
-   gap: 10px;
-}
 button.core-tab {
    display: flex;
    align-items: center;

@@ -29,7 +29,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Unleash-Exponential-Business-Growth-With-Imprint-Client-and-Lead-Management-Feature2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Unleash-Exponential-Business-Growth-With-Imprint-Client-and-Lead-Management-Feature2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                  Being the head of the client and lead management team in an FMCG company is not easy. The entire team needs to take care of a lot of data regarding how client management is being taken care of, the status of new leads, the success rate of lead conversion, and more.</p><p>
 
@@ -45,7 +45,7 @@ The implementation of the tool took care of all my field sales management woes, 
 
 <h4>What Is Imprint & How Does It Help In Client And Lead Management?</h4></p><p>
    <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Unleash-Exponential-Business-Growth-With-Imprint-Client-and-Lead-Management-Feature3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Unleash-Exponential-Business-Growth-With-Imprint-Client-and-Lead-Management-Feature3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 
 <a href="<?php echo base_url('')?>">Imprint</a> is a <b>field sales management software</b> designed to help businesses effectively track and manage their field operations.</p><p> 

@@ -28,7 +28,7 @@ $this->load->helper('url');
       <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Seamless-Virtual-Meetings-Simplifying-Meeting-Scheduling-with-Field-Force-Management-Solutions2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Seamless-Virtual-Meetings-Simplifying-Meeting-Scheduling-with-Field-Force-Management-Solutions2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
                   In today’s globally connected world, the importance of virtual meetings is irreplaceable. Whether we are connecting with clients, and colleagues or conducting business negotiations, having a seamless video conferencing experience is crucial. We are well aware that field workforce teams play a pivotal role in industries such as sales, marketing, and service technicians, where employees are often on the move, visiting client sites, or managing operations in various locations.</p><p> 
 
@@ -40,7 +40,7 @@ Fortunately, <b>field service management (FSM) solutions</b> like Imprint have r
 A <b>field force management solution</b> with digital meetings features simplifies the complications of virtual meetings. Imprint offers an <a target="_blank" href="https://dialtm.in/Home">in-built high-quality video conference solution</a> to stay connected with your remote working team and clients.</p><p> 
 
  <div class=" single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Seamless-Virtual-Meetings-Simplifying-Meeting-Scheduling-with-Field-Force-Management-Solutions3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Seamless-Virtual-Meetings-Simplifying-Meeting-Scheduling-with-Field-Force-Management-Solutions3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
          </div>
 Here is how it can help you achieve the same:</p><p> 

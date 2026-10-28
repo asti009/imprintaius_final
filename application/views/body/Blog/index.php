@@ -37,7 +37,7 @@ $this->load->view('header/header'); ?>
                                                             <div class="blog-post_media">
                                                                 <div class="blog-post_media_part">
                                                                     <a href="<?php echo base_url($blog['slug'])?>" class="blog-post_feature-link">
-                                                                        <img src="<?php echo base_url('/assets/images/blog-images/' . $blog['image']);?>" alt="<?php echo $blog['title'];?>">
+                                                                        <img src="<?php echo base_url('assets/images/blog-images/' . $blog['image']);?>" alt="<?php echo $blog['title'];?>">
                                                                     </a>
                                                                 </div>
                                                                 <div class="blog-post_meta_info">

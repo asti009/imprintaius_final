@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-GPS-technology-has-changed-productivity-measures-in-Sales-space2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-GPS-technology-has-changed-productivity-measures-in-Sales-space2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               When we look at the past 20 years we realize that we have come a long way & are witnessing the most impactful changes in our way of living. Especially in the last 10 years, digitization has just turned around our lives. Digitization has not left any sector of the industries untouched and the same holds true for the Sales sector.</p><p>
 
@@ -30,7 +30,7 @@ Online market giants like Flipkart, Amazon, Myntra, etc are doing exceptionally 
 With fast growing population, number of online stores is also increasing day by day. Since these stores are expanding, so is the strength of staff members. Hiring staff is one thing but management of so many people is not an easy thing to do. <b>Work force management</b> within a store or warehouse, and stores spread across geographical areas is very important.</p>
 
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/How-GPS-technology-has-changed-productivity-measures-in-Sales-space3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/How-GPS-technology-has-changed-productivity-measures-in-Sales-space3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
                <p></p>
                <h4>Why We Need New Technology for Workforce Automation?</h4>

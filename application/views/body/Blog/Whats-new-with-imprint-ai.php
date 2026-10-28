@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Whats-new-with-imprint-ai2.jpg');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Whats-new-with-imprint-ai2.jpg');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
               <b>Imprint AI</b> is for you if you’re looking to streamline the labour equation. Imprint AI is a potent end-to-end workforce management solution that is primarily focused on improving your workforce management, boosting productivity, and automating time-consuming manual operations.</p><p>
 

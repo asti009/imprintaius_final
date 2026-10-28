@@ -19,7 +19,7 @@ $this->load->helper('url');
 <main id="main">
          <div class="wgl-container">
             <div class="row sidebar_right single_type-3" style="margin-top:0;">
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-imprint-ai-is-trusted-worldwide-for-its-extensive-workforce-automation-features2.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-imprint-ai-is-trusted-worldwide-for-its-extensive-workforce-automation-features2.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div><p>
              In today’s modern and fast-growing world, people are constantly trying to be in synchronization with the rest of the world. No one wants to lag in adopting the latest trends as well as technologies, be it individuals or corporates across sectors. Whether it is information technology, the education sector, transportation, or sales and marketing, every sector wants convenience, speed, and accuracy. Each organization wants its workforce to be efficient, more productive, and less resource-consuming. So to meet all these requirements we need an effective <b>workforce management solution.</b> Not all solutions available out there are well-suited for an organization. We need to analyze the requirements and curate one that meets those specific <b>field force monitoring</b> needs.</p><p>
 
@@ -32,7 +32,7 @@ The features that have attracted the imprint’s clients the most are:</p><p>
 
 <h4>Is analytics capability being utilized for the collected data?</h4></p>
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-imprint-ai-is-trusted-worldwide-for-its-extensive-workforce-automation-features3.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-imprint-ai-is-trusted-worldwide-for-its-extensive-workforce-automation-features3.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
                <p>
 Perhaps doing more number of jobs may prove to be good for an enterprise but how does other enterprises utilize their data collection is also a matter worth pondering over. How they are extracting the data and generating meaningful reports is what sets them apart from the crowd. Enterprises using data analytics are able to optimize their operations and witness higher revenue growth by utilizing data to their advantage. Advanced sales force automation tools like Imprint are capable of generating numerous reports to gauge customer preferences, employee productivity, sales forecasts, etc.</p><p>
@@ -41,7 +41,7 @@ A recent study has revealed that companies which adopted analytics technology sa
 
 In her book Business Efficiency for Dummies, Marina Martin claims that inefficient processes can cost enterprises 20-30% of their revenues. Analytics deployed can give insights on: time taken for the field agent to reach the site, time taken to complete the task, periodic performance of each agent and much more.</p><p>
 <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
-               <img alt="" width="100%" src="<?php echo base_url('/assets/images/blog-images/Why-imprint-ai-is-trusted-worldwide-for-its-extensive-workforce-automation-features4.png');?>">
+               <img alt="" width="100%" src="<?php echo base_url('assets/images/blog-images/Why-imprint-ai-is-trusted-worldwide-for-its-extensive-workforce-automation-features4.png');?>">
                <div class="spacing_size spacing_size-initial" style="height:30px;"></div>
 <h4>Consumer based planning and decision making</h4>
 When companies collect data through digital forms and apply analytics, it helps them focus on strategic decision making. Enterprises usually take decisions keeping their customer service at the top most priority. This gives them a better grip on their customers and sets them apart from other companies. With workforce automation now companies can send different teams in the field and their information is updated through location seamlessly. Managers can now analyze in real-time what kind of tasks are taking longer, and also keep a tab on any delays in reaching client sites, conducting meetings or completing assigned service requests. Corrective actions & prevention actions (CAPA) can always be taken at the right time with analytic tools.</p><p>
