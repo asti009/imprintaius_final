@@ -128,12 +128,12 @@ $this->load->helper('url');
          <span class="sep">/</span>
          <a href="<?php echo base_url('industries')?>">Industries</a>
          <span class="sep">/</span>
-         <span class="current">NBFCs &amp; Lenders</span>
+         <span class="current">Bank & NBFCs</span>
       </div>
 
       <span class="ind-badge">
          <span class="ind-badge-pill">Imprint Field Force Management</span>
-         <span class="ind-badge-text">Configured for NBFCs &amp; Lenders</span>
+         <span class="ind-badge-text">Configured for Bank & NBFCs</span>
       </span>
 
       <h1>Every Loan Officer Visible.<span class="accent">Every Borrower Visit Verified.</span></h1>
