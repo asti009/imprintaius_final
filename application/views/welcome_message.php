@@ -2485,6 +2485,12 @@ function uiSwitch(btn, panelId) {
    font-family: Poppins, sans-serif;
    font-size: 13px;
    margin-bottom: 18px;
+   overflow: hidden;
+}
+.ail-shot img {
+   max-width: 100%;
+   max-height: 100%;
+   object-fit: contain;
 }
 .ail-item h4 {
    font-family: Poppins, sans-serif;
@@ -2617,19 +2623,19 @@ function uiSwitch(btn, panelId) {
          <h2>Put Your Field Data to Work with AI</h2>
          <div class="ail-grid">
             <div class="ail-item">
-               <div class="ail-shot">[Screenshot]</div>
-               <h4>[AI feature 1]</h4>
-               <p>[What it does for a field manager.]</p>
+               <div class="ail-shot"><img src="<?php echo base_url('assets/images/mom.png');?>" alt="AI Meeting Summarizer Illustration" /></div>
+               <h4>MOM</h4>
+               <p>Meeting transcription with AI-generated summaries and action items.</p>
             </div>
             <div class="ail-item">
-               <div class="ail-shot">[Screenshot]</div>
-               <h4>[AI feature 2]</h4>
-               <p>[What it does for a field manager.]</p>
+               <div class="ail-shot"><img src="<?php echo base_url('assets/images/nlp.png');?>" alt="NLP Reporting Interface" /></div>
+               <h4>NLP Reporting</h4>
+               <p>AI chat interface showing a natural-language query and generated report.</p>
             </div>
             <div class="ail-item">
-               <div class="ail-shot">[Screenshot]</div>
-               <h4>[AI feature 3]</h4>
-               <p>[What it does for a field manager.]</p>
+               <div class="ail-shot"><img src="<?php echo base_url('assets/images/ailead.jpeg');?>" alt="AI Lead Generation Dashboard" /></div>
+               <h4>AI Lead Generation</h4>
+               <p>Lead dashboard showing potential prospects, lead scores, and follow-up recommendations.</p>
             </div>
          </div>
       </div>
@@ -2800,6 +2806,11 @@ function uiSwitch(btn, panelId) {
    border-radius: 50%;
    background: #e7e2fb;
    flex: 0 0 auto;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   color: #8b7fd6;
+   font-size: 18px;
 }
 .tst-person-name {
    font-family: Poppins, sans-serif;
@@ -2887,56 +2898,40 @@ function uiSwitch(btn, panelId) {
          <span class="tst-label">What Customers Say</span>
          <h2>See How Teams Use Imprint in Their Daily Operations</h2>
       </div>
-
-      <!-- Rating bar -->
-      <!-- <div class="tst-rating">
-         <div class="tst-rating-left">
-            <div class="tst-score">[4.x]</div>
-            <div>
-               <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-               <div class="tst-rating-sub">from [N] reviews on G2 and Capterra</div>
-            </div>
-         </div>
-         <div class="tst-badges">
-            <span class="tst-badge">[G2 badge]</span>
-            <span class="tst-badge">[Capterra badge]</span>
-         </div>
-      </div> -->
+ 
 
       <!-- Testimonial cards -->
       <div class="tst-grid">
          <div class="tst-card">
-            <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-            <p class="tst-quote">Building a solution for field sales executives is incredibly. I really appreciate the great work you’re doing Imprint AI.</p>
+            <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;</span>
+            <p class="tst-quote">Imprint app is very helpful for field force management. Real time location, Payment Collection history, online appointment scheduled, online meeting scheduled, and transparency is 💯 % . Travel history and distance report is also available.</p>
             <div class="tst-person">
-               <div class="tst-avatar"></div>
+               <div class="tst-avatar"><i class="fa fa-user"></i></div>
                <div>
-                  <div class="tst-person-name">[Full name]</div>
-                  <div class="tst-person-role">Sales Head, [Company]</div>
-               </div>
+                  <div class="tst-person-name">Ram Dayal</div>
+                </div>
             </div>
          </div>
          <div class="tst-card">
-            <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-            <p class="tst-quote">Imprint AI has given impetus to our team's sales performance by fool-proof monitoring of actual visits made by each field agent.
+            <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;</span>
+            <p class="tst-quote">Wonderful application to keep a count on teams progress and notify them for any task without distrubing their daily schedules.
 </p>
             <div class="tst-person">
-               <div class="tst-avatar"></div>
+               <div class="tst-avatar"><i class="fa fa-user"></i></div>
                <div>
-                  <div class="tst-person-name">[Full name]</div>
-                  <div class="tst-person-role">Field Operations Manager, [Company]</div>
-               </div>
+                  <div class="tst-person-name">Swati Tarun</div>
+                </div>
             </div>
          </div>
          <div class="tst-card">
             <span class="tst-stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-            <p class="tst-quote">Imprint AI reports a 90% reduction in attendance and payroll errors for a leading security services provider.</p>
+            <p class="tst-quote">Wonderful application to keep a count on teams progress and notify them for any task without distrubing their daily schedules
+</p>
             <div class="tst-person">
-               <div class="tst-avatar"></div>
+               <div class="tst-avatar"><i class="fa fa-user"></i></div>
                <div>
-                  <div class="tst-person-name">[Full name]</div>
-                  <div class="tst-person-role">Field Agent, [Company]</div>
-               </div>
+                  <div class="tst-person-name">Anju Allshikha</div>
+                </div>
             </div>
          </div>
       </div>
