@@ -1449,7 +1449,129 @@ setTimeout(ffmGenerateCaptcha, 500);
 
 </div><!-- .ffm-page -->
 
-
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://imprintai.us/field-force-management-software#webpage",
+      "url": "https://imprintai.us/field-force-management-software",
+      "name": "Field Force Management Software | Cut Costs & Boost Visibility | Imprint",
+      "description": "Imprint's field force management software reduces travel costs by 40% and admin overhead by 60%. Get live tracking, automated attendance and smarter reporting.",
+      "inLanguage": "en",
+      "about": { "@id": "https://imprintai.us/field-force-management-software#software" },
+      "primaryImageOfPage": {
+        "@type": "ImageObject",
+        "url": "https://imprintai.us/assets/images/Dashboard-lg.png"
+      },
+      "breadcrumb": { "@id": "https://imprintai.us/field-force-management-software#breadcrumb" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://imprintai.us/field-force-management-software#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://imprintai.us/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Field Force Management Software",
+          "item": "https://imprintai.us/field-force-management-software"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://imprintai.us/field-force-management-software#software",
+      "name": "Imprint Field Force Management Software",
+      "url": "https://imprintai.us/field-force-management-software",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Field Force Management",
+      "operatingSystem": "Web, Android, iOS",
+      "description": "One platform that brings together live GPS tracking, geo-tagged attendance, task management, and expense control, helping businesses cut travel costs by 40% and admin overhead by 60%.",
+      "image": "https://imprintai.us/assets/images/Dashboard-lg.png",
+      "screenshot": [
+        "https://imprintai.us/assets/images/Dashboard-lg.png",
+        "https://imprintai.us/assets/images/mobile-screen/mobile_dashboard.png",
+        "https://imprintai.us/assets/images/mobile-screen/taskmanagement.jpg",
+        "https://imprintai.us/assets/images/mobile-screen/addlead.jpg"
+      ],
+      "downloadUrl": [
+        "https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN",
+        "https://apps.apple.com/in/app/imprint-asti/id1204732517"
+      ],
+      "featureList": [
+        "Real-time GPS tracking and reporting",
+        "Geo-tagged attendance",
+        "Task and beat management",
+        "Lead management",
+        "Expense submission and approval",
+        "Client visit reports",
+        "Leave management",
+        "Service ticket updates",
+        "Performance analytics",
+        "Customizable alerts and notifications"
+      ],
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Businesses with mobile field workforces: banking, insurance, healthcare, pharmaceuticals, FMCG, logistics, telecom, agritech, real estate and solar energy"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://imprintai.us/field-force-management-software#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is field force management software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Field workforce management software helps businesses track, manage, and optimize their on-ground teams through GPS tracking, automated attendance, task assignment, beat planning, and performance reporting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Imprint track field agent attendance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Agents check in and out automatically based on GPS location, removing manual punch-ins and producing tamper-proof records at 98% accuracy."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Imprint be used across multiple industries?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Imprint's field force automation software serves any organization with a mobile workforce, including banking, healthcare, pharmaceuticals, FMCG, logistics, and agritech."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Imprint have a mobile app for field agents?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The field force management app covers task management, lead tracking, geo-tagged attendance, expense submission, and in-app reporting in one place."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does beat planning work in Imprint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Managers create optimized daily, weekly, or monthly routes for field agents, improving visit coverage and driving a 40% reduction in travel costs Imprint customers report."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <?php
 $this->load->view('footer/footer');
