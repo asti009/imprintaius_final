@@ -1842,4 +1842,149 @@ display: flex;
         
 </main>
 
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software#webpage",
+      "url": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software",
+      "name": "Field Force Management Software for Banks & NBFCs",
+      "description": "Manage loan sourcing, borrower verification and collections with Imprint AI's field force management software for banks, NBFCs and lending teams.",
+      "inLanguage": "en",
+      "about": { "@id": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software#software" },
+      "breadcrumb": { "@id": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software#breadcrumb" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://imprintai.us/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Industries",
+          "item": "https://imprintai.us/industries"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Bank & NBFCs",
+          "item": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software#software",
+      "name": "Imprint Field Force Management Software for Banks & NBFCs",
+      "url": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Banking and Lending Field Force Management",
+      "operatingSystem": "Web, Android, iOS",
+      "description": "Imprint's field force management platform configured for banks, NBFCs and lending teams, helping loan officers, verification officers and collection executives manage loan sourcing, borrower verification and collections in the field, while branch and regional managers review location, visit and performance data from a central dashboard.",
+      "downloadUrl": [
+        "https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN&gl=US",
+        "https://apps.apple.com/us/app/imprint-asti/id1204732517"
+      ],
+      "featureList": [
+        "Live location tracking and alerts",
+        "Geo-tagged visit verification",
+        "Smart lead and case allocation",
+        "Beat planning for collections",
+        "Dynamic digital forms",
+        "Manager dashboard and reports",
+        "Attendance and timesheets",
+        "Expense and conveyance management",
+        "Leave management",
+        "Task management",
+        "Built-in meetings and bulletins",
+        "Predictive insights"
+      ],
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Banks, NBFCs and lending teams: loan sourcing and sales officers, field verification officers, collection executives, and branch and regional managers"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://imprintai.us/industries/bank-nbfcs-field-force-management-software#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is field force management software for banks and NBFCs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Field force management software helps lending organisations plan, assign, monitor and report on activities performed by employees working outside branches."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Imprint AI help verify borrower visits?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint supports field visibility and geo-tagged visit records. Field officers can use configured digital workflows to record visit information, timestamps, locations and supporting photographs where these capabilities are enabled."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Imprint AI help improve loan collection operations?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint can support collection teams with beat planning, task assignments, field visibility and digital visit records. These capabilities help managers organise borrower follow-ups, review visit coverage and identify outstanding activities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Imprint AI integrate with our Loan Origination System or CRM?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint's industry-page materials describe connectivity with CRM and Loan Origination Systems. Confirm supported systems, integration methods, data requirements and implementation scope with the Imprint team before deployment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Imprint support loan sourcing as well as collections?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The lending-focused platform structure covers field activities across loan sourcing, borrower verification and collections, rather than limiting its use to collection executives alone."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are field expenses and reimbursements managed?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Field agents can submit expense details and supporting bills digitally through configured workflows. Trip and location information can help managers review conveyance claims and associated expenses, subject to the features enabled for the organisation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can managers monitor multiple branches and field teams?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint provides a management dashboard for reviewing field activities and workforce information. Confirm the availability of multi-branch views, regional reporting and role-based access requirements with the product team."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is Imprint AI a separate product for NBFCs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The supplied industry-page materials position Imprint as a common field force management platform configured for lending operations. Rather than requiring a separate platform for every industry, it brings together relevant workflows for the organisation's field teams."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <?php  $this->load->view('footer/footer'); ?>

@@ -1842,4 +1842,149 @@ display: flex;
         
 </main>
 
+<!-- Schema Markup -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://imprintai.us/industries/pharma-field-force-management-software#webpage",
+      "url": "https://imprintai.us/industries/pharma-field-force-management-software",
+      "name": "Pharma Field Force Management Software | Imprint AI",
+      "description": "Manage medical representatives, plan doctor visits, track field activities and capture doctor feedback with Imprint AI's pharma field force management software.",
+      "inLanguage": "en",
+      "about": { "@id": "https://imprintai.us/industries/pharma-field-force-management-software#software" },
+      "breadcrumb": { "@id": "https://imprintai.us/industries/pharma-field-force-management-software#breadcrumb" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://imprintai.us/industries/pharma-field-force-management-software#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://imprintai.us/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Industries",
+          "item": "https://imprintai.us/industries"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Pharma",
+          "item": "https://imprintai.us/industries/pharma-field-force-management-software"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://imprintai.us/industries/pharma-field-force-management-software#software",
+      "name": "Imprint Field Force Management Software for Pharma",
+      "url": "https://imprintai.us/industries/pharma-field-force-management-software",
+      "applicationCategory": "BusinessApplication",
+      "applicationSubCategory": "Pharma Field Force Management",
+      "operatingSystem": "Web, Android, iOS",
+      "description": "Imprint's field force management platform configured for pharmaceutical companies, helping medical representatives plan doctor visits, manage territories, capture doctor feedback and record field activities, while sales managers review location, attendance, visit and performance data from a central dashboard.",
+      "downloadUrl": [
+        "https://play.google.com/store/apps/details?id=com.astiinfotech.Imprint&hl=en_IN&gl=US",
+        "https://apps.apple.com/us/app/imprint-asti/id1204732517"
+      ],
+      "featureList": [
+        "Live location tracking and alerts",
+        "Geo-tagged visit verification",
+        "Doctor and customer visit management",
+        "Beat planning and appointment scheduling",
+        "Dynamic digital forms for doctor feedback",
+        "Manager dashboard and reports",
+        "Attendance and timesheets",
+        "Expense and conveyance management",
+        "Leave management",
+        "Task management",
+        "Built-in meetings and bulletins",
+        "Predictive insights"
+      ],
+      "audience": {
+        "@type": "BusinessAudience",
+        "audienceType": "Pharmaceutical companies: medical representatives, pharma sales managers, regional sales managers and field operations teams"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://imprintai.us/industries/pharma-field-force-management-software#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is pharma field force management software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pharma field force management software helps pharmaceutical companies organise medical representatives' schedules, track field activities, manage doctor visits and maintain digital reports."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How does Imprint AI help pharmaceutical companies manage medical representatives?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint provides field workforce management capabilities such as location tracking, attendance, beat planning, digital forms and reporting. These tools help sales managers review field activities and enable representatives to record relevant visit information through digital workflows."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Imprint AI help plan doctor visits and routes?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint supports beat planning and appointment scheduling for field teams. Pharmaceutical companies can use these capabilities to organise representative schedules, coordinate visits across territories and review visit completion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can medical representatives record doctor feedback digitally?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint's dynamic digital forms can support structured information capture. Teams can configure relevant forms for visit records and field observations, subject to the platform's available functionality and implementation requirements."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How can sales managers monitor field representative performance?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Managers can review available location information, attendance, visit records and field activity reports through the management dashboard. These records help them assess territory coverage and identify activities that may require follow-up."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does Imprint AI support paperless field reporting?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint supports digital forms and document handling, helping representatives record field information and upload relevant supporting materials. This can reduce dependence on paper-based documentation and repetitive manual data entry."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can Imprint AI help manage field expenses?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint includes expense management capabilities that can support digital expense submissions and reimbursement workflows. Confirm the available travel calculation, receipt capture and approval features with the Imprint team."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can pharma sales managers communicate with medical representatives through Imprint?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Imprint's supplied product information includes digital meetings and bulletin functionality. These tools can support team coordination and the sharing of operational updates, depending on the features enabled for your organisation."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <?php  $this->load->view('footer/footer'); ?>
