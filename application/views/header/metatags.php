@@ -57,7 +57,7 @@
 
 <?php }?>
 
-<?php if($this->uri->segment(1)=='industries'){ ?>
+<?php if($this->uri->segment(1)=='industries' && $this->uri->segment(2)==''){ ?>
 <title>Industry</title>
 <meta charset="utf-8" name="description" content="Increase your ROI with our AI-based industry-specific Salesforce Management solution which provides salesforce automation that addresses daily challenges, and manages resources for you.">
 <link rel="canonical" href="https://imprintai.us/industries" />
