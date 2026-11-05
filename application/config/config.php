@@ -40,7 +40,7 @@ $config['is_development'] = FALSE;  // Change to TRUE for local development
 |
 */
 if ($config['is_development']) {
-    $config['base_url'] = 'http://localhost/imprintatus_final_21_10/';
+    $config['base_url'] = 'http://localhost:8080/imprintatus_final_21_10/';
 } else {
     $config['base_url'] = 'https://imprintai.us/';
 }
